@@ -1,5 +1,5 @@
 :root {
-    --primary: #86B817;
+    --primary: #1b1b92;
     --secondary: #FE8800;
     --light: #F5F5F5;
     --dark: #14141F;
@@ -149,6 +149,10 @@
     color: var(--bs-secondary) !important;
 }
 
+.top--bar{
+    background-color:#111161 ;
+}
+
 
 @media (max-width: 768px) {
     .topbar {
@@ -178,7 +182,7 @@
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-    color: var(--primary) !important;
+    color: #0000fe !important;
 }
 
 .navbar-light .navbar-brand img {
@@ -235,7 +239,7 @@
         height: 2px;
         bottom: -1px;
         left: 50%;
-        background: var(--primary);
+        background: #0000fe;
         transition: .5s;
     }
 
@@ -498,6 +502,7 @@
 .destination .tab-class .nav-item {
     padding: 0 0 20px 0;
 }
+
 .destination .tab-class .nav-item a.active {
     background: var(--bs-primary) !important;
 }
@@ -1264,4 +1269,19 @@
     height: 5rem;
 }
 
+.dropdown-item:hover{
+    background-color: #0000fe;
+    color: #fff;
+}
 
+.swap--btn:hover{
+ background-color: var(--bs-primary);
+}
+
+.copy--link{
+    color: var(-- --bs-white);
+}
+
+.copy--link:hover{
+color: var(--primary);
+}
