@@ -1403,3 +1403,107 @@ color: var(--primary);
 .btn--submit{
     background-color: #0000fe;
 }
+
+.pack_back{
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 54, 123, 0.5)), url(../img/3413835.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 50rem;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pack--div{
+    width: 65%;
+    background: rgb(0,0,0,0.1);
+    border-radius: 2rem;
+    border: solid rgba(255, 255, 255, .1);
+    backdrop-filter: blur(25px);
+    box-shadow: 0px 0px 30px 20px rgb(0,0,0,0.1);
+}
+
+.wrapper{
+    display: flex;
+    opacity: 0;
+    transform: translateY(-200%);
+    animation: fall 2s ease forwards;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  @keyframes fall {
+    0% {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+  .wrapper .static-txt{
+    color: #fff;
+    font-size: 4rem;
+    font-weight: 400;
+  }
+  .wrapper .dynamic-txts{
+    /* margin-left: 15px; */
+    height: 5rem;
+    line-height: 5rem;
+    overflow: hidden;
+  }
+  .dynamic-txts li{
+    list-style: none;
+    color: var(--primary);
+    font-size: 4rem;
+    font-weight: 600;
+    position: relative;
+    top: 0;
+    animation: slide 12s steps(4) infinite;
+    text-align: left;
+  }
+  @keyframes slide {
+    100%{
+      top: -360px;
+    }
+  }
+  .dynamic-txts li span{
+    position: relative;
+    /* margin: 5px 0; */
+    line-height: 90px;
+  }
+  .dynamic-txts li span::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #377a8f;
+    border-left: 2px solid rgba(255, 255, 255, .3);
+    animation: typing 3s steps(10) infinite;
+  }
+  @keyframes typing {
+    40%, 60%{
+      left: calc(100% + 30px);
+    }
+    100%{
+      left: 0;
+    }
+  }
+
+
+  @media screen and (max-width:1399px) {
+    .wrapper{
+        display: flex;
+        flex-direction: column;
+    }
+  }
