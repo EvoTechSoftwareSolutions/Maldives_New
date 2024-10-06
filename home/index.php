@@ -3,12 +3,12 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Travela - Tourism Website Template</title>
+    <title>dodo Travel</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <!-- <meta content="" name="keywords">
+    <meta content="" name="description"> -->
 
-    <link rel="icon" href="img/logo.png">
+    <link rel="icon" href="../img/logo.png">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,29 +20,29 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
-    <link href="lib/animate/animate.min.css" rel="stylesheet">
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
+    <link href="../lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <link href="../lib/animate/animate.min.css" rel="stylesheet">
+    <link href="../lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="../lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
 
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="../css/style.css" rel="stylesheet">
 </head>
 
 <body>
 
     <!-- Spinner Start -->
-    <div id="spinner"
+    <!-- <div id="spinner"
         class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
             <span class="sr-only">Loading...</span>
         </div>
-    </div>
+    </div> -->
     <!-- Spinner End -->
 
     <!-- Topbar Start -->
@@ -79,9 +79,9 @@
     <!-- Navbar & Hero Start -->
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
-            <a href="index.html" class="navbar-brand p-0">
+            <a href="index.php" class="navbar-brand p-0">
                 <h1 class="text-primary m-0"><i class="fa me-3">
-                        <img src="img/logo.png" class="header--logo">
+                        <img src="../img/logo.png" class="header--logo">
                     </i><span style="color: #fe6100;">dodo</span><span style="color: #0000fe;">Travel</span></h1>
                 <!-- <img src="img/logo.png" alt="Logo"> -->
             </a>
@@ -90,23 +90,23 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
-                    <a href="index.html" class="nav-item nav-link active">Home</a>
-                    <a href="packages.html" class="nav-item nav-link">Packages</a>
+                    <a href="#" class="nav-item nav-link active">Home</a>
+                    <a href="../packages.php" class="nav-item nav-link">Packages</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destination</a>
                         <div class="dropdown-menu m-0">
-                            <a href="destination.html" class="dropdown-item">Destination</a>
+                            <a href="destination.php" class="dropdown-item">Destination</a>
                             <span class="dropdown-header" style="font-size: 1rem;">Accommodations
-                                <a href="accommodations.html#maldives" class="dropdown-item">Maldives</a>
-                                <a href="accommodations.html#lanka" class="dropdown-item">Sri Lanka</a>
+                                <a href="../accommodations.php#maldives" class="dropdown-item">Maldives</a>
+                                <a href="../accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
                             </span>
-                            <a href="gallery.html" class="dropdown-item">Gallery</a>
+                            <a href="../gallery.php" class="dropdown-item">Gallery</a>
                         </div>
                     </div>
-                    <a href="about.html" class="nav-item nav-link">About</a>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
+                    <a href="../about.php" class="nav-item nav-link">About</a>
+                    <a href="../contact.php" class="nav-item nav-link">Contact</a>
                 </div>
-                <a href="index.html#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
+                <a href="../index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
             </div>
         </nav>
 
@@ -121,7 +121,7 @@
                 </ol>
                 <div class="carousel-inner" role="listbox">
                     <div class="carousel-item active">
-                        <img src="img/carousel-1.png" class="img-fluid" alt="Image">
+                        <img src="../img/carousel-1.png" class="img-fluid" alt="Image">
                         <div class="carousel-caption">
                             <div class="p-3" style="max-width: 900px;">
                                 <h6 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore
@@ -132,14 +132,14 @@
                                 </p>
                                 <div class="d-flex align-items-center justify-content-center">
                                     <a class="btn-hover-bg btn btn-primary rounded-pill text-white py-3 px-5"
-                                        href="index.html#bookTour">Book Now</a>
+                                        href="index.php#bookTour">Book Now</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img/carousel-2.png" class="img-fluid" alt="Image">
+                    <img src="../img/carousel-2.png" class="img-fluid" alt="Image">
                     <div class="carousel-caption">
                         <div class="p-3" style="max-width: 900px;">
                             <h6 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore
@@ -151,13 +151,13 @@
                             </p>
                             <div class="d-flex align-items-center justify-content-center">
                                 <a class="btn-hover-bg btn btn-primary rounded-pill text-white py-3 px-5"
-                                    href="index.html#bookTour">Book Now</a>
+                                    href="index.php#bookTour">Book Now</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img/carousel-3.png" class="img-fluid" alt="Image">
+                    <img src="../img/carousel-3.png" class="img-fluid" alt="Image">
                     <div class="carousel-caption">
                         <div class="p-3" style="max-width: 900px;">
                             <h6 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore
@@ -169,13 +169,13 @@
                             </p>
                             <div class="d-flex align-items-center justify-content-center">
                                 <a class="btn-hover-bg btn btn-primary rounded-pill text-white py-3 px-5"
-                                    href="index.html#bookTour">Book Now</a>
+                                    href="index.php#bookTour">Book Now</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img/carousel-4.png" class="img-fluid" alt="Image">
+                    <img src="../img/carousel-4.png" class="img-fluid" alt="Image">
                     <div class="carousel-caption">
                         <div class="p-3" style="max-width: 900px;">
                             <h6 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore
@@ -187,7 +187,7 @@
                             </p>
                             <div class="d-flex align-items-center justify-content-center">
                                 <a class="btn-hover-bg btn btn-primary rounded-pill text-white py-3 px-5"
-                                    href="index.html#bookTour">Book Now</a>
+                                    href="index.php#bookTour">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -213,7 +213,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
                     <div class="position-relative h-100">
-                        <img class="img-fluid position-absolute w-100 h-100" src="img/aboutus1.png" alt=""
+                        <img class="img-fluid position-absolute w-100 h-100" src="../img/aboutus1.png" alt=""
                             style="object-fit: cover; border-radius: 2rem 0rem 0rem 0rem;">
                     </div>
                 </div>
@@ -268,7 +268,7 @@
                                     class="fa fa-globe text-primary"></i>&nbsp;Customized Tours & Experiences</p>
                         </div>
                     </div>
-                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-2" href="about.html">Read More</a>
+                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-2" href="about.php">Read More</a>
                 </div>
             </div>
         </div>
@@ -400,7 +400,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="btn btn-primary rounded-pill py-2 px-5 mx-3" href="destination.html">View All</a>
+                        <a class="btn btn-primary rounded-pill py-2 px-5 mx-3" href="../destination.php">View All</a>
                     </li>
                 </ul>
                 <div class="tab-content">
@@ -408,7 +408,7 @@
                         <div class="row g-4">
                             <div class="col-xl-4 wow zoomIn" data-wow-delay="0.1s">
                                 <div class="destination-img h-100">
-                                    <img class="img-fluid rounded w-100 h-100" src="img/destination/mal4.png" alt="">
+                                    <img class="img-fluid rounded w-100 h-100" src="../img/destination/mal4.png" alt="">
                                     <div class="destination-overlay p-4">
                                         <h4 class="text-white mb-2 mt-3">Ari Atoll</h4>
                                         <span class="text-white">
@@ -416,12 +416,12 @@
                                             spots. The waters here are home to a variety of marine species,
                                             including whale...
                                         </span>
-                                        <a href="destination.html#male1" class="btn-hover"
+                                        <a href="destination.php#male1" class="btn-hover"
                                             style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                 class="bi bi-caret-right-fill"></i></a>
                                     </div>
                                     <div class="search-icon">
-                                        <a href="img/destination-2.jpg" data-lightbox="destination-2"><i
+                                        <a href="../img/destination-2.jpg" data-lightbox="destination-2"><i
                                                 class="text-dark"></i></a>
                                     </div>
                                 </div>
@@ -430,7 +430,7 @@
                                 <div class="row g-4">
                                     <div class="col-lg-6 wow zoomIn" data-wow-delay="0.1s">
                                         <div class="destination-img">
-                                            <img class="img-fluid rounded w-100" src="img/destination/mal2.png" alt="">
+                                            <img class="img-fluid rounded w-100" src="../img/destination/mal2.png" alt="">
                                             <div class="destination-overlay p-4">
                                                 <h4 class="text-white mb-2 mt-3">Maafushi</h4>
                                                 <span class="text-white">
@@ -438,19 +438,19 @@
                                                     experience. Known for its beautiful beaches and budget-friendly
                                                     guesthouses, visitors...
                                                 </span>
-                                                <a href="destination.html#male2" class="btn-hover"
+                                                <a href="destination.php#male2" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
                                             <div class="search-icon">
-                                                <a href="img/destination-2.jpg" data-lightbox="destination-2"><i
+                                                <a href="../img/destination-2.jpg" data-lightbox="destination-2"><i
                                                         class="text-dark"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 wow zoomIn" data-wow-delay="0.3s">
                                         <div class="destination-img">
-                                            <img class="img-fluid rounded w-100" src="img/destination/mal3.png" alt="">
+                                            <img class="img-fluid rounded w-100" src="../img/destination/mal3.png" alt="">
                                             <div class="destination-overlay p-4">
                                                 <h4 class="text-white mb-2 mt-3">Baa Atoll</h4>
                                                 <span class="text-white">
@@ -458,19 +458,19 @@
                                                     biodiversity, including Hanifaru Bay, known for seasonal manta ray
                                                     gatherings...
                                                 </span>
-                                                <a href="destination.html#male3" class="btn-hover"
+                                                <a href="destination.php#male3" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
                                             <div class="search-icon">
-                                                <a href="img/destination-2.jpg" data-lightbox="destination-2"><i
+                                                <a href="../img/destination-2.jpg" data-lightbox="destination-2"><i
                                                         class="text-dark"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 wow zoomIn" data-wow-delay="0.5s">
                                         <div class="destination-img">
-                                            <img class="img-fluid rounded w-100" src="img/destination/mal1.png" alt="">
+                                            <img class="img-fluid rounded w-100" src="../img/destination/mal1.png" alt="">
                                             <div class="destination-overlay p-4">
                                                 <h4 class="text-white mb-2 mt-3">Malé</h4>
                                                 <span class="text-white">
@@ -480,19 +480,19 @@
                                                     vibrant
                                                     fish...
                                                 </span>
-                                                <a href="destination.html#male4" class="btn-hover"
+                                                <a href="destination.php#male4" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
                                             <div class="search-icon">
-                                                <a href="img/destination-2.jpg" data-lightbox="destination-2"><i
+                                                <a href="../img/destination-2.jpg" data-lightbox="destination-2"><i
                                                         class="text-dark"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 wow zoomIn" data-wow-delay="0.7s">
                                         <div class="destination-img">
-                                            <img class="img-fluid rounded w-100" src="img/destination/mal5.png" alt="">
+                                            <img class="img-fluid rounded w-100" src="../img/destination/mal5.png" alt="">
                                             <div class="destination-overlay p-4">
                                                 <h4 class="text-white mb-2 mt-3">Fuvahmulah</h4>
                                                 <span class="text-white">
@@ -500,12 +500,12 @@
                                                     freshwater lakes and lush greenery. It is known for its incredible
                                                     diving experiences,...
                                                 </span>
-                                                <a href="destination.html#male5" class="btn-hover"
+                                                <a href="destination.php#male5" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
                                             <div class="search-icon">
-                                                <a href="img/destination-2.jpg" data-lightbox="destination-2"><i
+                                                <a href="../img/destination-2.jpg" data-lightbox="destination-2"><i
                                                         class="text-dark"></i></a>
                                             </div>
                                         </div>
@@ -520,7 +520,7 @@
                                 <div class="row g-4">
                                     <div class="col-lg-6 wow zoomIn" data-wow-delay="0.1s">
                                         <div class="destination-img">
-                                            <img class="img-fluid rounded w-100" src="img/destination/des1.png" alt="">
+                                            <img class="img-fluid rounded w-100" src="../img/destination/des1.png" alt="">
                                             <div class="destination-overlay p-4">
                                                 <h4 class="text-white mb-2 mt-3">Sigiriya</h4>
                                                 <span class="text-white">
@@ -528,19 +528,19 @@
                                                     Heritage Site known for its ancient rock fortress that rises
                                                     dramatically above the jungle...
                                                 </span>
-                                                <a href="destination.html#lanka1" class="btn-hover"
+                                                <a href="destination.php#lanka1" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
                                             <div class="search-icon">
-                                                <a href="img/destination-2.jpg" data-lightbox="destination-2"><i
+                                                <a href="../img/destination-2.jpg" data-lightbox="destination-2"><i
                                                         class="text-dark"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 wow zoomIn" data-wow-delay="0.3s">
                                         <div class="destination-img">
-                                            <img class="img-fluid rounded w-100" src="img/destination/des2.png" alt="">
+                                            <img class="img-fluid rounded w-100" src="../img/destination/des2.png" alt="">
                                             <div class="destination-overlay p-4">
                                                 <h4 class="text-white mb-2 mt-3">Ella</h4>
                                                 <span class="text-white">
@@ -548,19 +548,19 @@
                                                     breathtaking scenery and lush tea plantations. Hiking enthusiasts
                                                     can trek to Ella Rock or Little...
                                                 </span>
-                                                <a href="destination.html#lanka2" class="btn-hover"
+                                                <a href="destination.php#lanka2" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
                                             <div class="search-icon">
-                                                <a href="img/destination-2.jpg" data-lightbox="destination-2"><i
+                                                <a href="../img/destination-2.jpg" data-lightbox="destination-2"><i
                                                         class="text-dark"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 wow zoomIn" data-wow-delay="0.5s">
                                         <div class="destination-img">
-                                            <img class="img-fluid rounded w-100" src="img/destination/des3.png" alt="">
+                                            <img class="img-fluid rounded w-100" src="../img/destination/des3.png" alt="">
                                             <div class="destination-overlay p-4">
                                                 <h4 class="text-white mb-2 mt-3">Kandy</h4>
                                                 <span class="text-white">
@@ -568,12 +568,12 @@
                                                     Temple of the Tooth Relic, which houses a relic of the Buddha. The
                                                     city is surrounded by lush...
                                                 </span>
-                                                <a href="destination.html#lanka3" class="btn-hover"
+                                                <a href="destination.php#lanka3" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
                                             <div class="search-icon">
-                                                <a href="img/destination-2.jpg" data-lightbox="destination-2"><i
+                                                <a href="../img/destination-2.jpg" data-lightbox="destination-2"><i
                                                         class="text-dark"></i></a>
                                             </div>
 
@@ -581,7 +581,7 @@
                                     </div>
                                     <div class="col-lg-6 wow zoomIn" data-wow-delay="0.7s">
                                         <div class="destination-img">
-                                            <img class="img-fluid rounded w-100" src="img/destination/des4.png" alt="">
+                                            <img class="img-fluid rounded w-100" src="../img/destination/des4.png" alt="">
                                             <div class="destination-overlay p-4">
                                                 <h4 class="text-white mb-2 mt-3">Galle</h4>
                                                 <span class="text-white">
@@ -589,12 +589,12 @@
                                                     historic city located on the southwestern coast. The Galle Fort, a
                                                     UNESCO World Heritage...
                                                 </span>
-                                                <a href="destination.html#lanka4" class="btn-hover"
+                                                <a href="destination.php#lanka4" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
                                             <div class="search-icon">
-                                                <a href="img/destination-2.jpg" data-lightbox="destination-2"><i
+                                                <a href="../img/destination-2.jpg" data-lightbox="destination-2"><i
                                                         class="text-dark"></i></a>
                                             </div>
                                         </div>
@@ -603,7 +603,7 @@
                             </div>
                             <div class="col-xl-4  wow zoomIn" data-wow-delay="0.7s">
                                 <div class="destination-img h-100">
-                                    <img class="img-fluid rounded w-100 h-100" src="img/destination/des5.png"
+                                    <img class="img-fluid rounded w-100 h-100" src="../img/destination/des5.png"
                                         style="object-fit: cover; min-height: 300px;" alt="">
                                     <div class="destination-overlay p-4">
                                         <h4 class="text-white mb-2 mt-3">Nuwara Eliya</h4>
@@ -612,12 +612,12 @@
                                             climate, lush tea estates, and colonial architecture. Visitors can tour
                                             tea...
                                         </span>
-                                        <a href="destination.html#lanka5" class="btn-hover"
+                                        <a href="destination.php#lanka5" class="btn-hover"
                                             style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                 class="bi bi-caret-right-fill"></i></a>
                                     </div>
                                     <div class="search-icon">
-                                        <a href="img/destination-2.jpg" data-lightbox="destination-2"><i
+                                        <a href="../img/destination-2.jpg" data-lightbox="destination-2"><i
                                                 class="text-dark"></i></a>
                                     </div>
                                 </div>
@@ -1005,7 +1005,7 @@
                                 <a href="#" class="btn-hover btn text-white py-2 px-4">Read More</a>
                             </div>
                             <div class="col-6 text-end px-0">
-                                <a href="index.html#bookTour" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                <a href="index.php#bookTour" class="btn-hover btn text-white py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -1042,7 +1042,7 @@
                                 <a href="#" class="btn-hover btn text-white py-2 px-4">Read More</a>
                             </div>
                             <div class="col-6 text-end px-0">
-                                <a href="index.html#bookTour" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                <a href="index.php#bookTour" class="btn-hover btn text-white py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -1079,7 +1079,7 @@
                                 <a href="#" class="btn-hover btn text-white py-2 px-4">Read More</a>
                             </div>
                             <div class="col-6 text-end px-0">
-                                <a href="index.html#bookTour" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                <a href="index.php#bookTour" class="btn-hover btn text-white py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -1116,7 +1116,7 @@
                                 <a href="#" class="btn-hover btn text-white py-2 px-4">Read More</a>
                             </div>
                             <div class="col-6 text-end px-0">
-                                <a href="index.html#bookTour" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                <a href="index.php#bookTour" class="btn-hover btn text-white py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -1162,170 +1162,170 @@
                     <div class="row g-2">
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/MH1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/MH1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#maldives" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#maldives" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/MH1.jpg" data-lightbox="MH1" class="my-auto"><i
+                                    <a href="../img/gallery/MH1.jpg" data-lightbox="MH1" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/MH2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/MH2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
-                                    <div class="gallery-info">
+                                    <div class="../gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#maldives" class="btn-hover text-white">View All <i
+                                            <a href="gallery.php/#maldives" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/MH2.jpg" data-lightbox="MH2" class="my-auto"><i
+                                    <a href="../img/gallery/MH2.jpg" data-lightbox="MH2" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/MH3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/MH3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#maldives" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#maldives" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/MH3.jpg" data-lightbox="MH3" class="my-auto"><i
+                                    <a href="../img/gallery/MH3.jpg" data-lightbox="MH3" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/MH4.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/MH4.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#maldives" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#maldives" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/MH4.jpg" data-lightbox="MH4" class="my-auto"><i
+                                    <a href="../img/gallery/MH4.jpg" data-lightbox="MH4" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/MH5.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/MH5.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#maldives" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#maldives" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/MH5.jpg" data-lightbox="MH5" class="my-auto"><i
+                                    <a href="../img/gallery/MH5.jpg" data-lightbox="MH5" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/MH6.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/MH6.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#maldives" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#maldives" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/MH6.jpg" data-lightbox="MH6" class="my-auto"><i
+                                    <a href="../img/gallery/MH6.jpg" data-lightbox="MH6" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/MH7.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/MH7.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#maldives" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#maldives" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/MH7.jpg" data-lightbox="MH7" class="my-auto"><i
+                                    <a href="../img/gallery/MH7.jpg" data-lightbox="MH7" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-3 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/MH8.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/MH8.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#maldives" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#maldives" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/MH8.jpg" data-lightbox="MH8" class="my-auto"><i
+                                    <a href="../img/gallery/MH8.jpg" data-lightbox="MH8" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/MH9.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/MH9.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#maldives" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#maldives" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/MH9.jpg" data-lightbox="MH9" class="my-auto"><i
+                                    <a href="../img/gallery/MH9.jpg" data-lightbox="MH9" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-3 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/MH10.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/MH10.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#maldives" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#maldives" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/MH10.jpg" data-lightbox="MH10" class="my-auto"><i
+                                    <a href="../img/gallery/MH10.jpg" data-lightbox="MH10" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
@@ -1336,204 +1336,204 @@
                     <div class="row g-2">
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/SG1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/SG1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#lanka" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/SG1.jpg" data-lightbox="SG1" class="my-auto"><i
+                                    <a href="../img/gallery/SG1.jpg" data-lightbox="SG1" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/SG11.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/SG11.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#lanka" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/SG11.jpg" data-lightbox="SG11" class="my-auto"><i
+                                    <a href="../img/gallery/SG11.jpg" data-lightbox="SG11" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/SU10.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/SU10.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#lanka" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/SU10.jpg" data-lightbox="SU10" class="my-auto"><i
+                                    <a href="../img/gallery/SU10.jpg" data-lightbox="SU10" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/SM4.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/SM4.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#lanka" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/SM4.jpg" data-lightbox="SM4" class="my-auto"><i
+                                    <a href="../img/gallery/SM4.jpg" data-lightbox="SM4" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/SK9.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/SK9.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#lanka" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/SK9.jpg" data-lightbox="SK9" class="my-auto"><i
+                                    <a href="../img/gallery/SK9.jpg" data-lightbox="SK9" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/SG2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/SG2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#lanka" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/SG2.jpg" data-lightbox="SG2" class="my-auto"><i
+                                    <a href="../img/gallery/SG2.jpg" data-lightbox="SG2" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/SG5.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/SG5.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#lanka" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/SG5.jpg" data-lightbox="SG5" class="my-auto"><i
+                                    <a href="../img/gallery/SG5.jpg" data-lightbox="SG5" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/SK1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/SK1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#lanka" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/SK1.jpg" data-lightbox="SK1" class="my-auto"><i
+                                    <a href="../img/gallery/SK1.jpg" data-lightbox="SK1" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/SM1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/SM1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#lanka" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/SM1.jpg" data-lightbox="SM1" class="my-auto"><i
+                                    <a href="../img/gallery/SM1.jpg" data-lightbox="SM1" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="gallery-item h-100">
-                                <img src="img/gallery/SM7.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <img src="../img/gallery/SM7.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                 <div class="gallery-content">
                                     <div class="gallery-info">
                                         <h6 class="text-white text-uppercase mb-2">
-                                            <a href="gallery.html/#lanka" class="btn-hover text-white">View All <i
+                                            <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
                                                     class="bi bi-caret-right-fill"></i></a>
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="gallery-plus-icon">
-                                    <a href="img/gallery/SM7.jpg" data-lightbox="SM7" class="my-auto"><i
+                                    <a href="../img/gallery/SM7.jpg" data-lightbox="SM7" class="my-auto"><i
                                             class="fas fa-plus fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s"">
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class=" gallery-item h-100">
-                            <img src="img/gallery/SU1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                            <img src="../img/gallery/SU1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                             <div class="gallery-content">
                                 <div class="gallery-info">
                                     <h6 class="text-white text-uppercase mb-2">
-                                        <a href="gallery.html/#lanka" class="btn-hover text-white">View All <i
+                                        <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
                                                 class="bi bi-caret-right-fill"></i></a>
                                     </h6>
                                 </div>
                             </div>
                             <div class="gallery-plus-icon">
-                                <a href="img/gallery/SU1.jpg" data-lightbox="SU1" class="my-auto"><i
+                                <a href="../img/gallery/SU1.jpg" data-lightbox="SU1" class="my-auto"><i
                                         class="fas fa-plus fa-2x text-white"></i></a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="gallery-item h-100">
-                            <img src="img/gallery/SU4.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                            <img src="../img/gallery/SU4.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                             <div class="gallery-content">
                                 <div class="gallery-info">
                                     <h6 class="text-white text-uppercase mb-2">
-                                        <a href="gallery.html/#lanka" class="btn-hover text-white">View All <i
+                                        <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
                                                 class="bi bi-caret-right-fill"></i></a>
                                     </h6>
                                 </div>
                             </div>
                             <div class="gallery-plus-icon">
-                                <a href="img/gallery/SU4.jpg" data-lightbox="SU4" class="my-auto"><i
+                                <a href="../img/gallery/SU4.jpg" data-lightbox="SU4" class="my-auto"><i
                                         class="fas fa-plus fa-2x text-white"></i></a>
                             </div>
                         </div>
@@ -1566,49 +1566,48 @@
                     <h1 class="text-white mb-3">Book Your Tour</h1>
                     <p class="text-white mb-4">Secure your dream vacation today! Enjoy exclusive deals and personalized
                         itineraries tailored just for you.</p>
-                    <form>
+                    <form action="POST">
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <input type="text" class="form-control bg-white border-0" id="name"
                                         placeholder="Your Name">
-                                    <label for="name">Your Name</label>
+                                    <label for="name">Your Name <span class="starlabel">*</span></label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <input type="email" class="form-control bg-white border-0" id="email"
                                         placeholder="Your Email">
-                                    <label for="email">Your Email</label>
+                                    <label for="email">Your Email <span class="starlabel">*</span></label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating date" id="date3" data-target-input="nearest">
-                                    <input type="text" class="form-control bg-white border-0" id="datetime"
-                                        placeholder="Date & Time" data-target="#date3" data-toggle="datetimepicker" />
-                                    <label for="datetime">Date & Time</label>
+                                    <input type="date" class="form-control bg-white border-0" id="datetime"
+                                        placeholder="Date" data-target="#date3" data-toggle="datetimepicker" />
+                                    <label for="datetime">Date <span class="starlabel">*</span></label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <select class="form-select bg-white border-0" id="select1">
-                                        <option value="1">Destination 1</option>
-                                        <option value="2">Destination 2</option>
-                                        <option value="3">Destination 3</option>
+                                        <option value="1">Maldives</option>
+                                        <option value="2">Sri Lanka</option>
                                     </select>
-                                    <label for="select1">Destination</label>
+                                    <label for="select1">Destination <span class="starlabel">*</span></label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating date" id="date3" data-target-input="nearest">
-                                    <input type="text" class="form-control bg-white border-0" id="datetime"
+                                    <input type="text" class="form-control bg-white border-0" id="person"
                                         placeholder="No. of Persons">
-                                    <label for="person">No. of Persons</label>
+                                    <label for="person">No. of Persons <span class="starlabel">*</span></label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating date" id="date3" data-target-input="nearest">
-                                    <input type="text" class="form-control bg-white border-0" id="datetime"
+                                    <input type="text" class="form-control bg-white border-0" id="kids"
                                         placeholder="No. of Kids">
                                     <label for="kids">No. of Kids</label>
                                 </div>
@@ -1621,8 +1620,8 @@
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-primary text-white w-100 py-3 btn--submit" type="submit">Book
-                                    Now</button>
+                                <span class="btn btn-primary text-white w-100 py-3 btn--submit" type="submit" id="btn" onclick="sendRequest();">Book
+                                    Now</span>
                             </div>
                         </div>
                     </form>
@@ -1954,12 +1953,12 @@
                     <div class="footer-item d-flex flex-column">
                         <h4 class="mb-4 text-white">Quick Links</h4>
                         <a href="#"><i class="fas fa-angle-right me-2"></i> Home</a>
-                        <a href="packages.html"><i class="fas fa-angle-right me-2"></i> Packages</a>
-                        <a href="destination.html"><i class="fas fa-angle-right me-2"></i> Destinations</a>
-                        <a href="accommodations.html"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
-                        <a href="gallery.html"><i class="fas fa-angle-right me-2"></i> Gallery</a>
-                        <a href="about.html"><i class="fas fa-angle-right me-2"></i> About</a>
-                        <a href="contact.html"><i class="fas fa-angle-right me-2"></i> Contact</a>
+                        <a href="packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
+                        <a href="destination.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
+                        <a href="accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
+                        <a href="gallery.php"><i class="fas fa-angle-right me-2"></i> Gallery</a>
+                        <a href="about.php"><i class="fas fa-angle-right me-2"></i> About</a>
+                        <a href="contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
@@ -2053,10 +2052,13 @@
     <script src="lib/tempusdominus/js/moment.min.js"></script>
     <script src="lib/tempusdominus/js/moment-timezone.min.js"></script>
     <script src="lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 
     <!-- Template Javascript -->
+    <script src="script.js"></script>
     <script src="js/main.js"></script>
+    
 </body>
 
 </html>

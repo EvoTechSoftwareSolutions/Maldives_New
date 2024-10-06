@@ -76,7 +76,7 @@
     <!-- Navbar & Hero Start -->
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
-            <a href="index.html" class="navbar-brand p-0">
+            <a href="index.php" class="navbar-brand p-0">
                 <h1 class="text-primary m-0"><i class="fa me-3">
                         <img src="img/logo.png" class="header--logo">
                     </i><span style="color: #fe6100;">dodo</span><span style="color: #0000fe;">Travel</span></h1>
@@ -87,23 +87,23 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
-                    <a href="index.html" class="nav-item nav-link">Home</a>
-                    <a href="packages.html" class="nav-item nav-link active">Packages</a>
+                    <a href="index.php" class="nav-item nav-link">Home</a>
+                    <a href="packages.php" class="nav-item nav-link active">Packages</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destination</a>
                         <div class="dropdown-menu m-0">
-                            <a href="destination.html" class="dropdown-item">Destination</a>
+                            <a href="destination.php" class="dropdown-item">Destination</a>
                             <span class="dropdown-header" style="font-size: 1rem;">Accommodations
-                                <a href="accommodations.html#maldives" class="dropdown-item">Maldives</a>
-                                <a href="accommodations.html#lanka" class="dropdown-item">Sri Lanka</a>
+                                <a href="accommodations.php#maldives" class="dropdown-item">Maldives</a>
+                                <a href="accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
                             </span>
-                            <a href="gallery.html" class="dropdown-item">Gallery</a>
+                            <a href="gallery.php" class="dropdown-item">Gallery</a>
                         </div>
                     </div>
-                    <a href="about.html" class="nav-item nav-link">About</a>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
+                    <a href="about.php" class="nav-item nav-link">About</a>
+                    <a href="contact.php" class="nav-item nav-link">Contact</a>
                 </div>
-                <a href="index.html#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
+                <a href="index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
             </div>
         </nav>
     </div>
@@ -118,7 +118,7 @@
                 </div>
                 <div>
                     <ol class="breadcrumb justify-content-center mb-0">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                         <li class="breadcrumb-item active text-white">Packages</li>
                     </ol>
                 </div>
@@ -577,13 +577,13 @@
                 <div class="col-md-6 col-lg-3 ms-lg-5">
                     <div class="footer-item d-flex flex-column">
                         <h4 class="mb-4 text-white">Quick Links</h4>
-                        <a href="index.html"><i class="fas fa-angle-right me-2"></i> Home</a>
+                        <a href="index.php"><i class="fas fa-angle-right me-2"></i> Home</a>
                         <a href="#"><i class="fas fa-angle-right me-2"></i> Packages</a>
-                        <a href="destination.html"><i class="fas fa-angle-right me-2"></i> Destinations</a>
-                        <a href="accommodations.html"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
-                        <a href="gallery.html"><i class="fas fa-angle-right me-2"></i> Gallery</a>
-                        <a href="about.html"><i class="fas fa-angle-right me-2"></i> About</a>
-                        <a href="contact.html"><i class="fas fa-angle-right me-2"></i> Contact</a>
+                        <a href="destination.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
+                        <a href="accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
+                        <a href="gallery.php"><i class="fas fa-angle-right me-2"></i> Gallery</a>
+                        <a href="about.php"><i class="fas fa-angle-right me-2"></i> About</a>
+                        <a href="contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
