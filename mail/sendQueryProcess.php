@@ -15,17 +15,14 @@ function sanitizeInput($data) {
 }
 
 // Define variables
-$name  = $email = $datetime = $select1 = $person = $kids = $message = '';
+$name  = $email = $subject = $message = '';
 
 // Check if the form is submitted
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Sanitize and validate each input
     $name = sanitizeInput($_POST['name']);
     $email = sanitizeInput($_POST['email']);
-    $datetime= sanitizeInput($_POST['datetime']);
-    $select1= sanitizeInput($_POST['select1']);
-    $person= sanitizeInput($_POST['person']);
-    $kids= sanitizeInput($_POST['kids']);
+    $subject= sanitizeInput($_POST['subject']);
     $message = sanitizeInput($_POST['message']);
    
 
@@ -41,31 +38,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $errors[] = "Invalid email format";
     }
 
-     // Validate date
-  if (empty($datetime)) {
-    $errors[] = "Date is required.";
-  } else {
-    $datetime = DateTime::createFromFormat('Y-m-d', $datetime);
-    $today = new DateTime('today');
-
-    if (!$datetime || $datetime < $today) {
-      $errors[] = "The date cannot be before today.";
-    }
+    if (empty($subject)) {
+      $errors[] = "Subject is required";
   }
-
-  // Validate destination selection
-  if (empty($select1) || !ctype_digit($select1) || $select1 == '0') {
-    $errors[] = "A destination should be selected.";
-  }
-
-  if (empty($person)) {
-    $errors[] = "Number of persons are required";
-}
 
     // Validate Message
-    // if (empty($message)) {
-    //     $errors[] = "Message is required";
-    // }
+    if (empty($message)) {
+        $errors[] = "Message is required";
+    }
 
     // If no errors, you can proceed with further actions
     if (empty($errors)) { 
@@ -83,7 +63,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         // First email to 'info@srilankatourexperts.com'
         $mail->addAddress('kawya.evotech@gmail.com');
         $mail->isHTML(true);
-        $mail->Subject = 'Client message';
+        $mail->Subject = 'Client Inquiring Message';
         $bodyContent = '<!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
@@ -111,7 +91,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <tr>
                   <td style="padding:0 0 36px 0;color:#153643;">
                     <h1 style="font-size:24px;margin:0 0 20px 0;font-family:Arial,sans-serif;">Hey Mr. Shan,</h1>
-                    <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;"><b style="font-size: 1.3rem;">You have new email!</b> Exciting updates and important messages await your attention. Check your inbox to stay informed about the latest news, offers, and communications tailored just for you. Do not miss out on any vital information open your email now and discover what is waiting for you today!</p>
+                    <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;"><b style="font-size: 1.3rem;">You have new <span style="color:red;">inquiring<span> email!</b> Exciting updates and important messages await your attention. Check your inbox to stay informed about the latest news, offers, and communications tailored just for you. Do not miss out on any vital information open your email now and discover what is waiting for you today!</p>
                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
                       <table>
                         <tr>
@@ -123,20 +103,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                           <td><b>:</b> ' . $email . '</td>
                         </tr>
                         <tr>
-                          <th>Date</th>
-                          <td><b>:</b> ' . $datetime . '</td>
-                        </tr>
-                        <tr>
-                          <th>Destination</th>
-                          <td><b>:</b> ' . $select1 . '</td>
-                        </tr>
-                        <tr>
-                          <th>No. of persons</th>
-                          <td><b>:</b> ' . $person . '</td>
-                        </tr>
-                        <tr>
                           <th>No. of kids</th>
-                          <td><b>:</b> ' . $kids . '</td>
+                          <td><b>:</b> ' . $subject . '</td>
                         </tr>
                         <tr>
                           <th>Message</th>

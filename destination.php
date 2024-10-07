@@ -18,11 +18,14 @@
     <!-- Icon Font Stylesheet -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="../lib/animate/animate.min.css" rel="stylesheet">
+    <link href="../lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
 
     <!-- Libraries Stylesheet -->
     <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
-
+    <link href="../lib/animate/animate.min.css" rel="stylesheet">
+    <link href="../lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -73,7 +76,7 @@
     <!-- Navbar & Hero Start -->
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
-            <a href="index.php" class="navbar-brand p-0">
+            <a href="home/index.php" class="navbar-brand p-0">
                 <h1 class="text-primary m-0"><i class="fa me-3">
                         <img src="img/logo.png" class="header--logo">
                     </i><span style="color: #fe6100;">dodo</span><span style="color: #0000fe;">Travel</span></h1>
@@ -84,12 +87,12 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
-                    <a href="index.php" class="nav-item nav-link">Home</a>
-                    <a href="packages.php" class="nav-item nav-link">Packages</a>
+                    <a href="home/index.php" class="nav-item nav-link">Home</a>
+                    <a href="packages/packages.php" class="nav-item nav-link">Packages</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Destination</a>
                         <div class="dropdown-menu m-0">
-                            <a href="destination.php" class="dropdown-item">Destination</a>
+                            <a href="#" class="dropdown-item">Destination</a>
                             <span class="dropdown-header" style="font-size: 1rem;">Accommodations
                                 <a href="accommodations.php#maldives" class="dropdown-item">Maldives</a>
                                 <a href="accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
@@ -98,9 +101,9 @@
                         </div>
                     </div>
                     <a href="about.php" class="nav-item nav-link">About</a>
-                    <a href="contact.php" class="nav-item nav-link">Contact</a>
+                    <a href="contact/contact.php" class="nav-item nav-link">Contact</a>
                 </div>
-                <a href="index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
+                <a href="home/index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
             </div>
         </nav>
     </div>
@@ -127,11 +130,11 @@
     <!-- Destination Start -->
     <div class="container-fluid destination py-5">
         <div class="container py-5">
-            <div class="mx-auto text-center mb-5" style="max-width: 900px;" data-wow-delay="0.1s">
+            <div class="mx-auto text-center mb-5  wow fadeInUp" style="max-width: 900px;" data-wow-delay="0.1s">
                 <h5 class="section-title bg-white text-center text-primary px-3">Destinations</h5>
                 <h1 class="mb-0">Popular Destinations</h1>
             </div>
-            <div class="tab-class text-center">
+            <div class="tab-class text-center wow fadeInUp" data-wow-delay="0.3s">
                 <ul class="nav nav-pills d-inline-flex justify-content-center mb-5">
                     <li class="nav-item">
                         <a class="d-flex mx-3 py-2 border border-primary bg-light rounded-pill active"
@@ -970,13 +973,13 @@
                 <div class="col-md-6 col-lg-3 ms-lg-5">
                     <div class="footer-item d-flex flex-column">
                         <h4 class="mb-4 text-white">Quick Links</h4>
-                        <a href="index.php"><i class="fas fa-angle-right me-2"></i> Home</a>
-                        <a href="packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
+                        <a href="home/index.php"><i class="fas fa-angle-right me-2"></i> Home</a>
+                        <a href="packages/packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
                         <a href="#"><i class="fas fa-angle-right me-2"></i> Destinations</a>
                         <a href="accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
                         <a href="gallery.php"><i class="fas fa-angle-right me-2"></i> Gallery</a>
                         <a href="about.php"><i class="fas fa-angle-right me-2"></i> About</a>
-                        <a href="contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
+                        <a href="contact/contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
@@ -1053,6 +1056,11 @@
     <script src="lib/waypoints/waypoints.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
     <script src="lib/lightbox/js/lightbox.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="../lib/wow/wow.min.js"></script>
+    <script src="../lib/tempusdominus/js/moment.min.js"></script>
+    <script src="../lib/tempusdominus/js/moment-timezone.min.js"></script>
+    <script src="../lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
 
 
     <!-- Template Javascript -->

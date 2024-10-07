@@ -83,7 +83,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         // First email to 'info@srilankatourexperts.com'
         $mail->addAddress('kawya.evotech@gmail.com');
         $mail->isHTML(true);
-        $mail->Subject = 'Client message';
+        $mail->Subject = 'Client Request';
         $bodyContent = '<!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>

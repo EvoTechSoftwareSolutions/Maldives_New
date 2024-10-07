@@ -23,8 +23,9 @@
     <link href="../lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
     <link href="../lib/animate/animate.min.css" rel="stylesheet">
-    <link href="../lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="../lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
 
 
     <!-- Customized Bootstrap Stylesheet -->
@@ -95,7 +96,7 @@
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destination</a>
                         <div class="dropdown-menu m-0">
-                            <a href="destination.php" class="dropdown-item">Destination</a>
+                            <a href="../destination.php" class="dropdown-item">Destination</a>
                             <span class="dropdown-header" style="font-size: 1rem;">Accommodations
                                 <a href="../accommodations.php#maldives" class="dropdown-item">Maldives</a>
                                 <a href="../accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
@@ -104,7 +105,7 @@
                         </div>
                     </div>
                     <a href="../about.php" class="nav-item nav-link">About</a>
-                    <a href="../contact.php" class="nav-item nav-link">Contact</a>
+                    <a href="../contact/contact.php" class="nav-item nav-link">Contact</a>
                 </div>
                 <a href="../index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
             </div>
@@ -137,73 +138,73 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="../img/carousel-2.png" class="img-fluid" alt="Image">
-                    <div class="carousel-caption">
-                        <div class="p-3" style="max-width: 900px;">
-                            <h6 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore
-                                The World</h6>
-                            <h1 class="display-2 text-capitalize text-white mb-4">A Land of Wonders
-                            </h1>
-                            <p class="mb-5 fs-5">From golden beaches to majestic hill country, experience the
-                                breathtaking beauty and warm hospitality of Sri Lanka.
-                            </p>
-                            <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn-hover-bg btn btn-primary rounded-pill text-white py-3 px-5"
-                                    href="index.php#bookTour">Book Now</a>
+                    <div class="carousel-item">
+                        <img src="../img/carousel-2.png" class="img-fluid" alt="Image">
+                        <div class="carousel-caption">
+                            <div class="p-3" style="max-width: 900px;">
+                                <h6 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore
+                                    The World</h6>
+                                <h1 class="display-2 text-capitalize text-white mb-4">A Land of Wonders
+                                </h1>
+                                <p class="mb-5 fs-5">From golden beaches to majestic hill country, experience the
+                                    breathtaking beauty and warm hospitality of Sri Lanka.
+                                </p>
+                                <div class="d-flex align-items-center justify-content-center">
+                                    <a class="btn-hover-bg btn btn-primary rounded-pill text-white py-3 px-5"
+                                        href="index.php#bookTour">Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="carousel-item">
+                        <img src="../img/carousel-3.png" class="img-fluid" alt="Image">
+                        <div class="carousel-caption">
+                            <div class="p-3" style="max-width: 900px;">
+                                <h6 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore
+                                    The World</h6>
+                                <h1 class="display-2 text-capitalize text-white mb-4">Your Island Dream in the Maldives
+                                </h1>
+                                <p class="mb-5 fs-5">Experience the Maldives with bespoke travel packages that combine
+                                    luxury, adventure, and the beauty of the Indian Ocean.
+                                </p>
+                                <div class="d-flex align-items-center justify-content-center">
+                                    <a class="btn-hover-bg btn btn-primary rounded-pill text-white py-3 px-5"
+                                        href="index.php#bookTour">Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="../img/carousel-4.png" class="img-fluid" alt="Image">
+                        <div class="carousel-caption">
+                            <div class="p-3" style="max-width: 900px;">
+                                <h6 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore
+                                    The World</h6>
+                                <h1 class="display-2 text-capitalize text-white mb-4">Nature & Wildlife of Sri Lanka
+                                </h1>
+                                <p class="mb-5 fs-5">Discover lush rainforests, serene tea plantations, and wildlife
+                                    safaris where you can see elephants, leopards, and more.
+                                </p>
+                                <div class="d-flex align-items-center justify-content-center">
+                                    <a class="btn-hover-bg btn btn-primary rounded-pill text-white py-3 px-5"
+                                        href="index.php#bookTour">Book Now</a>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="carousel-item">
-                    <img src="../img/carousel-3.png" class="img-fluid" alt="Image">
-                    <div class="carousel-caption">
-                        <div class="p-3" style="max-width: 900px;">
-                            <h6 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore
-                                The World</h6>
-                            <h1 class="display-2 text-capitalize text-white mb-4">Your Island Dream in the Maldives
-                            </h1>
-                            <p class="mb-5 fs-5">Experience the Maldives with bespoke travel packages that combine
-                                luxury, adventure, and the beauty of the Indian Ocean.
-                            </p>
-                            <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn-hover-bg btn btn-primary rounded-pill text-white py-3 px-5"
-                                    href="index.php#bookTour">Book Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="../img/carousel-4.png" class="img-fluid" alt="Image">
-                    <div class="carousel-caption">
-                        <div class="p-3" style="max-width: 900px;">
-                            <h6 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore
-                                The World</h6>
-                            <h1 class="display-2 text-capitalize text-white mb-4">Nature & Wildlife of Sri Lanka
-                            </h1>
-                            <p class="mb-5 fs-5">Discover lush rainforests, serene tea plantations, and wildlife
-                                safaris where you can see elephants, leopards, and more.
-                            </p>
-                            <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn-hover-bg btn btn-primary rounded-pill text-white py-3 px-5"
-                                    href="index.php#bookTour">Book Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon btn bg-primary" aria-hidden="false"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselId" data-bs-slide="next">
+                    <span class="carousel-control-next-icon btn bg-primary" aria-hidden="false"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon btn bg-primary" aria-hidden="false"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselId" data-bs-slide="next">
-                <span class="carousel-control-next-icon btn bg-primary" aria-hidden="false"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
         </div>
-    </div>
-    <!-- Carousel End -->
+        <!-- Carousel End -->
     </div>
     <!-- Navbar & Hero End -->
 
@@ -268,7 +269,7 @@
                                     class="fa fa-globe text-primary"></i>&nbsp;Customized Tours & Experiences</p>
                         </div>
                     </div>
-                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-2" href="about.php">Read More</a>
+                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-2" href="../about.php">Read More</a>
                 </div>
             </div>
         </div>
@@ -1506,42 +1507,42 @@
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
                             <div class=" gallery-item h-100">
-                            <img src="../img/gallery/SU1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
-                            <div class="gallery-content">
-                                <div class="gallery-info">
-                                    <h6 class="text-white text-uppercase mb-2">
-                                        <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
-                                                class="bi bi-caret-right-fill"></i></a>
-                                    </h6>
+                                <img src="../img/gallery/SU1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                    <div class="gallery-info">
+                                        <h6 class="text-white text-uppercase mb-2">
+                                            <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
+                                                    class="bi bi-caret-right-fill"></i></a>
+                                        </h6>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="gallery-plus-icon">
-                                <a href="../img/gallery/SU1.jpg" data-lightbox="SU1" class="my-auto"><i
-                                        class="fas fa-plus fa-2x text-white"></i></a>
+                                <div class="gallery-plus-icon">
+                                    <a href="../img/gallery/SU1.jpg" data-lightbox="SU1" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="gallery-item h-100">
-                            <img src="../img/gallery/SU4.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
-                            <div class="gallery-content">
-                                <div class="gallery-info">
-                                    <h6 class="text-white text-uppercase mb-2">
-                                        <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
-                                                class="bi bi-caret-right-fill"></i></a>
-                                    </h6>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2 wow fadeInUp" data-wow-delay="0.5s">
+                            <div class="gallery-item h-100">
+                                <img src="../img/gallery/SU4.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                    <div class="gallery-info">
+                                        <h6 class="text-white text-uppercase mb-2">
+                                            <a href="../gallery.php/#lanka" class="btn-hover text-white">View All <i
+                                                    class="bi bi-caret-right-fill"></i></a>
+                                        </h6>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="gallery-plus-icon">
-                                <a href="../img/gallery/SU4.jpg" data-lightbox="SU4" class="my-auto"><i
-                                        class="fas fa-plus fa-2x text-white"></i></a>
+                                <div class="gallery-plus-icon">
+                                    <a href="../img/gallery/SU4.jpg" data-lightbox="SU4" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
     </div>
     <!-- Gallery End -->
 
@@ -1827,7 +1828,7 @@
                         </p>
                     </div>
                     <div class="testimonial-img p-1">
-                        <img src="img/woman.png" class="img-fluid rounded-circle" alt="Image">
+                        <img src="../img/woman.png" class="img-fluid rounded-circle" alt="Image">
                     </div>
                     <div style="margin-top: -35px;">
                         <h5 class="mb-0">Maria L.</h5>
@@ -1848,7 +1849,7 @@
                         </p>
                     </div>
                     <div class="testimonial-img p-1">
-                        <img src="img/man.png" class="img-fluid rounded-circle" alt="Image">
+                        <img src="../img/man.png" class="img-fluid rounded-circle" alt="Image">
                     </div>
                     <div style="margin-top: -35px;">
                         <h5 class="mb-0">James R.</h5>
@@ -1869,7 +1870,7 @@
                         </p>
                     </div>
                     <div class="testimonial-img p-1">
-                        <img src="img/woman.png" class="img-fluid rounded-circle" alt="Image">
+                        <img src="../img/woman.png" class="img-fluid rounded-circle" alt="Image">
                     </div>
                     <div style="margin-top: -35px;">
                         <h5 class="mb-0">Sofia K.</h5>
@@ -1890,7 +1891,7 @@
                         </p>
                     </div>
                     <div class="testimonial-img p-1">
-                        <img src="img/man.png" class="img-fluid rounded-circle" alt="Image">
+                        <img src="../img/man.png" class="img-fluid rounded-circle" alt="Image">
                     </div>
                     <div style="margin-top: -35px;">
                         <h5 class="mb-0">Raj P.</h5>
@@ -1953,12 +1954,12 @@
                     <div class="footer-item d-flex flex-column">
                         <h4 class="mb-4 text-white">Quick Links</h4>
                         <a href="#"><i class="fas fa-angle-right me-2"></i> Home</a>
-                        <a href="packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
-                        <a href="destination.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
-                        <a href="accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
-                        <a href="gallery.php"><i class="fas fa-angle-right me-2"></i> Gallery</a>
-                        <a href="about.php"><i class="fas fa-angle-right me-2"></i> About</a>
-                        <a href="contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
+                        <a href="../packages/packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
+                        <a href="../destination.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
+                        <a href="../accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
+                        <a href="../gallery.php"><i class="fas fa-angle-right me-2"></i> Gallery</a>
+                        <a href="../about.php"><i class="fas fa-angle-right me-2"></i> About</a>
+                        <a href="../contact/contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
@@ -2039,26 +2040,27 @@
     <!-- JavaScript Libraries -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/lightbox/js/lightbox.min.js"></script>
+    <script src="../lib/easing/easing.min.js"></script>
+    <script src="../lib/waypoints/waypoints.min.js"></script>
+    <script src="../lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="../lib/lightbox/js/lightbox.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/tempusdominus/js/moment.min.js"></script>
-    <script src="lib/tempusdominus/js/moment-timezone.min.js"></script>
-    <script src="lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+    <script src="../lib/wow/wow.min.js"></script>
+    <script src="../lib/easing/easing.min.js"></script>
+    <script src="../lib/waypoints/waypoints.min.js"></script>
+    <script src="../lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="../lib/tempusdominus/js/moment.min.js"></script>
+    <script src="../lib/tempusdominus/js/moment-timezone.min.js"></script>
+    <script src="../lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
 
 
     <!-- Template Javascript -->
     <script src="script.js"></script>
-    <script src="js/main.js"></script>
-    
+    <script src="../js/main.js"></script>
+
 </body>
 
 </html>

@@ -2,8 +2,8 @@ function sendMessage() {
 
     var f = new FormData();
     f.append("name", document.getElementById("name").value);
-    f.append("phone", document.getElementById("phone").value);
     f.append("email", document.getElementById("email").value);
+    f.append("subject", document.getElementById("subject").value);
     f.append("message", document.getElementById("message").value);
 
     // alert("Form Data: \n" +
@@ -17,8 +17,8 @@ function sendMessage() {
         if (r.readyState == 4) {
             if (r.responseText == "Message Sent successfully") {
                 document.getElementById("name").value = "";
-                document.getElementById("phone").value = "";
                 document.getElementById("email").value = "";
+                document.getElementById("subject").value = "";
                 document.getElementById("message").value = "";
                 swal("Message sent", "We'll get back to you soon", "success");
 
@@ -33,7 +33,7 @@ function sendMessage() {
         }
     }
 
-    r.open("POST", "../mail/sendEmailProcess.php", true);
+    r.open("POST", "../mail/sendQueryProcess.php", true);
     r.send(f);
     document.getElementById("sub_btn").disabled = true;
     document.getElementById("sub_btn").classList.add("disable");
