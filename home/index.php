@@ -107,7 +107,7 @@
                     <a href="../about.php" class="nav-item nav-link">About</a>
                     <a href="../contact/contact.php" class="nav-item nav-link">Contact</a>
                 </div>
-                <a href="../index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
+                <a href="index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
             </div>
         </nav>
 

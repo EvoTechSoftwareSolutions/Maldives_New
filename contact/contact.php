@@ -100,7 +100,7 @@
                     <a href="../about.php" class="nav-item nav-link">About</a>
                     <a href="#" class="nav-item nav-link active">Contact</a>
                 </div>
-                <a href="../index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
+                <a href="../home/index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
                 </div>
             </nav>
         </div>
