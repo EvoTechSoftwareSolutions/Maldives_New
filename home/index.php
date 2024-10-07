@@ -91,7 +91,7 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
                     <a href="#" class="nav-item nav-link active">Home</a>
-                    <a href="../packages.php" class="nav-item nav-link">Packages</a>
+                    <a href="../packages/packages.php" class="nav-item nav-link">Packages</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destination</a>
                         <div class="dropdown-menu m-0">

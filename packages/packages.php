@@ -8,7 +8,7 @@
     <meta content="" name="keywords">
     <meta content="" name="description">
 
-    <link rel="icon" href="img/logo.png">
+    <link rel="icon" href="../img/logo.png">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,15 +20,15 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <link href="../lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="../css/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -78,7 +78,7 @@
         <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
             <a href="index.php" class="navbar-brand p-0">
                 <h1 class="text-primary m-0"><i class="fa me-3">
-                        <img src="img/logo.png" class="header--logo">
+                        <img src="../img/logo.png" class="header--logo">
                     </i><span style="color: #fe6100;">dodo</span><span style="color: #0000fe;">Travel</span></h1>
                 <!-- <img src="img/logo.png" alt="Logo"> -->
             </a>
@@ -87,23 +87,23 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
-                    <a href="index.php" class="nav-item nav-link">Home</a>
-                    <a href="packages.php" class="nav-item nav-link active">Packages</a>
+                    <a href="../home/index.php" class="nav-item nav-link">Home</a>
+                    <a href="../packages/packages.php" class="nav-item nav-link active">Packages</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destination</a>
                         <div class="dropdown-menu m-0">
                             <a href="destination.php" class="dropdown-item">Destination</a>
                             <span class="dropdown-header" style="font-size: 1rem;">Accommodations
-                                <a href="accommodations.php#maldives" class="dropdown-item">Maldives</a>
-                                <a href="accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
+                                <a href="../accommodations.php#maldives" class="dropdown-item">Maldives</a>
+                                <a href="../accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
                             </span>
-                            <a href="gallery.php" class="dropdown-item">Gallery</a>
+                            <a href="../gallery.php" class="dropdown-item">Gallery</a>
                         </div>
                     </div>
-                    <a href="about.php" class="nav-item nav-link">About</a>
-                    <a href="contact.php" class="nav-item nav-link">Contact</a>
+                    <a href="../about.php" class="nav-item nav-link">About</a>
+                    <a href="../contact/contact.php" class="nav-item nav-link">Contact</a>
                 </div>
-                <a href="index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
+                <a href="../home/index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
             </div>
         </nav>
     </div>
@@ -118,7 +118,7 @@
                 </div>
                 <div>
                     <ol class="breadcrumb justify-content-center mb-0">
-                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                        <li class="breadcrumb-item"><a href="../home/index.php">Home</a></li>
                         <li class="breadcrumb-item active text-white">Packages</li>
                     </ol>
                 </div>
@@ -465,7 +465,7 @@
     </div>
 
     <!-- Tour Booking Start -->
-    <div class="container-fluid booking py-5" id="bookTour">
+    <div class="container-fluid booking py-5" id="bookTour" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6">
@@ -485,49 +485,48 @@
                     <h1 class="text-white mb-3">Book Your Tour</h1>
                     <p class="text-white mb-4">Secure your dream vacation today! Enjoy exclusive deals and personalized
                         itineraries tailored just for you.</p>
-                    <form>
+                    <form action="POST">
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <input type="text" class="form-control bg-white border-0" id="name"
                                         placeholder="Your Name">
-                                    <label for="name">Your Name</label>
+                                    <label for="name">Your Name <span class="starlabel">*</span></label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <input type="email" class="form-control bg-white border-0" id="email"
                                         placeholder="Your Email">
-                                    <label for="email">Your Email</label>
+                                    <label for="email">Your Email <span class="starlabel">*</span></label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating date" id="date3" data-target-input="nearest">
-                                    <input type="text" class="form-control bg-white border-0" id="datetime"
-                                        placeholder="Date & Time" data-target="#date3" data-toggle="datetimepicker" />
-                                    <label for="datetime">Date & Time</label>
+                                    <input type="date" class="form-control bg-white border-0" id="datetime"
+                                        placeholder="Date" data-target="#date3" data-toggle="datetimepicker" />
+                                    <label for="datetime">Date <span class="starlabel">*</span></label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <select class="form-select bg-white border-0" id="select1">
-                                        <option value="1">Destination 1</option>
-                                        <option value="2">Destination 2</option>
-                                        <option value="3">Destination 3</option>
+                                        <option value="1">Maldives</option>
+                                        <option value="2">Sri Lanka</option>
                                     </select>
-                                    <label for="select1">Destination</label>
+                                    <label for="select1">Destination <span class="starlabel">*</span></label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating date" id="date3" data-target-input="nearest">
-                                    <input type="text" class="form-control bg-white border-0" id="datetime"
+                                    <input type="text" class="form-control bg-white border-0" id="person"
                                         placeholder="No. of Persons">
-                                    <label for="person">No. of Persons</label>
+                                    <label for="person">No. of Persons <span class="starlabel">*</span></label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating date" id="date3" data-target-input="nearest">
-                                    <input type="text" class="form-control bg-white border-0" id="datetime"
+                                    <input type="text" class="form-control bg-white border-0" id="kids"
                                         placeholder="No. of Kids">
                                     <label for="kids">No. of Kids</label>
                                 </div>
@@ -540,8 +539,8 @@
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-primary text-white w-100 py-3 btn--submit" type="submit">Book
-                                    Now</button>
+                                <span class="btn btn-primary text-white w-100 py-3 btn--submit" type="submit" id="btn" onclick="sendRequest();">Book
+                                    Now</span>
                             </div>
                         </div>
                     </form>
@@ -668,10 +667,11 @@
     <script src="lib/waypoints/waypoints.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
     <script src="lib/lightbox/js/lightbox.min.js"></script>
-
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
     <!-- Template Javascript -->
-    <script src="js/main.js"></script>
+    <script src="packages.js"></script>
+    <script src="../js/main.js"></script>
 </body>
 
 </html>

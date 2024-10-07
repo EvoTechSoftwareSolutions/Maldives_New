@@ -1,210 +1,319 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sri Lanka Tour Experts</title>
+    <head>
+        <meta charset="utf-8">
+        <title>Travela - Tourism Website Template</title>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="" name="keywords">
+        <meta content="" name="description">
 
-    <link rel="icon" href="../resources/img/logo.png" />
-    <link rel="stylesheet" href="../header/header.css">
-    <link rel="stylesheet" href="../footer/footer.css">
-    <link rel="stylesheet" href="contact.css" />
-    <link rel="stylesheet" href="../hero_slider/hero_slider.css">
-</head>
+        <link rel="icon" href="img/logo.png">
 
-<body>
+        <!-- Google Web Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500;600&family=Roboto&display=swap" rel="stylesheet"> 
 
-    <!-- Header -->
-    <?php include "../header/header.php"; ?>
-    <!-- Header -->
+        <!-- Icon Font Stylesheet -->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"/>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
-    <div class="start--div">
+        <!-- Libraries Stylesheet -->
+        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
+
+        <!-- Customized Bootstrap Stylesheet -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Template Stylesheet -->
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+
+    <body>
+
+        <!-- Spinner Start -->
+        <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+            <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+        </div>
+        <!-- Spinner End -->
+
+        <!-- Topbar Start -->
+        <div class="container-fluid px-5 d-none d-lg-block top--bar">
+            <div class="row gx-0">
+                <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
+                    <div class="d-inline-flex align-items-center" style="height: 45px;">
+                        <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Maldives and Sri
+                            Lanka</small>
+                        <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+960 7 422 423 / +94 771 772
+                            422</small>
+                        <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@dodo.lk</small>
+                    </div>
+                </div>
+                <div class="col-lg-4 text-center text-lg-end">
+                    <div class="d-inline-flex align-items-center" style="height: 45px;">
+                        <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://wa.link/vpjzv8" target="_blank"><i
+                                class="fab fa-whatsapp fw-normal"></i></a>
+                        <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank"><i
+                                class="fab fa-facebook-f fw-normal"></i></a>
+                        <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.linkedin.com/in/shan-ramanathan-57a97214b/" target="_blank"><i
+                                class="fab fa-linkedin-in fw-normal"></i></a>
+                        <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href="https://www.youtube.com/@Travelmaldivesandsrilanka" target="_blank"><i
+                                class="fab fa-youtube fw-normal"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Topbar End -->
+    
+        <!-- Navbar & Hero Start -->
+        <div class="container-fluid position-relative p-0">
+            <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
+                <a href="index.php" class="navbar-brand p-0">
+                    <h1 class="text-primary m-0"><i class="fa me-3">
+                            <img src="img/logo.png" class="header--logo">
+                        </i><span style="color: #fe6100;">dodo</span><span style="color: #0000fe;">Travel</span></h1>
+                    <!-- <img src="img/logo.png" alt="Logo"> -->
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <span class="fa fa-bars"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <div class="navbar-nav ms-auto py-0">
+                        <a href="index.php" class="nav-item nav-link">Home</a>
+                        <a href="packages.php" class="nav-item nav-link">Packages</a>
+                        <div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destination</a>
+                            <div class="dropdown-menu m-0">
+                                <a href="destination.php" class="dropdown-item">Destination</a>
+                                <span class="dropdown-header" style="font-size: 1rem;">Accommodations
+                                    <a href="accommodations.php#maldives" class="dropdown-item">Maldives</a>
+                                    <a href="accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
+                                </span>
+                                <a href="gallery.php" class="dropdown-item">Gallery</a>
+                            </div>
+                        </div>
+                        <a href="about.php" class="nav-item nav-link">About</a>
+                        <a href="contact.php" class="nav-item nav-link active">Contact</a>
+                    </div>
+                    <a href="index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
+                </div>
+            </nav>
+        </div>
+        <!-- Navbar & Hero End -->
+
+        <!-- Header Start -->
+        <div class="container-fluid">
+            <div class="con--img">
+                <div class="container text-center py-5 con--txt">
+                    <div class="mt-5 py-lg-5">
+                    <h3 class="text-white display-3 mb-4">Contact Us</h3>
+                    </div>
+                    <div>
+                        <ol class="breadcrumb justify-content-center mb-0">
+                            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                            <li class="breadcrumb-item active text-white">Contact</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Header End -->
+
+        <!-- Contact Start -->
+        <div class="container-fluid contact bg-light py-5">
+            <div class="container py-5">
+                <div class="mx-auto text-center mb-5" style="max-width: 900px;">
+                    <h5 class="section-title px-3">Contact Us</h5>
+                    <h1 class="mb-0">Contact For Any Query</h1>
+                </div>
+                <div class="row g-5 align-items-center">
+                    <div class="col-lg-4">
+                        <div class="bg-white rounded p-4 row py-md-5">
+                            <div class="text-center mb-4 col-md-4 col-lg-12">
+                                <i class="fa fa-map-marker-alt fa-3x text-primary"></i>
+                                <h4 class="text-primary">Location</h4>
+                                <p class="mb-0">Maldives<br>Sri Lanka</p>
+                            </div>
+                            <div class="text-center mb-4 col-md-4 col-lg-12">
+                                <i class="fa fa-phone-alt fa-3x text-primary mb-3"></i>
+                                <h4 class="text-primary">Mobile</h4>
+                                <p class="mb-0">+960 7 422 423</p>
+                                <p class="mb-0">+94 789 422 423</p>
+                            </div>
+                           
+                            <div class="text-center col-md-4 col-lg-12">
+                                <i class="fa fa-envelope-open fa-3x text-primary mb-3"></i>
+                                <h4 class="text-primary">Email</h4>
+                                <p class="mb-0">info@dodo.lk</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-8">
+                        <h3 class="mb-2">Send us a message</h3>
+                        <p class="mb-4">Have questions or need assistance? Send us a message! We're here to help with your travel plans, provide recommendations, or address any inquiries. Let us make your journey stress-free.</p>
+                        <form>
+                            <div class="row g-3">
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control border-0" id="name" placeholder="Your Name">
+                                        <label for="name">Your Name</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="email" class="form-control border-0" id="email" placeholder="Your Email">
+                                        <label for="email">Your Email</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control border-0" id="subject" placeholder="Subject">
+                                        <label for="subject">Subject</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating">
+                                        <textarea class="form-control border-0" placeholder="Leave a message here" id="message" style="height: 160px"></textarea>
+                                        <label for="message">Message</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <button class="btn btn-primary w-100 py-3" type="submit" onclick="sendMessage();">Send Message</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="rounded">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8159199.921096217!2d67.94091904996493!3d3.09882189467529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x24b599bfaafb7bbd%3A0x414509e181956289!2sMaldives!5e0!3m2!1sen!2slk!4v1728051258655!5m2!1sen!2slk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="rounded">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2023629.3702900212!2d78.2051152056012!3d7.853020713378661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2593cf65a1e9d%3A0xe13da4b400e2d38c!2sSri%20Lanka!5e0!3m2!1sen!2slk!4v1728051303441!5m2!1sen!2slk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Contact End -->
+
+        <!-- Footer Start -->
+        <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn">
+            <div class="container py-5">
+                <div class="row g-5 ms-lg-5" style="width: 100%;display: flex; justify-content: center;">
+                    <div class="col-md-12 col-lg-3">
+                        <div class="footer-item d-flex flex-column">
+                            <h4 class="mb-4 text-white">Get In Touch</h4>
+                            <a href=""><i class="fas fa-home me-2"></i> Maldives&nbsp;and Sri&nbsp;Lanka</a>
+                            <a href="mailto:info@dodo.lk"><i class="fas fa-envelope me-2"></i> info@dodo.lk</a>
+                            <a href="">
+                                <table>
+                                    <tr>
+                                        <td><i class="fas fa-phone me-2"></i></td>
+                                        <td><a href="tel:+960 7 422 423">+960 7 422 423</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td></td>
+                                        <td><a href="tel:+94 771 772 422">+94 771 772 422</a></td>
+                                    </tr>
+                                </table>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 ms-lg-5">
+                        <div class="footer-item d-flex flex-column">
+                            <h4 class="mb-4 text-white">Quick Links</h4>
+                            <a href="index.php"><i class="fas fa-angle-right me-2"></i> Home</a>
+                            <a href="packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
+                            <a href="destination.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
+                            <a href="accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
+                            <a href="gallery.php"><i class="fas fa-angle-right me-2"></i> Gallery</a>
+                            <a href="about.php"><i class="fas fa-angle-right me-2"></i> About</a>
+                            <a href="#"><i class="fas fa-angle-right me-2"></i> Contact</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="footer-item d-flex flex-column">
+                            <h4 class="mb-4 text-white">Social Media</h4>
+                            <div class="align-items-center">
+                                <div class="align-items-center d-flex flex-row">
+                                    <a href="">
+                                        <i class="fas fa-share fa-1x text-white me-2"></i>
+                                        <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank">
+                                            <i class="fab fa-facebook-f"></i>
+                                            <a href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank"><i class="fas me-0"></i> Facebook</a>
+                                        </a>
+                                    </a>
+                                </div>
+                                <div class="align-items-center d-flex flex-row mt-2">
+                                    <a href=""></a>
+                                    <i class="fas fa-share fa-1x text-white me-2"></i>
+                                    <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://wa.link/vpjzv8" target="_blank">
+                                        <i class="fab fa-whatsapp"></i>
+                                        <a href="https://wa.link/vpjzv8" target="_blank"><i class="fas me-0"></i> WhatsApp</a>
+                                    </a>
+                                    </a>
+                                </div>
+                                <div class="align-items-center d-flex flex-row mt-2">
+                                    <a href=""></a>
+                                    <i class="fas fa-share fa-1x text-white me-2"></i>
+                                    <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.linkedin.com/in/shan-ramanathan-57a97214b" target="_blank">
+                                        <i class="fab fa-linkedin-in"></i>
+                                        <a href="https://www.linkedin.com/in/shan-ramanathan-57a97214b" target="_blank"><i class="fas me-0"></i> Linkedin</a>
+                                    </a>
+                                    </a>
+                                </div>
+                                <div class="align-items-center d-flex flex-row mt-2">
+                                    <a href=""></a>
+                                    <i class="fas fa-share fa-1x text-white me-2"></i>
+                                    <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.youtube.com/@Travelmaldivesandsrilanka" target="_blank">
+                                        <i class="fab fa-youtube"></i>
+                                        <a href="https://www.youtube.com/@Travelmaldivesandsrilanka" target="_blank"><i class="fas me-0"></i> YouTube</a>
+                                    </a>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- Footer End -->
+
+    <!-- Copyright Start -->
+    <div class="container-fluid copyright text-body py-4">
+        <div class="container copyright--container">
+            <div class="row g-4 align-items-center">
+                <div class="col-md-12 text-center text-md-end mb-md-0">
+                    Copyright&nbsp;&nbsp;</a><i class="fas fa-copyright me-2"></i><a class="text-white" href="https://evotechsoftwaresolutions.com/">Evon Technologies Software Solution (PVT) Ltd</a>, All right
+                    reserved.
+                </div>
+            </div>
+        </div>
     </div>
+    <!-- Copyright End -->
 
-    <section class="contact--sec1" id="about">
-        <div class="contact--sec1--div1">
-            <div class="contact--sec1--div2">
-                <div class="contact--sec1--div3">
-                    <div class="contact--sec1--div4">
-                        <span class="contatct--sec1--txt1">ABOUT US</span>
-                    </div>
-                    <div class="contact--sec1--div5">
-                        <span class="contatct--sec1--txt2">About Sri Lanka Tour Experts...</span>
-                    </div>
-                </div>
-                <div class="contact--sec1--div6">
-                    <div class="contact--sec1--div7">
-                        <span class="contatct--sec1--txt3">Sri Lanka Tour Experts</span>
-                    </div>
-                    <div class="contact--sec1--div8">
-                        <span class="contatct--sec1--txt4">At Sri Lanka Tour Experts, we are passionate about creating
-                            unforgettable travel experiences that cater to each traveler’s unique needs and desires.
-                            With a focus on personalized service, we offer tailor-made itineraries that ensure every
-                            trip is as individual as you are. Whether you’re planning a relaxing beach vacation, a
-                            thrilling adventure, or a cultural exploration, our experienced team is here to design your
-                            perfect journey.
-                            <br />
-                            We partner with a global network of trusted providers to offer seamless, worry-free travel,
-                            including flights, accommodations, guided tours, and exclusive experiences. Our mission is
-                            to make your travel dreams a reality by delivering high-quality service, expert advice, and
-                            attention to every detail.
-                            <br />
-                            No matter your destination or travel style, Sri Lanka Tour Experts is dedicated to helping
-                            you
-                            explore the world with confidence and ease. Let us take care of the planning, so you can
-                            focus on making memories that last a lifetime.</span>
-                    </div>
-                </div>
-                <br />
-            </div>
-        </div>
-    </section>
+        <!-- Back to Top -->
+        <a href="#" class="btn btn-primary btn-primary-outline-0 btn-md-square back-to-top"><i class="fa fa-arrow-up"></i></a>   
 
-    <section class="contact--sec2" id="contact">
-        <div class="contact--sec2--div1">
-            <div class="contact--sec2--div20">
-                <div class="contact--sec2--div2">
-                    <div class="contact--sec2--div3">
-                        <div class="contact--sec2--div4">
-                            <div class="contact--sec2--div5">
-                                <span class="contatct--sec2--txt1">Call Us</span>
-                            </div>
-                            <div class="contact--sec2--div6">
-                                <span class="contatct--sec2--txt2">Contact Sri Lanka Tour Experts today to start
-                                    planning
-                                    your dream trip! Our travel experts are ready to assist you with personalized
-                                    service.</span>
-                            </div>
-                            <div class="contact--sec2--div7">
-                                <a href="tel:+94 77 798 5644" class="contact--icon--row">
-                                    <div class="contact--sec2--div8--img">
-                                        <img src="../resources/img/phone.png" class="contact--img--icon">
-                                    </div>
-                                    <div class="contact--sec2--div8">
-                                        <span class="contatct--sec2--txt3">+94&nbsp;(77)&nbsp;798&nbsp;5644</span>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="contact--sec2--div9">
-                            <div class="contact--sec2--div5">
-                                <span class="contatct--sec2--txt1">Visit Us</span>
-                            </div>
-                            <div class="contact--sec2--div6">
-                                <span class="contatct--sec2--txt2">Visit Sri Lanka Tour Experts for expert travel
-                                    planning
-                                    and personalized itineraries. Let us help you create your next unforgettable
-                                    adventure!</span>
-                            </div>
-                            <div class="contact--sec2--div7">
-                                <a href="https://maps.app.goo.gl/yWxUu4EMo5qDkKLK9" class="contact--icon--row">
-                                    <div class="contact--sec2--div8--img">
-                                        <img src="../resources/img/location.png" class="contact--img--icon">
-                                    </div>
-                                    <div class="contact--sec2--div8">
-                                        <span class="contatct--sec2--txt3">NO&nbsp;554,Sixty&nbsp;Feet Royal&nbsp;Residents, Kattuwa</span>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="contact--sec2--div9">
-                            <div class="contact--sec2--div5">
-                                <span class="contatct--sec2--txt1">Chat With Us</span>
-                            </div>
-                            <div class="contact--sec2--div6">
-                                <span class="contatct--sec2--txt2">Chat with Sri Lanka Tour Experts now for instant
-                                    travel
-                                    advice and personalized trip planning. Our team is here to assist you!</span>
-                            </div>
-                            <div class="contact--sec2--div10">
-                                <div class="contact--sec2--div8--img">
-                                    <a href="https://web.facebook.com/profile.php?id=61565563513410" class="contact--icon--row"><img src="../resources/img/facebookc.png"
-                                            class="contact--img--icon"></a>
-                                </div>
-                                <div class="contact--sec2--div8--img">
-                                    <a href="https://wa.link/5rz2js" class="contact--icon--row"><img src="../resources/img/whatsapp.png"
-                                            class="contact--img--icon"></a>
-                                </div>
-                                <div class="contact--sec2--div8--img">
-                                    <a href="https://www.linkedin.com/in/srilanka-tourexperts-1b5187329" class="contact--icon--row"><img src="../resources/img/linkedinc.png"
-                                            class="contact--img--icon"></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="contatct--verticle--hr"></div>
-                    <div class="contact--sec2--div11">
-                        <div class="contact--sec2--div22">
-                            <div class="contact--sec2--div12">
-                                <span class="contatct--sec2--txt4">Get in touch</span>
-                            </div>
-                            <div class="contact--sec2--div13">
-                                <div class="contact--sec2--div14">
-                                    <div class="contact--sec2--div15">
-                                        <span class="contatct--sec2--txt5">Send a Message</span>
-                                    </div>
-                                    <div class="contact--sec2--div16">
-                                        <span class="contatct--sec2--txt6">Send us a message at Sri Lanka tour Experts
-                                            for
-                                            personalized travel assistance. We’ll help you plan the perfect trip
-                                            tailored to
-                                            you!
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="contact--sec2--div17">
-                                    <div class="contact--sec2--div18">
-                                        <div class="contact--sec2--div19">
-                                            <span class="contatct--sec2--txt7">Name</span>
-                                            <input type="text" class="contact--txtfield" id="name">
-                                        </div>
-                                        <div class="contact--sec2--div19">
-                                            <span class="contatct--sec2--txt7">Phone Number</span>
-                                            <input type="text" class="contact--txtfield" id="phone" maxlength="16">
-                                        </div>
-                                    </div>
-                                    <div class="contact--sec2--div23">
-                                        <div class="contact--sec2--div21">
-                                            <span class="contatct--sec2--txt7">Email</span>
-                                            <input type="text" class="contact--txtfield1" id="email">
-                                        </div>
-                                    </div>
-                                    <div class="contact--sec2--div23">
-                                        <div class="contact--sec2--div21">
-                                            <span class="contatct--sec2--txt7">Message</span>
-                                            <textarea class="contact--txtarea" id="message"></textarea>
-                                        </div>
-                                    </div>
-                                    <div class="contact--sec2--div23">
-                                        <div class="contact--sec2--divbtn">
-                                            <button class="contatct--button" id="sub_btn" onclick="send();">Submit</button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="contact--sec2--div24">
-                <div class="contact--sec2--div25">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.0269890238555!2d79.85192197575819!3d7.237760792768498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2eecace60a711%3A0xddda628161009099!2s554%20Sixty%20Feet%20Rd%2C%20Negombo!5e0!3m2!1sen!2slk!4v1726650015088!5m2!1sen!2slk" width="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="contact--map--img"></iframe>
-                </div>
-            </div>
-        </div>
-    </section>
+        
+        <!-- JavaScript Libraries -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/waypoints/waypoints.min.js"></script>
+        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/lightbox/js/lightbox.min.js"></script>
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
-    <!-- Footer -->
-    <?php include "../footer/footer.php"; ?>
-    <!-- Footer -->
-
-    <script src="contact.js"></script>
-    <script src="../header/header.js"></script>
-    <script src="../footer/footer.js"></script>
-    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-
-</body>
+        <!-- Template Javascript -->
+        <script src="contact.js"></script>
+        <script src="../js/main.js"></script>
+    </body>
 
 </html>

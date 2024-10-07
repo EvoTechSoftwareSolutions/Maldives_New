@@ -1,4 +1,4 @@
-function send() {
+function sendMessage() {
 
     var f = new FormData();
     f.append("name", document.getElementById("name").value);
