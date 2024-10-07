@@ -1512,3 +1512,10 @@ color: var(--primary);
   .starlabel {
     color: red;
   }
+
+
+  .contact-item {
+    box-shadow: 0 0 45px rgba(0, 0, 0, 0.192);
+    transition: .5s;
+    border-radius: 1rem;
+}

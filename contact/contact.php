@@ -125,14 +125,14 @@
         <!-- Header End -->
 
         <!-- Contact Start -->
-        <div class="container-fluid contact bg-light py-5">
+        <div class="container-fluid contact  py-5">
             <div class="container py-5">
-                <div class="mx-auto text-center mb-5" style="max-width: 900px;">
-                    <h5 class="section-title px-3">Contact Us</h5>
-                    <h1 class="mb-0">Contact For Any Query</h1>
+                <div class="mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 900px;">
+                    <h5 class="section-title bg-white text-center text-primary px-3">Contact Us</h5>
+                    <h1 class="mb-5">Contact For Any Query</h1>
                 </div>
                 <div class="row g-5 align-items-center">
-                    <div class="col-lg-4">
+                    <div class="contact-item col-lg-4">
                         <div class="bg-white rounded p-4 row py-md-5">
                             <div class="text-center mb-4 col-md-4 col-lg-12">
                                 <i class="fa fa-map-marker-alt fa-3x text-primary"></i>
@@ -143,7 +143,7 @@
                                 <i class="fa fa-phone-alt fa-3x text-primary mb-3"></i>
                                 <h4 class="text-primary">Mobile</h4>
                                 <p class="mb-0">+960 7 422 423</p>
-                                <p class="mb-0">+94 789 422 423</p>
+                                <p class="mb-0">+94 771 772 422</p>
                             </div>
                            
                             <div class="text-center col-md-4 col-lg-12">
@@ -159,25 +159,25 @@
                         <form>
                             <div class="row g-3">
                                 <div class="col-md-6">
-                                    <div class="form-floating">
+                                    <div class="contact-item form-floating">
                                         <input type="text" class="form-control border-0" id="name" placeholder="Your Name">
                                         <label for="name">Your Name <span class="starlabel">*</span></label>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="form-floating">
+                                    <div class="contact-item form-floating">
                                         <input type="email" class="form-control border-0" id="email" placeholder="Your Email">
                                         <label for="email">Your Email <span class="starlabel">*</span></label>
                                     </div>
                                 </div>
                                 <div class="col-12">
-                                    <div class="form-floating">
+                                    <div class="contact-item form-floating">
                                         <input type="text" class="form-control border-0" id="subject" placeholder="Subject">
                                         <label for="subject">Subject <span class="starlabel">*</span></label>
                                     </div>
                                 </div>
                                 <div class="col-12">
-                                    <div class="form-floating">
+                                    <div class="contact-item form-floating">
                                         <textarea class="form-control border-0" placeholder="Leave a message here" id="message" style="height: 160px"></textarea>
                                         <label for="message">Message <span class="starlabel">*</span></label>
                                     </div>

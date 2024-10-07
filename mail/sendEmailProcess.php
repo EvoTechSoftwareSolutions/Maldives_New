@@ -67,6 +67,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     //     $errors[] = "Message is required";
     // }
 
+    $dateString = $datetime->format('Y-m-d'); // Convert DateTime to string
+
+
     // If no errors, you can proceed with further actions
     if (empty($errors)) { 
         $mail = new PHPMailer;
@@ -124,7 +127,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         </tr>
                         <tr>
                           <th>Date</th>
-                          <td><b>:</b> ' . $datetime . '</td>
+                          <td><b>:</b> ' . $dateString . '</td>
                         </tr>
                         <tr>
                           <th>Destination</th>
@@ -443,15 +446,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_social_follow"><tbody><tr><td class="tblCellMain" align="center" style="padding-top:10px; padding-bottom:10px; padding-left:20px; padding-right:20px;">    
 <table class="tblContainer mblSocialContain" cellspacing="0" cellpadding="0" border="0" align="center" style="text-align:center;"><tbody><tr><td class="tdItemContainer ui-sortable" >    
 <table cellspacing="0" cellpadding="0" border="0" class="mblSocialContain" style="table-layout: auto;"><tbody><tr><td valign="top" name="bmeSocialTD"><!--[if gte mso 6]></td><td align="left" valign="top"><![endif]-->    
-<table cellspacing="0" cellpadding="0" border="0" class="bmeFollowItem" type="facebook" style="float:left;" align="left"><tbody><tr><td align="left" class="bmeFollowItemIcon" gutter="20" width="20" style="padding-right:20px;height:20px;"><a href="https://web.facebook.com/profile.php?id=61565563513410" target="_blank" style="display: inline-block;background-color: rgb(0, 0, 0);border-radius: 0px;border-style: solid; border-width: 5px; border-color: rgb(0, 0, 0);border-radius: 2rem;" target="_blank"><img    
+<table cellspacing="0" cellpadding="0" border="0" class="bmeFollowItem" type="facebook" style="float:left;" align="left"><tbody><tr><td align="left" class="bmeFollowItemIcon" gutter="20" width="20" style="padding-right:20px;height:20px;"><a href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank" style="display: inline-block;background-color: rgb(0, 0, 0);border-radius: 0px;border-style: solid; border-width: 5px; border-color: rgb(0, 0, 0);border-radius: 2rem;" target="_blank"><img    
  src="https://dodo.lk/img/facebook.png" alt="Facebook" style="display: block; max-width: 114px;" border="0" width="24" height="24"></a></td></tr></tbody>    
 </table><!--[if gte mso 6]></td><td align="left" valign="top"><![endif]-->    
-<table cellspacing="0" cellpadding="0" border="0" class="bmeFollowItem" type="youtube" style="float:left;" align="left"><tbody><tr><td align="left" class="bmeFollowItemIcon" gutter="20" width="20" style="padding-right:20px;height:20px;"><a href="https://www.youtube.com/@SriLankaTourExperts" target="_blank" style="display: inline-block;background-color: rgb(0, 0, 0);border-radius: 0px;border-style: solid; border-width: 5px; border-color: rgb(0, 0, 0);border-radius: 2rem;" target="_blank"><img    
+<table cellspacing="0" cellpadding="0" border="0" class="bmeFollowItem" type="youtube" style="float:left;" align="left"><tbody><tr><td align="left" class="bmeFollowItemIcon" gutter="20" width="20" style="padding-right:20px;height:20px;"><a href="https://www.linkedin.com/in/shan-ramanathan-57a97214b" target="_blank" style="display: inline-block;background-color: rgb(0, 0, 0);border-radius: 0px;border-style: solid; border-width: 5px; border-color: rgb(0, 0, 0);border-radius: 2rem;" target="_blank"><img    
  src="https://dodo.lk/img/linkedin.png" alt="YouTube" style="display: block; max-width: 114px;" border="0" width="24" height="24"></a></td></tr></tbody>    
 </table><!--[if gte mso 6]></td><td align="left" valign="top"><![endif]-->    
-<table cellspacing="0" cellpadding="0" border="0" class="bmeFollowItem" type="instagram" style="float:left;" align="left"><tbody><tr><td align="left" class="bmeFollowItemIcon" gutter="20" width="20" style="height:20px;"><a href="https://www.instagram.com/sri_lanka_tour_experts" target="_blank" style="display: inline-block;background-color: rgb(0, 0, 0);border-radius: 0px;border-style: solid; border-width: 5px; border-color: rgb(0, 0, 0);border-radius: 2rem;" target="_blank"><img    
+<table cellspacing="0" cellpadding="0" border="0" class="bmeFollowItem" type="instagram" style="float:left;" align="left"><tbody><tr><td align="left" class="bmeFollowItemIcon" gutter="20" width="20" style="height:20px;"><a href="https://www.youtube.com/@Travelmaldivesandsrilanka" target="_blank" style="display: inline-block;background-color: rgb(0, 0, 0);border-radius: 0px;border-style: solid; border-width: 5px; border-color: rgb(0, 0, 0);border-radius: 2rem;" target="_blank"><img    
  src="https://dodo.lk/img/youtube.png" alt="Instagram" style="display: block; max-width: 114px;" border="0" width="24" height="24"></a></td></tr></tbody>    
-</table></td></tr></tbody>    
+</table></td></tr></tbody>     
 </table></td></tr></tbody>    
 </table></td></tr></tbody>    
 </table></div><div id="dv_5" class="blk_wrapper">      
