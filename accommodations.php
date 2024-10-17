@@ -85,8 +85,8 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
-                <a href="home/index.php" class="nav-item nav-link">Home</a>
-                <a href="packages/packages.php" class="nav-item nav-link">Packages</a>
+                    <a href="home/index.php" class="nav-item nav-link">Home</a>
+                    <a href="packages/packages.php" class="nav-item nav-link">Packages</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Destination</a>
                         <div class="dropdown-menu m-0">
@@ -113,7 +113,7 @@
         <div class="acc--img">
             <div class="container text-center py-5 acc--txt">
                 <div class="mt-5 py-lg-5">
-                <h3 class="text-white display-3 mb-4">Accommodations</h3>
+                    <h3 class="text-white display-3 mb-4">Accommodations</h3>
                 </div>
                 <div>
                     <ol class="breadcrumb justify-content-center mb-0">
@@ -468,6 +468,12 @@
                         <span class="text-dark" style="width: 150px;">Nuwara&nbsp;Eliya</span>
                     </a>
                 </li>
+                <li class="nav-item">
+                    <a class="d-flex mx-3 py-2 border border-primary bg-light rounded-pill" data-bs-toggle="pill"
+                        href="#GalleryTab-26">
+                        <span class="text-dark" style="width: 150px;">Negombo</span>
+                    </a>
+                </li>
             </ul>
             <div class="tab-content">
                 <div id="GalleryTab-21" class="tab-pane fade show p-0 active">
@@ -819,7 +825,7 @@
                             </div>
                         </div> -->
                     </div>
-                    <br/>
+                    <br />
                     <h2 class="mt-5">Hotel Dad's Home Matale</h2>
                     <div class="row g-2 mt-5">
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
@@ -1083,7 +1089,7 @@
                     </div>
                 </div>
                 <div id="GalleryTab-25" class="tab-pane fade show p-0">
-                    <h2>HOTEL R21 Nuwaraeliya</h2>
+                    <h2>Hotel R21 Nuwaraeliya</h2>
                     <div class="row g-2 mt-5">
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                             <div class="gallery-item h-100">
@@ -1185,6 +1191,345 @@
                             </div>
                         </div>
                     </div>
+                    <br />
+                    <h2 class="mt-5">Hotel Woodnest Sithula Garden Nuwaraeliya</h2>
+                    <div class="row g-2 mt-5">
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU1.jpg" data-lightbox="SNU1" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU2.jpg" data-lightbox="SNU2" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU3.jpg" data-lightbox="SNU3" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU4.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU4.jpg" data-lightbox="SNU4" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU5.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU5.jpg" data-lightbox="SNU5" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU6.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU6.jpg" data-lightbox="SNU6" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU16.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU16.jpg" data-lightbox="SNU16" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU8.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU8.jpg" data-lightbox="SNU8" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU9.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU9.jpg" data-lightbox="SNU9" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU10.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU10.jpg" data-lightbox="SNU10" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU11.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU11.jpg" data-lightbox="SNU11" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU17.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU17.jpg" data-lightbox="SNU17" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU13.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU13.jpg" data-lightbox="SNU13" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU18.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU18.jpg" data-lightbox="SNU18" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU15.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU15.jpg" data-lightbox="SNU15" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU7.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU7.jpg" data-lightbox="SNU7" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU12.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU12.jpg" data-lightbox="SNU12" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU14.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU14.jpg" data-lightbox="SNU14" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNU19.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNU19.jpg" data-lightbox="SNU19" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="GalleryTab-26" class="tab-pane fade show p-0">
+                    <h2>Hotel Woodnest Summerside Negombo</h2>
+                    <div class="row g-2 mt-5">
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNE1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNE1.jpg" data-lightbox="SNE1" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNE2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNE2.jpg" data-lightbox="SNE2" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNE3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNE3.jpg" data-lightbox="SNE3" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNE4.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNE4.jpg" data-lightbox="SNE4" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNE10.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNE10.jpg" data-lightbox="SNE10" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNE6.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNE6.jpg" data-lightbox="SNE6" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNE7.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNE7.jpg" data-lightbox="SNE7" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNE8.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNE8.jpg" data-lightbox="SNE8" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNE9.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNE9.jpg" data-lightbox="SNE9" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNE5.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNE5.jpg" data-lightbox="SNE5" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/SNE11.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/SNE11.jpg" data-lightbox="SNE11" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <!-- <div id="GalleryTab-25" class="tab-pane fade show p-0">
                     <h2>Udawalawa</h2>
@@ -1225,7 +1570,6 @@
                 </div> -->
             </div>
         </div>
-    </div>
     </div>
     <!-- Lanka End -->
 
