@@ -93,21 +93,21 @@
                         <div class="dropdown-menu m-0">
                            
                            
-                                <a href="../accommodations.php#maldives" class="dropdown-item">Maldives</a>
-                                <a href="../accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
+                                <a href="destination.php#maldives" class="dropdown-item">Maldives</a>
+                                <a href="destination.php#lanka" class="dropdown-item">Sri Lanka</a>
                          
                             
                         </div>
                     </div>
                     <div class="nav-item dropdown">
-                        <a href="../accommodations.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Accommodations</a>
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Accommodations</a>
                         <div class="dropdown-menu m-0">
                             
                     
-                                <a href="../accommodations.php#maldives" class="dropdown-item">Maldives</a>
-                                <a href="../accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
+                                <a href="accommodations.php#maldives" class="dropdown-item">Maldives</a>
+                                <a href="accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
                             
-                            <a href="../gallery.php" class="dropdown-item">Gallery</a>
+                            <a href="gallery.php" class="dropdown-item">Gallery</a>
                         </div>
                     </div>
                     <a href="packages/packages.php" class="nav-item nav-link">Packages</a>

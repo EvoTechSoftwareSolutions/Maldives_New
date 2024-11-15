@@ -97,8 +97,8 @@
                         <div class="dropdown-menu m-0">
                            
                            
-                                <a href="../accommodations.php#maldives" class="dropdown-item">Maldives</a>
-                                <a href="../accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
+                                <a href="../destination.php#maldives" class="dropdown-item">Maldives</a>
+                                <a href="../destination.php#lanka" class="dropdown-item">Sri Lanka</a>
                          
                             
                         </div>
