@@ -75,8 +75,10 @@
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 <a href="../home/index.php" class="navbar-brand p-0">
                     <h1 class="text-primary m-0"><i class="fa me-3">
-                            <img src="../img/logo.png" class="header--logo">
-                        </i><span style="color: #fe6100;">dodo</span><span style="color: #0000fe;">Travel</span></h1>
+                            <img src="../img/dodologo.png" class="header--logo">
+                        </i><span style="color: #fe6100;">dodo</span>
+                        <!-- <span style="color: #0000fe;">Travel</span> -->
+                    </h1>
                     <!-- <img src="img/logo.png" alt="Logo"> -->
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -85,19 +87,31 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
                     <a href="../home/index.php" class="nav-item nav-link">Home</a>
-                    <a href="../packages/packages.php" class="nav-item nav-link">Packages</a>
+                    <a href="../about.php" class="nav-item nav-link">About</a>
+                    
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destination</a>
                         <div class="dropdown-menu m-0">
-                            <a href="../destination.php" class="dropdown-item">Destination</a>
-                            <span class="dropdown-header" style="font-size: 1rem;">Accommodations
+                           
+                           
                                 <a href="../accommodations.php#maldives" class="dropdown-item">Maldives</a>
                                 <a href="../accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
-                            </span>
+                         
+                            
+                        </div>
+                    </div>
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Accommodations</a>
+                        <div class="dropdown-menu m-0">
+                            
+                    
+                                <a href="../accommodations.php#maldives" class="dropdown-item">Maldives</a>
+                                <a href="../accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
+                            
                             <a href="../gallery.php" class="dropdown-item">Gallery</a>
                         </div>
                     </div>
-                    <a href="../about.php" class="nav-item nav-link">About</a>
+                    <a href="../packages/packages.php" class="nav-item nav-link">Packages</a>
                     <a href="#" class="nav-item nav-link active">Contact</a>
                 </div>
                 <a href="../home/index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>

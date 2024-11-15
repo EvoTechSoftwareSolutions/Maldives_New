@@ -146,16 +146,16 @@ h1,h2,h3,h4,h5,h6,span{
     font-family: 'Nunito', sans-serif;
     position: relative;
     margin-right: 25px;
-    padding: 35px 0;
+    padding: 32px 0;
     color: #FFFFFF !important;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     outline: none;
     transition: .5s;
 }
 
 .sticky-top.navbar-light .navbar-nav .nav-link {
-    padding: 20px 0;
+    padding: 10px 0;
     color: var(--dark) !important;
 }
 
@@ -232,6 +232,13 @@ h1,h2,h3,h4,h5,h6,span{
         display: none;
     }
 }
+
+/* @media (max-width: 1068px) {
+    .navbar-light .navbar-nav .nav-link.nav-contact::before {
+        display: none;
+    }
+} */
+
 
 /*** Section Title ***/
 .section-title {
@@ -1425,6 +1432,7 @@ color: var(--primary);
     background: rgb(0,0,0,0.1);
     border-radius: 2rem;
     border: solid rgba(255, 255, 255, .1);
+    -webkit-backdrop-filter:blur(25px);
     backdrop-filter: blur(25px);
     box-shadow: 0px 0px 30px 20px rgb(0,0,0,0.1);
 }
