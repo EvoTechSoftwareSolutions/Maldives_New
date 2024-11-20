@@ -101,8 +101,8 @@
                         <div class="dropdown-menu m-0">
                            
                            
-                                <a href="../destination.php#maldives" class="dropdown-item">Maldives</a>
-                                <a href="../destination.php#lanka" class="dropdown-item">Sri Lanka</a>
+                                <a href="../moldives.php" class="dropdown-item">Maldives</a>
+                                <a href="../srilanka.php" class="dropdown-item">Sri Lanka</a>
                          
                             
                         </div>
