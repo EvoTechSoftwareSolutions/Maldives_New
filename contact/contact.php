@@ -90,12 +90,11 @@
                     <a href="../about.php" class="nav-item nav-link">About</a>
 
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destination</a>
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destinations</a>
                         <div class="dropdown-menu m-0">
 
-
-                            <a href="../destination.php#maldives" class="dropdown-item">Maldives</a>
-                            <a href="../destination.php#lanka" class="dropdown-item">Sri Lanka</a>
+                        <a href="../moldives.php" class="dropdown-item">Maldives</a>
+                        <a href="../srilanka.php" class="dropdown-item">Sri Lanka</a>
 
 
                         </div>
@@ -247,13 +246,13 @@
                 <div class="col-md-6 col-lg-3 ms-lg-5">
                     <div class="footer-item d-flex flex-column">
                         <h4 class="mb-4 text-white">Quick Links</h4>
-                        <a href="../home/index.php"><i class="fas fa-angle-right me-2"></i> Home</a>
-                        <a href="../packages/packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
-                        <a href="../destination.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
-                        <a href="../accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
-                        <a href="../gallery.php"><i class="fas fa-angle-right me-2"></i> Gallery</a>
+                        <a href="#"><i class="fas fa-angle-right me-2"></i> Home</a>
                         <a href="../about.php"><i class="fas fa-angle-right me-2"></i> About</a>
-                        <a href="#"><i class="fas fa-angle-right me-2"></i> Contact</a>
+                        <a href="../moldives.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
+                        <a href="../accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
+                        <a href="../packages/packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
+                        <a href="../gallery.php"><i class="fas fa-angle-right me-2"></i> Gallery</a>
+                        <a href="../contact/contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
