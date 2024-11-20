@@ -150,20 +150,7 @@
                 <h1 class="mb-0">Popular Destinations</h1>
             </div>
             <div class="tab-class text-center wow fadeInUp" data-wow-delay="0.3s">
-                <ul class="nav nav-pills d-inline-flex justify-content-center mb-5">
-                    <!-- <li class="nav-item">
-                        <a class="d-flex mx-3 py-2 border border-primary bg-light rounded-pill active"
-                            data-bs-toggle="pill" href="#tab-1">
-                            <span class="text-dark" style="width: 150px;">Maldives</span>
-                        </a>
-                    </li> -->
-                    <li class="nav-item">
-                        <a class="d-flex py-2 mx-3 border border-primary bg-light rounded-pill active" data-bs-toggle="pill"
-                            href="#tab-2">
-                            <span class="text-dark" style="width: 150px;">Sri Lanka</span>
-                        </a>
-                    </li>
-                </ul>
+               
                 <div class="tab-content">
                     <!-- <div id="tab-1" class="tab-pane fade show p-0 active">
                         <div class="row g-4">
