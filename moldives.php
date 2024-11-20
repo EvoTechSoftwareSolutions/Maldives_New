@@ -335,9 +335,11 @@
             <h3 class="moldives--sec2--div2">PLACES OF TOURIST INTEREST – CAPITAL CITY of MALE, MALDIVES</h3>
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">ARTIFICIAL BEACH</h4>
-                <img src="../Maldives_New/img/m1.png" class="moldives--sec2--img1" alt="">
-                <p class="moldives--sec1--div3">located on the eastern side of male. This is an increasingly popular place for a relaxing swim, or for meeting up with friends. Other recommended pastimes in and around the area include eating at the nearby cafes, watching youngsters play football, basketball or glide on roller skates, or just relaxing on the beaches around the seafront. a great place to take your camera along.
-            </p>
+                <div class="moldives--sec2--div5">
+                    <img src="../Maldives_New/img/m1.png" class="moldives--sec2--img1" alt="">
+                    <p class="moldives--sec1--div6">located on the eastern side of male. This is an increasingly popular place for a relaxing swim, or for meeting up with friends. Other recommended pastimes in and around the area include eating at the nearby cafes, watching youngsters play football, basketball or glide on roller skates, or just relaxing on the beaches around the seafront. a great place to take your camera along.
+                    </p>
+                </div>
 
             </div>
         </div>
