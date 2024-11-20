@@ -1570,7 +1570,7 @@ span {
     width: 90%;
     margin: auto;
     padding: 0;
-    margin-top: 1rem;
+    margin-top: 3rem;
 
 }
 
@@ -1677,4 +1677,40 @@ span {
         width: 100%;
     }
 
+}
+
+
+.moldives--sec2--div1 {
+    width: 90%;
+    margin: auto;
+    padding: 0;
+    margin-top: 3rem;
+
+}
+
+.moldives--sec2--div2 {
+    color: var(--bs-primary);
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.moldives--sec2--div3{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.moldives--sec2--img1{
+    width: 80%;
+     /* justify-content: center;
+    align-items: center;
+    margin: auto; */
+}
+
+.moldives--sec2--div4{
+color: var(--dark);
+font-weight: bold;
+margin-top: 1rem;
 }
