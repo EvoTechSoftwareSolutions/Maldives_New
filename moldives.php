@@ -324,12 +324,8 @@
 
         </div>
 
-
-
-
-
-
     </section>
+
     <section class="moldives--sec2">
         <div class="moldives--sec2--div1">
             <h3 class="moldives--sec2--div2">PLACES OF TOURIST INTEREST – CAPITAL CITY of MALE, MALDIVES</h3>
@@ -344,7 +340,7 @@
 
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">CHILDREN’S PARK</h4>
-                <div class="moldives--sec2--div5">
+                <div class="moldives--sec2--div5 reverse">
                     <img src="../Maldives_New/img/moldives/m2.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6"> located in the south eastern tip of Male, this well-planned recreation space is an ideal place for an evening stroll, a family outing, or to take your children out for some fun and frolic. Besides the colorful play area, there is also a skating rink for kids. Entrance is free.
                     </p>
@@ -362,7 +358,7 @@
 
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">HUKURU MISKIIY</h4>
-                <div class="moldives--sec2--div5">
+                <div class="moldives--sec2--div5 reverse">
                     <img src="../Maldives_New/img/moldives/m4.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6">The hukuru miskiiy ,or Friday mosque ,was build in 1656 during the reign of sultan Ibrahim Iskandar I. The interior and exterior walls of this historic mosque, build with coral stones, are intricately carved with Arabic writings and ornamental patterns. The roof, window frames, and doors are made of different types of wood including teak, red sandalwood, and redwood. There is an abundance of beautiful coral carvings and expert lacquer work inside the mosque, the latter being most conspicuous in the laage, or domes, build as part of the ceiling. The compound of the mosque also encloses a number of ancient tombstones erected in memory of past sultans, heroes and nobles.
                     </p>
@@ -380,7 +376,7 @@
 
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">JUMHOOREE MAIDAN</h4>
-                <div class="moldives--sec2--div5">
+                <div class="moldives--sec2--div5 reverse">
                     <img src="../Maldives_New/img/moldives/m6.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6"> Beautifully laid out with carpet green grass and lush vegetation, this public square constructed along the northern waterfront in 1989, is Male’s most popular place for social gatherings and relaxation. It is also one of the favorite evening hangouts for children. On the eastern end of the square stands the official flag post on which is hoisted a permanent flag, the largest in the country.
                     </p>
@@ -398,7 +394,7 @@
 
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">MULEE-AAGE</h4>
-                <div class="moldives--sec2--div5">
+                <div class="moldives--sec2--div5 reverse">
                     <img src="../Maldives_New/img/moldives/m8.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6">Mulee-aage was originally build by sultan Shamshudeen III for his son just before the first world war. After the sultan and his son were banished in May 1936,the house was declared a government property. The Mulee-aage was officially declared and used as an office complex by subsequent governments. After the country became a republic in 1953, the Mulee-aage became the “president’s official resident”. In 1986 the house was upgraded to hold official functions and to accommodate visiting heads of states and other foreign dignitaries.
                     </p>
@@ -417,7 +413,7 @@
 
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">SULTAN PARK & THE NATIONAL MUSEUM</h4>
-                <div class="moldives--sec2--div5">
+                <div class="moldives--sec2--div5 reverse">
                     <img src="../Maldives_New/img/moldives/m10.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6">Maldives changed from a republic to a sultanate and back to a republic in a span of just 16 years (1953 to 1968).The sultan’s palace however was demolished except for a three story building and the palace grounds were turned into a public park, known as the sultan park. The surviving palace building within the park is today the national museum. Opened on November 19,1952,the museum displays a large and varied collection of a glorious bygone era including stone objects from the pre-Islamic period ,royal antiquities like thrones, palanquins ,royal sunshades, costumes and shoes, coins and ornaments, arms and amour, coral stone sculptures, lacquered wooden containers, miniature, hand-written Quran, hookahs, sunshades , traditional log drums from the royal palace used in the popular music of Bodu Beru, and the very interiors of the museum-retained from the days of the sultanate-are the added attractions . Two of the most significant items on display are the coral stone head of lord Buddha, a 11th century piece from Alifu Thoddu and a 13th century engraved wooden panel from Hukuru Miskiiy. Timings 09.00 AM to 03.00 PM. Closed on Fridays and public holidays.
                     </p>
@@ -428,10 +424,38 @@
                 <h4 class="moldives--sec2--div4">TOMB OF MOHAMMED THAKURUFAANU</h4>
                 <div class="moldives--sec2--div5">
                     <img src="../Maldives_New/img/moldives/m11.png" class="moldives--sec2--img1" alt="">
-                    <p class="moldives--sec1--div6">this tomb is erected in the compound of the Bihuroazu Kamanaa Miskilly,in memory of Sultan Ghaazee Mohammed Thakurufaanu,regarded as the greatest of national heroes. He liberated the country from Portuguese rule, who had been occupying the land for 15 years after defeating sultan Ali VI in 1558. 
+                    <p class="moldives--sec1--div6">this tomb is erected in the compound of the Bihuroazu Kamanaa Miskilly,in memory of Sultan Ghaazee Mohammed Thakurufaanu,regarded as the greatest of national heroes. He liberated the country from Portuguese rule, who had been occupying the land for 15 years after defeating sultan Ali VI in 1558.
                     </p>
                 </div>
             </div>
+
+            <div class="moldives--sec2--div7--sub">
+                <div class="moldives--sec2--div7">
+                    <div class="moldives--sec2--div8">
+                        <h4 class="moldives--sec2--div9">SHOPPING</h4>
+                        <div class="moldives--sec2--div10">
+                            <p class="moldives--sec1--div11">
+                                The capital male being the center of commercial activity is the ideal place to shop. Shops
+                                open between 07.30am and 09.30am, closing at 11.00 pm. On Fridays they open at 02.00pm, closing as
+                                usual. All shops close for 15 minutes at every prayer time
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="moldives--sec2--div8 entry--div">
+                        <h4 class="moldives--sec2--div9">ENTRY</h4>
+                        <div class="moldives--sec2--div10">
+                            <p class="moldives--sec1--div11">
+                                No prior visa arrangements are required. A tourist visa of 30 days will be given to visitors with
+                                valid travel documents, on arrival. Visitors should be in possession of at least USD 25 per day of stay in
+                                Maldives. For those coming from yellow fever infected regions, an international certificate of inoculation
+                                is required.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
 
     </section>
