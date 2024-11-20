@@ -1721,7 +1721,7 @@ text-align: center;
     margin-top: 1rem;
 }
 
-@media screen and (min-width:500px) {
+@media screen and (min-width:550px) {
     .moldives--sec2--div5{
         display: flex;
         flex-direction: row;
@@ -1742,7 +1742,7 @@ text-align: center;
     .moldives--sec2--div5{
         display: flex;
         flex-direction: row;
-        width: 80%;
+        width: 90%;
     }
     .moldives--sec1--div6{
         width: 40%;
