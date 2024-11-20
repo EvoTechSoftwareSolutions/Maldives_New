@@ -97,8 +97,8 @@
                         <div class="dropdown-menu m-0">
 
 
-                        <a href="moldives.php" class="dropdown-item">Maldives</a>
-                        <a href="srilanka.php" class="dropdown-item">Sri Lanka</a>
+                            <a href="moldives.php" class="dropdown-item">Maldives</a>
+                            <a href="srilanka.php" class="dropdown-item">Sri Lanka</a>
 
 
                         </div>
@@ -143,6 +143,11 @@
     <!-- Header End -->
 
     <section class="moldives--sec1">
+
+        <div class="mx-auto text-center mb-5 mt-5 wow fadeInUp" style="max-width: 900px;" data-wow-delay="0.1s">
+            <h5 class="section-title bg-white text-center text-primary px-3">DESTINATION</h5>
+            <h1 class="mb-0">MALDIVES</h1>
+        </div>
 
         <div class="moldives--sec1--div1">
             <h3 class="moldives--sec1--div2">INTRODUCTION</h3>
@@ -328,7 +333,11 @@
 
     <section class="moldives--sec2">
         <div class="moldives--sec2--div1">
-            <h3 class="moldives--sec2--div2">PLACES OF TOURIST INTEREST – CAPITAL CITY OF MALE, MALDIVES</h3>
+            <div class="mx-auto text-center mb-5  wow fadeInUp" style="max-width: 900px;" data-wow-delay="0.1s">
+                <h5 class="section-title bg-white text-center text-primary px-3">PLACES OF TOURIST INTEREST</h5>
+                <h1 class="mb-0">CAPITAL CITY OF MALE , MALDIVES</h1>
+            </div>
+            <!-- <h3 class="moldives--sec2--div2">PLACES OF TOURIST INTEREST – CAPITAL CITY OF MALE, MALDIVES</h3> -->
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">ARTIFICIAL BEACH</h4>
                 <div class="moldives--sec2--div5">
