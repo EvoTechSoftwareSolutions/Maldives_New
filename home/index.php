@@ -431,7 +431,7 @@
                                             spots. The waters here are home to a variety of marine species,
                                             including whale...
                                         </span>
-                                        <a href="../moldives.php#male1" class="btn-hover"
+                                        <a href="../destination.php#male1" class="btn-hover"
                                             style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                 class="bi bi-caret-right-fill"></i></a>
                                     </div>
@@ -453,7 +453,7 @@
                                                     experience. Known for its beautiful beaches and budget-friendly
                                                     guesthouses, visitors...
                                                 </span>
-                                                <a href="../moldives.php#male2" class="btn-hover"
+                                                <a href="../destination.php#male2" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
@@ -473,7 +473,7 @@
                                                     biodiversity, including Hanifaru Bay, known for seasonal manta ray
                                                     gatherings...
                                                 </span>
-                                                <a href="../moldives.php#male3" class="btn-hover"
+                                                <a href="../destination.php#male3" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
@@ -495,7 +495,7 @@
                                                     vibrant
                                                     fish...
                                                 </span>
-                                                <a href="../moldives.php#male4" class="btn-hover"
+                                                <a href="../destination.php#male4" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
@@ -515,7 +515,7 @@
                                                     freshwater lakes and lush greenery. It is known for its incredible
                                                     diving experiences,...
                                                 </span>
-                                                <a href="../moldives.php#male5" class="btn-hover"
+                                                <a href="../destination.php#male5" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
@@ -543,7 +543,7 @@
                                                     Heritage Site known for its ancient rock fortress that rises
                                                     dramatically above the jungle...
                                                 </span>
-                                                <a href="../srilanka.php#lanka1" class="btn-hover"
+                                                <a href="../destination.php#lanka1" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
@@ -563,7 +563,7 @@
                                                     breathtaking scenery and lush tea plantations. Hiking enthusiasts
                                                     can trek to Ella Rock or Little...
                                                 </span>
-                                                <a href="../srilanka.php#lanka2" class="btn-hover"
+                                                <a href="../destination.php#lanka2" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
@@ -583,7 +583,7 @@
                                                     Temple of the Tooth Relic, which houses a relic of the Buddha. The
                                                     city is surrounded by lush...
                                                 </span>
-                                                <a href="../srilanka.php#lanka3" class="btn-hover"
+                                                <a href="../destination.php#lanka3" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
@@ -604,7 +604,7 @@
                                                     historic city located on the southwestern coast. The Galle Fort, a
                                                     UNESCO World Heritage...
                                                 </span>
-                                                <a href="../srilanka.php#lanka4" class="btn-hover"
+                                                <a href="../destination.php#lanka4" class="btn-hover"
                                                     style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                         class="bi bi-caret-right-fill"></i></a>
                                             </div>
@@ -627,7 +627,7 @@
                                             climate, lush tea estates, and colonial architecture. Visitors can tour
                                             tea...
                                         </span>
-                                        <a href="../srilanka.php#lanka5" class="btn-hover"
+                                        <a href="../destination.php#lanka5" class="btn-hover"
                                             style="color: rgb(187, 187, 187);">View&nbsp;More&nbsp;<i
                                                 class="bi bi-caret-right-fill"></i></a>
                                     </div>
