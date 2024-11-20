@@ -97,7 +97,7 @@
                     <a href="../about.php" class="nav-item nav-link">About</a>
                     
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destination</a>
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destinations</a>
                         <div class="dropdown-menu m-0">
                            
                            
@@ -1968,11 +1968,11 @@
                     <div class="footer-item d-flex flex-column">
                         <h4 class="mb-4 text-white">Quick Links</h4>
                         <a href="#"><i class="fas fa-angle-right me-2"></i> Home</a>
-                        <a href="../packages/packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
-                        <a href="../destination.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
-                        <a href="../accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
-                        <a href="../gallery.php"><i class="fas fa-angle-right me-2"></i> Gallery</a>
                         <a href="../about.php"><i class="fas fa-angle-right me-2"></i> About</a>
+                        <a href="../moldives.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
+                        <a href="../accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
+                        <a href="../packages/packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
+                        <a href="../gallery.php"><i class="fas fa-angle-right me-2"></i> Gallery</a>
                         <a href="../contact/contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
                     </div>
                 </div>
