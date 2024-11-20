@@ -145,27 +145,27 @@
     <section class="moldives--sec1">
 
         <div class="moldives--sec1--div1">
-            <h1 class="moldives--sec1--div2">INTRODUCTION</h1>
+            <h3 class="moldives--sec1--div2">INTRODUCTION</h3>
             <p class="moldives--sec1--div3">Maldivian archipelago located 300 miles southwest of the southern tip of tip of India and 450 miles west of Sri Lanka is a beautiful string of 1,190 low-laying coral islands scattered across the equator in the vast expanse of the Indian ocean, giving us a rare glimpse of what is aptly described as a tropical paradise. Just consider this – sparkling white sun kissed beaches, crystal-clear lagoons studded with profusely-colored corals, azure warm seas with an undisturbed, exotic marine life, palm – fringed islands, the pervading serenity, all of it summarized by the famous Moroccan traveler LBN Battuta on describing Maldives as one of the wonders of the world. <br>
                 The sun the sand and the sea. These are just the three simple realities beckoning tourists from far and wide to these little islets, giving as a result, a glorious sense of happiness and proving to be a heavenly gateway from the world and its worries. The Maldives teaches the visitors the pleasurable art of doing nothing, simply lazing around and enjoying some of the most spectacular and colorful vistas offered by nature. <br>
                 No wonder then that tourists flock in large numbers to the 120-odd self-contained island resorts provided with all the comforts and warmth exuded by traditional Maldivian hospitality which is why Maldives is considered to be the ultimate destination, the future world for holiday makers.
             </p>
 
-            <h1 class="moldives--sec1--div2">SEASON</h1>
+            <h3 class="moldives--sec1--div2">SEASON</h3>
             <p class="moldives--sec1--div3">November through April being the peak season, reservations for stay must be made well in advance. From May to October the demand and costs for accommodation are comparatively lower. In June and July ,the Maldives experiences regular showers with monsoons bringing in more wind and rain.
             </p>
 
 
-            <h1 class="moldives--sec1--div2">PEOPLE</h1>
+            <h3 class="moldives--sec1--div2">PEOPLE</h3>
             <p class="moldives--sec1--div3">people from different parts of the world came across this island nation as it lay in the sea routes to Malacca and China. Speculations indicate that the earliest settlers could have been Dravidians from southern India and the Yakka and Naga people from Sri Lanka. Aryans from the Indus valley probably followed them. but with the coming of the Arabs, the influence of Islam gradually replaced Hinduism and Buddhism practiced by the early settlers. Being on the main seaway around the Indian subcontinent, the islands have long been a meeting point for Arab, African, Malay, and Indonesian mariners. The faces that we see today reflect all these influences contributing to a racial and cultural melting pot.
             </p>
 
-            <h1 class="moldives--sec1--div2">SOCIAL CUSTOMS</h1>
+            <h3 class="moldives--sec1--div2">SOCIAL CUSTOMS</h3>
             <p class="moldives--sec1--div3">handshaking is the most common form of greeting. Dress is informal. Light cotton cloths are recommended. Nudity is forbidden. Swimsuits and beachwear are to be confined to resort islands. When visiting an inhabited island or the capital, shorts and t-shirts for men, and blouse or t-shirts with skirts or shorts that cover the thighs, made of non-diaphanous material, for women, are a minimum requirement, Maldivians traditionally eat with their fingers.it is also considered unhygienic to touch food with the left hand. Use a spoon, if in doubt. <br>
                 No wonder then that tourists flock in large numbers to the 120-odd self-contained island resorts provided with all the comforts and warmth exuded by traditional Maldivian hospitality which is why Maldives is considered to be the ultimate destination, the future world for holiday makers.
             </p>
 
-            <h1 class="moldives--sec1--div2">MALDIVES AT A GLANCE</h1>
+            <h3 class="moldives--sec1--div2">MALDIVES AT A GLANCE</h3>
             <div>
                 <table id="customers">
 
