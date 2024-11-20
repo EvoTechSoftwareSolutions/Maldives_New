@@ -328,7 +328,7 @@
 
     <section class="moldives--sec2">
         <div class="moldives--sec2--div1">
-            <h3 class="moldives--sec2--div2">PLACES OF TOURIST INTEREST – CAPITAL CITY of MALE, MALDIVES</h3>
+            <h3 class="moldives--sec2--div2">PLACES OF TOURIST INTEREST – CAPITAL CITY OF MALE, MALDIVES</h3>
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">ARTIFICIAL BEACH</h4>
                 <div class="moldives--sec2--div5">
