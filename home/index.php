@@ -415,7 +415,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="btn btn-primary rounded-pill py-2 px-5 mx-3" href="../moldives.php">View All</a>
+                        <a class="btn btn-primary rounded-pill py-2 px-5 mx-3" href="../destination.php">View All</a>
                     </li>
                 </ul>
                 <div class="tab-content">
