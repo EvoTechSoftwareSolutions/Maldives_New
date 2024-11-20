@@ -129,7 +129,7 @@
                 <div>
                     <ol class="breadcrumb justify-content-center mb-0">
                         <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumb-item"><a href="#">Destinations</a></li>
+                        <li class="breadcrumb-item"><a href="#">Accommodations</a></li>
                         <li class="breadcrumb-item active text-white">Gallery</li>
                     </ol>
                 </div>
