@@ -65,11 +65,16 @@
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
                         href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank"><i
                             class="fab fa-facebook-f fw-normal"></i></a>
+
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-                        href="https://www.linkedin.com/in/shan-ramanathan-57a97214b/" target="_blank"><i
+                        href="https://www.instagram.com/dodo_lk/" target="_blank"><i
+                            class="fab fa-instagram fw-normal"></i></a>
+
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
+                        href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank"><i
                             class="fab fa-linkedin-in fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle"
-                        href="https://www.youtube.com/@Travelmaldivesandsrilanka" target="_blank"><i
+                        href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank"><i
                             class="fab fa-youtube fw-normal"></i></a>
                 </div>
             </div>
@@ -95,26 +100,26 @@
                 <div class="navbar-nav ms-auto py-0">
                     <a href="#" class="nav-item nav-link active">Home</a>
                     <a href="../about.php" class="nav-item nav-link">About</a>
-                    
+
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destinations</a>
                         <div class="dropdown-menu m-0">
-                           
-                           
-                                <a href="../moldives.php" class="dropdown-item">Maldives</a>
-                                <a href="../srilanka.php" class="dropdown-item">Sri Lanka</a>
-                         
-                            
+
+
+                            <a href="../moldives.php" class="dropdown-item">Maldives</a>
+                            <a href="../srilanka.php" class="dropdown-item">Sri Lanka</a>
+
+
                         </div>
                     </div>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Accommodations</a>
                         <div class="dropdown-menu m-0">
-                            
-                    
-                                <a href="../accommodations.php#maldives" class="dropdown-item">Maldives</a>
-                                <a href="../accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
-                            
+
+
+                            <a href="../accommodations.php#maldives" class="dropdown-item">Maldives</a>
+                            <a href="../accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
+
                             <a href="../gallery.php" class="dropdown-item">Gallery</a>
                         </div>
                     </div>
@@ -236,29 +241,29 @@
                     style="background: linear-gradient(rgba(0, 0, 90, 0.1), rgba(0, 0, 90, 0.1));padding: 1rem; border-radius: 0rem 0rem 2rem 0rem;">
                     <h5 class="section-title bg-white text-start text-primary pe-3"
                         style="background: linear-gradient(rgba(0, 0, 90, 0.1), rgba(0, 0, 90, 0.1));">About Us</h5>
-                    <h1 class="mb-4">Welcome to <span class="text-primary">DODO Travel</span></h1>
-                    <p class="mb-4">Discover the best of the Maldives and Sri Lanka with DODO Travel, your gateway to
+                    <h1 class="mb-4">Welcome to <span class="text-primary">dodo.lk</span></h1>
+                    <p class="mb-4">Discover the best of the Maldives and Sri Lanka with DODO , your gateway to
                         unforgettable experiences. Whether you're dreaming of a luxurious beach retreat or an
                         adventurous cultural journey, we tailor every trip to your desires.</p>
-                    <p class="mb-4">At DODO Travel, we craft bespoke travel itineraries that offer the perfect blend of
+                    <p class="mb-4">At DODO , we craft bespoke travel itineraries that offer the perfect blend of
                         relaxation and exploration. From the pristine beaches of the Maldives to the scenic beauty of
                         Sri Lanka, we ensure every moment of your journey is extraordinary.
                     </p>
                     <div class="row gy-2 gx-4 mb-4">
-                        <div class="col-sm-6">
+                        <!-- <div class="col-sm-6">
                             <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i><i
                                     class="fa fa-plane text-primary"></i>&nbsp;First Class Flights
                             </p>
-                        </div>
+                        </div> -->
                         <div class="col-sm-6">
                             <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i><i
-                                    class="bi bi-star-fill text-primary"></i>&nbsp;5 Star Accommodations
+                                    class="bi bi-star-fill text-primary"></i>&nbsp; Star Accommodations
                             </p>
                         </div>
-                        <div class="col-sm-6">
+                        <!-- <div class="col-sm-6">
                             <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i><i
                                     class="fa fa-hotel text-primary"></i>&nbsp;Handpicked Hotels</p>
-                        </div>
+                        </div> -->
                         <div class="col-sm-6">
                             <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i><i
                                     class="fa fa-car text-primary"></i>&nbsp;Latest Model Vehicles
@@ -302,9 +307,8 @@
                     <div class="service-item rounded pt-3 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="p-4">
                             <i class="fa fa-3x fa-globe text-primary mb-4"></i>
-                            <h5>WorldWide Tours</h5>
-                            <p>Explore captivating global destinations with expertly crafted tours tailored to your
-                                travel preferences.
+                            <h5>Airport Shuttle Service</h5>
+                            <p>Reliable 24/7 airport shuttle service, ensuring stress-free transportation to and from the airport anytime you need.
                             </p>
                         </div>
                     </div>
@@ -331,7 +335,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+                <!-- <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="service-item rounded pt-3">
                         <div class="p-4">
                             <i class="fa fa-3x fa-cogs text-primary mb-4"></i>
@@ -340,7 +344,7 @@
                                 personal and corporate needs.</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item rounded pt-3">
                         <div class="p-4">
@@ -353,7 +357,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                <!-- <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item rounded pt-3">
                         <div class="p-4">
                             <i class="fa fa-3x fa-users text-primary mb-4"></i>
@@ -387,7 +391,7 @@
                                 unforgettable journey.</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -1568,7 +1572,7 @@
                     <h6 class="section-title--book text-white  pe-3 text-start">Booking
                     </h6>
                     <h1 class="text-white mb-4">Online Booking</h1>
-                    <p class="text-white mb-4">Ready to turn your travel dreams into reality? At DODO Travel, we offer
+                    <p class="text-white mb-4">Ready to turn your travel dreams into reality? At DODO , we offer
                         exclusive packages designed just for you. With personalized itineraries and exceptional service,
                         your ideal vacation is just a click away.
                     </p>
@@ -1828,7 +1832,7 @@
     <!-- Blog End -->
 
     <!-- Testimonial Start -->
-    <div class="container-fluid testimonial py-5" data-wow-delay="0.1s">
+    <!-- <div class="container-fluid testimonial py-5" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="mx-auto text-center mb-5" style="max-width: 900px;">
                 <h5 class="section-title bg-white text-center text-primary px-3">Testimonials</h5>
@@ -1921,7 +1925,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Testimonial End -->
 
     <!-- Subscribe Start -->
@@ -1991,6 +1995,19 @@
                                     </a>
                                 </a>
                             </div>
+                           
+                            <div class="align-items-center d-flex flex-row mt-2">
+                                <a href=""></a>
+                                <i class="fas fa-share fa-1x text-white me-2"></i>
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo_lk/"
+                                    target="_blank">
+                                    <i class="fab bi-instagram "></i>
+                                    <a href="https://www.instagram.com/dodo_lk/" target="_blank"><i class="fas me-0"></i>
+                                    Instagram</a>
+                                </a>
+                                </a>
+                            </div>
+
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
@@ -2006,9 +2023,9 @@
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
                                 <a class="btn-square btn btn-primary rounded-circle mx-1"
-                                    href="https://www.linkedin.com/in/shan-ramanathan-57a97214b" target="_blank">
+                                    href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank">
                                     <i class="fab fa-linkedin-in"></i>
-                                    <a href="https://www.linkedin.com/in/shan-ramanathan-57a97214b" target="_blank"><i
+                                    <a href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank"><i
                                             class="fas me-0"></i> Linkedin</a>
                                 </a>
                                 </a>
@@ -2017,9 +2034,9 @@
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
                                 <a class="btn-square btn btn-primary rounded-circle mx-1"
-                                    href="https://www.youtube.com/@Travelmaldivesandsrilanka" target="_blank">
+                                    href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank">
                                     <i class="fab fa-youtube"></i>
-                                    <a href="https://www.youtube.com/@Travelmaldivesandsrilanka" target="_blank"><i
+                                    <a href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank"><i
                                             class="fas me-0"></i> YouTube</a>
                                 </a>
                                 </a>

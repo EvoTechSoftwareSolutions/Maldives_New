@@ -59,13 +59,21 @@
             </div>
             <div class="col-lg-4 text-center text-lg-end">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://wa.link/vpjzv8" target="_blank"><i
-                            class="fab fa-whatsapp fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank"><i
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
+                        href="https://wa.link/vpjzv8" target="_blank"><i class="fab fa-whatsapp fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
+                        href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank"><i
                             class="fab fa-facebook-f fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.linkedin.com/in/shan-ramanathan-57a97214b/" target="_blank"><i
+
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
+                        href="https://www.instagram.com/dodo_lk/" target="_blank"><i
+                            class="fab fa-instagram fw-normal"></i></a>
+
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
+                        href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank"><i
                             class="fab fa-linkedin-in fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href="https://www.youtube.com/@Travelmaldivesandsrilanka" target="_blank"><i
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle"
+                        href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank"><i
                             class="fab fa-youtube fw-normal"></i></a>
                 </div>
             </div>
@@ -91,26 +99,26 @@
                 <div class="navbar-nav ms-auto py-0">
                     <a href="home/index.php" class="nav-item nav-link">Home</a>
                     <a href="about.php" class="nav-item nav-link">About</a>
-                    
+
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destinations</a>
                         <div class="dropdown-menu m-0">
-                           
-                           
-                        <a href="moldives.php" class="dropdown-item">Maldives</a>
-                        <a href="srilanka.php" class="dropdown-item">Sri Lanka</a>
-                         
-                            
+
+
+                            <a href="moldives.php" class="dropdown-item">Maldives</a>
+                            <a href="srilanka.php" class="dropdown-item">Sri Lanka</a>
+
+
                         </div>
                     </div>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Accommodations</a>
                         <div class="dropdown-menu m-0">
-                            
-                    
-                                <a href="accommodations.php#maldives" class="dropdown-item">Maldives</a>
-                                <a href="accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
-                            
+
+
+                            <a href="accommodations.php#maldives" class="dropdown-item">Maldives</a>
+                            <a href="accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
+
                             <a href="gallery.php" class="dropdown-item">Gallery</a>
                         </div>
                     </div>
@@ -1003,36 +1011,57 @@
                             <div class="align-items-center d-flex flex-row">
                                 <a href="">
                                     <i class="fas fa-share fa-1x text-white me-2"></i>
-                                    <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank">
+                                    <a class="btn-square btn btn-primary rounded-circle mx-1"
+                                        href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank">
                                         <i class="fab fa-facebook-f"></i>
-                                        <a href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank"><i class="fas me-0"></i> Facebook</a>
+                                        <a href="https://www.facebook.com/profile.php?id=61565220060400"
+                                            target="_blank"><i class="fas me-0"></i> Facebook</a>
                                     </a>
                                 </a>
                             </div>
+
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://wa.link/vpjzv8" target="_blank">
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo_lk/"
+                                    target="_blank">
+                                    <i class="fab bi-instagram "></i>
+                                    <a href="https://www.instagram.com/dodo_lk/" target="_blank"><i class="fas me-0"></i>
+                                        Instagram</a>
+                                </a>
+                                </a>
+                            </div>
+
+                            <div class="align-items-center d-flex flex-row mt-2">
+                                <a href=""></a>
+                                <i class="fas fa-share fa-1x text-white me-2"></i>
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://wa.link/vpjzv8"
+                                    target="_blank">
                                     <i class="fab fa-whatsapp"></i>
-                                    <a href="https://wa.link/vpjzv8" target="_blank"><i class="fas me-0"></i> WhatsApp</a>
+                                    <a href="https://wa.link/vpjzv8" target="_blank"><i class="fas me-0"></i>
+                                        WhatsApp</a>
                                 </a>
                                 </a>
                             </div>
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.linkedin.com/in/shan-ramanathan-57a97214b" target="_blank">
+                                <a class="btn-square btn btn-primary rounded-circle mx-1"
+                                    href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank">
                                     <i class="fab fa-linkedin-in"></i>
-                                    <a href="https://www.linkedin.com/in/shan-ramanathan-57a97214b" target="_blank"><i class="fas me-0"></i> Linkedin</a>
+                                    <a href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank"><i
+                                            class="fas me-0"></i> Linkedin</a>
                                 </a>
                                 </a>
                             </div>
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.youtube.com/@Travelmaldivesandsrilanka" target="_blank">
+                                <a class="btn-square btn btn-primary rounded-circle mx-1"
+                                    href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank">
                                     <i class="fab fa-youtube"></i>
-                                    <a href="https://www.youtube.com/@Travelmaldivesandsrilanka" target="_blank"><i class="fas me-0"></i> YouTube</a>
+                                    <a href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank"><i
+                                            class="fas me-0"></i> YouTube</a>
                                 </a>
                                 </a>
                             </div>
