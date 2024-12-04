@@ -161,7 +161,7 @@
                     style="background: linear-gradient(rgba(0, 0, 90, 0.1), rgba(0, 0, 90, 0.1));padding: 1rem; border-radius: 0rem 0rem 2rem 0rem;">
                     <h5 class="section-title bg-white text-start text-primary pe-3"
                         style="background: linear-gradient(rgba(0, 0, 90, 0.1), rgba(0, 0, 90, 0.1));">About Us</h5>
-                    <h1 class="mb-4">Welcome to <span class="text-primary">DODO Travel</span></h1>
+                    <h1 class="mb-4">Welcome to <span class="text-primary">dodo.lk</span></h1>
                     <p class="mb-4">Discover the best of the Maldives and Sri Lanka with DODO Travel, your gateway to
                         unforgettable experiences. Whether you're dreaming of a luxurious beach retreat or an
                         adventurous cultural journey, we tailor every trip to your desires.</p>
@@ -170,24 +170,16 @@
                         Sri Lanka, we ensure every moment of your journey is extraordinary.
                     </p>
                     <div class="row gy-2 gx-4 mb-4">
+                        
                         <div class="col-sm-6">
                             <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i><i
-                                    class="fa fa-plane text-primary"></i>&nbsp;First Class Flights
-                            </p>
-                        </div>
-                        <div class="col-sm-6">
-                            <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i><i
-                                    class="bi bi-star-fill text-primary"></i>&nbsp;5 Star Accommodations
+                                    class="bi bi-star-fill text-primary"></i>&nbsp;Star Accommodations
                             </p>
                         </div>
                         <div class="col-sm-6">
                             <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i><i
                                     class="fa fa-globe text-primary"></i>&nbsp;Customized Tours &
                                 Experiences</p>
-                        </div>
-                        <div class="col-sm-6">
-                            <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i><i
-                                    class="fa fa-hotel text-primary"></i>&nbsp;Handpicked Hotels</p>
                         </div>
                         <div class="col-sm-6">
                             <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i><i
@@ -223,13 +215,12 @@
                 <h1 class="mb-5">Our Services</h1>
             </div>
             <div class="row g-4">
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item rounded pt-3">
+                <div class="col-lg-3 col-sm-6">
+                    <div class="service-item rounded pt-3 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="p-4">
                             <i class="fa fa-3x fa-globe text-primary mb-4"></i>
-                            <h5>WorldWide Tours</h5>
-                            <p>Explore captivating global destinations with expertly crafted tours tailored to your
-                                travel preferences.
+                            <h5>Airport Shuttle Service</h5>
+                            <p>Reliable 24/7 airport shuttle service, ensuring stress-free transportation to and from the airport anytime you need.
                             </p>
                         </div>
                     </div>
@@ -256,7 +247,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+                <!-- <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="service-item rounded pt-3">
                         <div class="p-4">
                             <i class="fa fa-3x fa-cogs text-primary mb-4"></i>
@@ -265,7 +256,7 @@
                                 personal and corporate needs.</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item rounded pt-3">
                         <div class="p-4">
@@ -278,7 +269,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                <!-- <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item rounded pt-3">
                         <div class="p-4">
                             <i class="fa fa-3x fa-users text-primary mb-4"></i>
@@ -312,14 +303,14 @@
                                 unforgettable journey.</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
     <!-- Services End -->
 
     <!-- Testimonial Start -->
-    <div class="container-fluid testimonial py-5">
+    <!-- <div class="container-fluid testimonial py-5">
         <div class="container py-5">
             <div class="mx-auto text-center mb-5" style="max-width: 900px;">
                 <h5 class="section-title bg-white text-center text-primary px-3">Testimonials</h5>
@@ -412,7 +403,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Testimonial End -->
 
     <!-- Footer Start -->
