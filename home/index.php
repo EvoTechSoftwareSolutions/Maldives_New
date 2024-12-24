@@ -8,7 +8,7 @@
     <!-- <meta content="" name="keywords">
     <meta content="" name="description"> -->
 
-    <link rel="icon" href="../img/logo.png">
+    <link rel="icon" href="../img/dodologo.png">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -82,6 +82,7 @@
     </div>
     <!-- Topbar End -->
 
+
     <!-- Navbar & Hero Start -->
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
@@ -89,7 +90,7 @@
                 <h1 class="text-primary m-0"><i class="fa me-3">
                         <img src="../img/dodologo.png" class="header--logo">
                     </i><span style="color: #fe6100;">dodo</span>
-                    <!-- <span style="color: #0000fe;">Travel</span> -->
+                    <span style="color: #0000fe;">Travel</span>
                 </h1>
                 <!-- <img src="img/logo.png" alt="Logo"> -->
             </a>
@@ -130,7 +131,28 @@
             </div>
         </nav>
 
+        
+ 
+
+        <!-- <div class="bottom-topbar">
+            <div class="container-fluid px-5 d-none d-lg-block top--bar">
+                <div class="row gx-0">
+                    <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
+                        <div class="d-inline-flex align-items-center" style="height: 45px;">
+                            <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Maldives and Sri
+                                Lanka</small>
+                            <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+960 7 422 423 / +94 771 772
+                                422</small>
+                            <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@dodo.lk</small>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div> -->
+
         <!-- Carousel Start -->
+
         <div class="carousel-header">
             <div id="carouselId" class="carousel slide" data-bs-ride="carousel">
                 <ol class="carousel-indicators">
@@ -1995,7 +2017,7 @@
                                     </a>
                                 </a>
                             </div>
-                           
+
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
@@ -2003,7 +2025,7 @@
                                     target="_blank">
                                     <i class="fab bi-instagram "></i>
                                     <a href="https://www.instagram.com/dodo_lk/" target="_blank"><i class="fas me-0"></i>
-                                    Instagram</a>
+                                        Instagram</a>
                                 </a>
                                 </a>
                             </div>
