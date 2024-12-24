@@ -90,7 +90,7 @@
                 <h1 class="text-primary m-0"><i class="fa me-3">
                         <img src="../img/dodologo.png" class="header--logo">
                     </i><span style="color: #fe6100;">dodo</span>
-                    <span style="color: #0000fe;">Travel</span>
+                    <span style="color: #0000fe;">TRAVEL</span>
                 </h1>
                 <!-- <img src="img/logo.png" alt="Logo"> -->
             </a>
@@ -264,10 +264,10 @@
                     <h5 class="section-title bg-white text-start text-primary pe-3"
                         style="background: linear-gradient(rgba(0, 0, 90, 0.1), rgba(0, 0, 90, 0.1));">About Us</h5>
                     <h1 class="mb-4">Welcome to <span class="text-primary">dodo.lk</span></h1>
-                    <p class="mb-4">Discover the best of the Maldives and Sri Lanka with DODO , your gateway to
+                    <p class="mb-4">Discover the best of the Maldives and Sri Lanka with dodo TRAVEL , your gateway to
                         unforgettable experiences. Whether you're dreaming of a luxurious beach retreat or an
                         adventurous cultural journey, we tailor every trip to your desires.</p>
-                    <p class="mb-4">At DODO , we craft bespoke travel itineraries that offer the perfect blend of
+                    <p class="mb-4">At dodo TRAVEL , we craft bespoke travel itineraries that offer the perfect blend of
                         relaxation and exploration. From the pristine beaches of the Maldives to the scenic beauty of
                         Sri Lanka, we ensure every moment of your journey is extraordinary.
                     </p>
@@ -1594,7 +1594,7 @@
                     <h6 class="section-title--book text-white  pe-3 text-start">Booking
                     </h6>
                     <h1 class="text-white mb-4">Online Booking</h1>
-                    <p class="text-white mb-4">Ready to turn your travel dreams into reality? At DODO , we offer
+                    <p class="text-white mb-4">Ready to turn your travel dreams into reality? At dodo TRAVEL , we offer
                         exclusive packages designed just for you. With personalized itineraries and exceptional service,
                         your ideal vacation is just a click away.
                     </p>
