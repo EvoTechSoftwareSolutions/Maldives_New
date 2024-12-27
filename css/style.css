@@ -138,6 +138,10 @@ span {
   background-color: #111161;
 }
 
+.top--bar--another{
+  background-color: #08083a;
+}
+
 @media (max-width: 768px) {
   .topbar {
     display: none;

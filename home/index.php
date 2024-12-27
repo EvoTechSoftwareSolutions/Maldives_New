@@ -83,6 +83,21 @@
     <!-- Topbar End -->
 
 
+    <div class="container-fluid px-5 d-none d-lg-block top--bar--another">
+        <div class="row gx-0">
+            <div class="text-center text-lg-center">
+                <div class="d-inline-flex align-items-center" style="height: 30px;">
+                    <span style="color: #fe6100;letter-spacing:2px;">do</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000fe;letter-spacing:2px;">EXPLORE</span>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span style="color: #fe6100;letter-spacing:2px;">do</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000fe;letter-spacing:2px;">DISCOVER</span>
+                    &nbsp;&nbsp;
+                    <span style="color:rgb(255, 255, 255);">-</span>&nbsp;&nbsp;<span style="color:rgb(255, 255, 255);">It's dodo travel</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
     <!-- Navbar & Hero Start -->
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
@@ -131,8 +146,8 @@
             </div>
         </nav>
 
-        
- 
+
+
 
         <!-- <div class="bottom-topbar">
             <div class="container-fluid px-5 d-none d-lg-block top--bar">
