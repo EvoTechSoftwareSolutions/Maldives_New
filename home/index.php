@@ -148,13 +148,13 @@
 
             <div class="container-fluid px-5 d-none d-lg-block top--bar--another header-below ">
                 <div class="row gx-0">
-                    <div class="text-center text-lg-center">
+                    <div class="text-center text-lg-center fw-bold">
                         <div class="d-inline-flex align-items-center  " style="height: 45px;">
                             <span style="color: #fe6100;letter-spacing:2px;">do</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000fe;letter-spacing:2px;">EXPLORE</span>
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             <span style="color: #fe6100;letter-spacing:2px;">do</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000fe;letter-spacing:2px;">DISCOVER</span>
                             &nbsp;&nbsp;
-                            <span style="color:rgb(255, 255, 255);">-</span>&nbsp;&nbsp;<span style="color:rgb(255, 255, 255);">It's dodo travel</span>
+                            <span style="color:rgb(255, 255, 255);">-</span>&nbsp;&nbsp;<span style="color:rgb(255, 255, 255);">It's dodo TRAVEL</span>
                         </div>
                     </div>
                 </div>
@@ -307,7 +307,8 @@
                     style="background: linear-gradient(rgba(0, 0, 90, 0.1), rgba(0, 0, 90, 0.1));padding: 1rem; border-radius: 0rem 0rem 2rem 0rem;">
                     <h5 class="section-title bg-white text-start text-primary pe-3"
                         style="background: linear-gradient(rgba(0, 0, 90, 0.1), rgba(0, 0, 90, 0.1));">About Us</h5>
-                    <h1 class="mb-4">Welcome to <span class="text-primary">dodo TRAVEL</span></h1>
+                    <h1 class="mb-4">Welcome to  <span style="color: #fe6100;">dodo</span>&nbsp;<span style="color: #0000fe;">TRAVEL</span></h1>
+
                     <p class="mb-4">Discover the best of the Maldives and Sri Lanka with dodo TRAVEL , your gateway to
                         unforgettable experiences. Whether you're dreaming of a luxurious beach retreat or an
                         adventurous cultural journey, we tailor every trip to your desires.</p>
