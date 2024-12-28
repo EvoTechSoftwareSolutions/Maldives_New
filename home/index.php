@@ -307,7 +307,7 @@
                     style="background: linear-gradient(rgba(0, 0, 90, 0.1), rgba(0, 0, 90, 0.1));padding: 1rem; border-radius: 0rem 0rem 2rem 0rem;">
                     <h5 class="section-title bg-white text-start text-primary pe-3"
                         style="background: linear-gradient(rgba(0, 0, 90, 0.1), rgba(0, 0, 90, 0.1));">About Us</h5>
-                    <h1 class="mb-4">Welcome to <span class="text-primary">dodo.lk</span></h1>
+                    <h1 class="mb-4">Welcome to <span class="text-primary">dodo TRAVEL</span></h1>
                     <p class="mb-4">Discover the best of the Maldives and Sri Lanka with dodo TRAVEL , your gateway to
                         unforgettable experiences. Whether you're dreaming of a luxurious beach retreat or an
                         adventurous cultural journey, we tailor every trip to your desires.</p>
