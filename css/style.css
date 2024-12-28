@@ -139,7 +139,10 @@ span {
 }
 
 .top--bar--another{
-  background-color: #08083a;
+  /* background-color: #08083a; */
+  /* background-color: transparent; */
+  background-color: #111161;
+
 }
 
 @media (max-width: 768px) {
