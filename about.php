@@ -124,6 +124,20 @@
                     <a href="contact/contact.php" class="nav-item nav-link">Contact</a>
                 </div>
                 <a href="home/index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
+
+            </div>
+            <div class="container-fluid px-5 d-none d-lg-block top--bar--another header-below ">
+                <div class="row gx-0">
+                    <div class="text-center text-lg-center fw-bold">
+                        <div class="d-inline-flex align-items-center  " style="height: 45px;">
+                            <span style="color: #fe6100;letter-spacing:2px;">do</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000fe;letter-spacing:2px;">EXPLORE</span>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <span style="color: #fe6100;letter-spacing:2px;">do</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000fe;letter-spacing:2px;">DISCOVER</span>
+                            &nbsp;&nbsp;
+                            <span style="color:rgb(255, 255, 255);">-</span>&nbsp;&nbsp;<span style="color:rgb(255, 255, 255);">It's dodo TRAVEL</span>
+                        </div>
+                    </div>
+                </div>
             </div>
         </nav>
     </div>
@@ -131,7 +145,7 @@
 
     <!-- Header Start -->
     <div class="container-fluid">
-        <div class="abt--img">
+        <div class="abt--img  ">
             <div class="container text-center py-5 abt--txt">
                 <div class="mt-5 py-lg-5">
                     <h3 class="text-white display-3 mb-4">About Us</h3>
@@ -150,10 +164,10 @@
     <!-- About Start -->
     <div class="container-xxl py-5">
         <div class="container">
-            <div class="row g-5">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
-                    <div class="position-relative h-100">
-                        <img class="img-fluid position-absolute w-100 h-100" src="img/aboutus2.png" alt=""
+            <div class="row g-5 ">
+                <div class="col-lg-6 wow fadeInUp " data-wow-delay="0.1s" style="min-height: 400px;">
+                    <div class="position-relative h-100 ">
+                        <img class="img-fluid position-absolute w-100 h-100 " src="img/aboutus2.png" alt=""
                             style="object-fit: cover; border-radius: 2rem 0rem 0rem 0rem;">
                     </div>
                 </div>
