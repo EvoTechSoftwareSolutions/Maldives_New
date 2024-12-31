@@ -123,13 +123,28 @@
                 </div>
                 <a href="../home/index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
             </div>
+
+            <div class="container-fluid px-5 d-none d-lg-block top--bar--another header-below ">
+                <div class="row gx-0">
+                    <div class="text-center text-lg-center fw-bold">
+                        <div class="d-inline-flex align-items-center  " style="height: 45px;">
+                            <span style="color: #fe6100;letter-spacing:2px;">do</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000fe;letter-spacing:2px;">EXPLORE</span>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <span style="color: #fe6100;letter-spacing:2px;">do</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000fe;letter-spacing:2px;">DISCOVER</span>
+                            &nbsp;&nbsp;
+                            <span style="color:rgb(255, 255, 255);">-</span>&nbsp;&nbsp;<span style="color:rgb(255, 255, 255);">It's dodo TRAVEL</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </nav>
     </div>
     <!-- Navbar & Hero End -->
 
     <!-- Header Start -->
     <div class="container-fluid">
-        <div class="con--img">
+        <div class="con--img ">
             <div class="container text-center py-5 con--txt">
                 <div class="mt-5 py-lg-5">
                     <h3 class="text-white display-3 mb-4">Contact Us</h3>
@@ -271,9 +286,9 @@
                                 <a href="">
                                     <i class="fas fa-share fa-1x text-white me-2"></i>
                                     <a class="btn-square btn btn-primary rounded-circle mx-1"
-                                        href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank">
+                                        href="https://www.facebook.com/profile.php?id=61571111114705" target="_blank">
                                         <i class="fab fa-facebook-f"></i>
-                                        <a href="https://www.facebook.com/profile.php?id=61565220060400"
+                                        <a href="https://www.facebook.com/profile.php?id=61571111114705"
                                             target="_blank"><i class="fas me-0"></i> Facebook</a>
                                     </a>
                                 </a>
@@ -282,10 +297,10 @@
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo_lk/"
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo__travel/"
                                     target="_blank">
                                     <i class="fab bi-instagram "></i>
-                                    <a href="https://www.instagram.com/dodo_lk/" target="_blank"><i class="fas me-0"></i>
+                                    <a href="https://www.instagram.com/dodo__travel/" target="_blank"><i class="fas me-0"></i>
                                     Instagram</a>
                                 </a>
                                 </a>

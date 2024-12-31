@@ -139,7 +139,10 @@ span {
 }
 
 .top--bar--another{
-  background-color: #08083a;
+  /* background-color: #08083a; */
+  /* background-color: transparent; */
+  background-color: #111161;
+
 }
 
 @media (max-width: 768px) {
@@ -205,6 +208,33 @@ span {
   }
 }
 
+@media (min-width: 992px) and (max-width:1239px) {
+ .span1{
+  font-size:1.8rem;
+ }
+
+ .header--logo{
+  width: 1rem;
+  height: 1rem;
+  margin-left: -2.2rem;
+ }
+
+ .navbar-light .navbar-nav .nav-link {
+  margin-right: 20px;
+  padding: 32px 0;
+  font-size: 15px;
+  font-weight: 550;
+ 
+
+}
+
+.booknow{
+  font-size: 12px;
+}
+
+}
+
+
 @media (min-width: 992px) {
   .navbar-light {
     position: absolute;
@@ -214,7 +244,7 @@ span {
     border-bottom: 1px solid rgba(256, 256, 256, 0.1);
     z-index: 999;
   }
-
+  
   .sticky-top.navbar-light {
     position: fixed;
     background: #ffffff;
@@ -1363,7 +1393,7 @@ span {
   background-image: url("../img/tr1.png");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 30rem;
+  height: 37rem;
 }
 
 .package--txt {
@@ -1379,7 +1409,7 @@ span {
   background-image: url("../img/tr2.png");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 30rem;
+  height: 37rem;
 }
 
 .des--txt {
@@ -1395,7 +1425,7 @@ span {
   background-image: url("../img/tr3.png");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 30rem;
+  height: 37rem;
 }
 
 .acc--txt {
@@ -1411,7 +1441,7 @@ span {
   background-image: url("../img/tr6.png");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 30rem;
+  height: 37rem;
 }
 
 .gall--txt {
@@ -1427,7 +1457,7 @@ span {
   background-image: url("../img/tr4.png");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 30rem;
+  height: 37rem;
 }
 
 .abt--txt {
@@ -1436,6 +1466,8 @@ span {
   flex-direction: column;
   height: 25rem;
   align-self: center;
+  
+ 
 }
 
 .con--img {
@@ -1443,7 +1475,7 @@ span {
   background-image: url("../img/tr5.png");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 30rem;
+  height: 37rem;
 }
 
 .con--txt {
@@ -1872,3 +1904,21 @@ span {
       height: 15rem;
     }
   }
+
+
+
+
+
+
+
+  .header-below{
+    position:absolute;
+    margin-top:7.9rem;
+    z-index: 100;
+    margin-left: -3rem;
+    opacity: 10px;
+    
+  }
+
+  
+
