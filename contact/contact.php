@@ -286,9 +286,9 @@
                                 <a href="">
                                     <i class="fas fa-share fa-1x text-white me-2"></i>
                                     <a class="btn-square btn btn-primary rounded-circle mx-1"
-                                        href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank">
+                                        href="https://www.facebook.com/profile.php?id=61571111114705" target="_blank">
                                         <i class="fab fa-facebook-f"></i>
-                                        <a href="https://www.facebook.com/profile.php?id=61565220060400"
+                                        <a href="https://www.facebook.com/profile.php?id=61571111114705"
                                             target="_blank"><i class="fas me-0"></i> Facebook</a>
                                     </a>
                                 </a>
@@ -297,10 +297,10 @@
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo_lk/"
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo__travel/"
                                     target="_blank">
                                     <i class="fab bi-instagram "></i>
-                                    <a href="https://www.instagram.com/dodo_lk/" target="_blank"><i class="fas me-0"></i>
+                                    <a href="https://www.instagram.com/dodo__travel/" target="_blank"><i class="fas me-0"></i>
                                     Instagram</a>
                                 </a>
                                 </a>
