@@ -99,22 +99,22 @@
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destinations</a>
                         <div class="dropdown-menu m-0">
-                           
-                           
-                        <a href="moldives.php" class="dropdown-item">Maldives</a>
-                        <a href="srilanka.php" class="dropdown-item">Sri Lanka</a>
-                         
-                            
+
+
+                            <a href="moldives.php" class="dropdown-item">Maldives</a>
+                            <a href="srilanka.php" class="dropdown-item">Sri Lanka</a>
+
+
                         </div>
                     </div>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Accommodations</a>
                         <div class="dropdown-menu m-0">
-                            
-                    
-                                <a href="accommodations.php#maldives" class="dropdown-item">Maldives</a>
-                                <a href="accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
-                            
+
+
+                            <a href="accommodations.php#maldives" class="dropdown-item">Maldives</a>
+                            <a href="accommodations.php#lanka" class="dropdown-item">Sri Lanka</a>
+
                             <a href="gallery.php" class="dropdown-item">Gallery</a>
                         </div>
                     </div>
@@ -1356,140 +1356,121 @@
                 </div>
             </div>
         </div>
-        <!-- Gallery End -->
+    </div>
+    <!-- Gallery End -->
 
-        <!-- Footer Start -->
-        <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn">
-            <div class="container py-5">
-                <div class="row g-5 ms-lg-5" style="width: 100%;display: flex; justify-content: center;">
-                    <div class="col-md-12 col-lg-3">
-                        <div class="footer-item d-flex flex-column">
-                            <h4 class="mb-4 text-white">Get In Touch</h4>
-                            <a href=""><i class="fas fa-home me-2"></i> Maldives&nbsp;and Sri&nbsp;Lanka</a>
-                            <a href="mailto:info@dodo.lk"><i class="fas fa-envelope me-2"></i> info@dodo.lk</a>
-                            <a href="">
-                                <table>
-                                    <tr>
-                                        <td><i class="fas fa-phone me-2"></i></td>
-                                        <td><a href="tel:+960 7 422 423">+960 7 422 423</a></td>
-                                    </tr>
-                                    <tr>
-                                        <td></td>
-                                        <td><a href="tel:+94 771 772 422">+94 771 772 422</a></td>
-                                    </tr>
-                                </table>
-                            </a>
-                        </div>
+    <!-- Footer Start -->
+    <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn">
+        <div class="container py-5">
+            <div class="row g-5 ms-lg-5" style="width: 100%;display: flex; justify-content: center;">
+                <div class="col-md-12 col-lg-3">
+                    <div class="footer-item d-flex flex-column">
+                        <h4 class="mb-4 text-white">Get In Touch</h4>
+                        <a href=""><i class="fas fa-home me-2"></i> Maldives&nbsp;and Sri&nbsp;Lanka</a>
+                        <a href="mailto:info@dodo.lk"><i class="fas fa-envelope me-2"></i> info@dodo.lk</a>
+                        <a href="">
+                            <table>
+                                <tr>
+                                    <td><i class="fas fa-phone me-2"></i></td>
+                                    <td><a href="tel:+960 7 422 423">+960 7 422 423</a></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td><a href="tel:+94 771 772 422">+94 771 772 422</a></td>
+                                </tr>
+                            </table>
+                        </a>
                     </div>
-                    <div class="col-md-6 col-lg-3 ms-lg-5">
-                        <div class="footer-item d-flex flex-column">
-                            <h4 class="mb-4 text-white">Quick Links</h4>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Home</a>
-                        <a href="../about.php"><i class="fas fa-angle-right me-2"></i> About</a>
-                        <a href="moldives.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
-                        <a href="../accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
-                        <a href="../packages/packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
-                        <a href="../gallery.php"><i class="fas fa-angle-right me-2"></i> Gallery</a>
-                        <a href="../contact/contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
-                        </div>
+                </div>
+                <div class="col-md-6 col-lg-3 ms-lg-5">
+                    <div class="footer-item d-flex flex-column">
+                        <h4 class="mb-4 text-white">Quick Links</h4>
+                        <a href="home/index.php"><i class="fas fa-angle-right me-2"></i> Home</a>
+                        <a href="packages/packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
+                        <a href="destination.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
+                        <a href="accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
+                        <a href="#"><i class="fas fa-angle-right me-2"></i> Gallery</a>
+                        <a href="about.php"><i class="fas fa-angle-right me-2"></i> About</a>
+                        <a href="contact/contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
                     </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="footer-item d-flex flex-column">
-                            <h4 class="mb-4 text-white">Social Media</h4>
-                            <div class="align-items-center">
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="footer-item d-flex flex-column">
+                        <h4 class="mb-4 text-white">Social Media</h4>
+                        <div class="align-items-center">
                             <div class="align-items-center d-flex flex-row">
                                 <a href="">
                                     <i class="fas fa-share fa-1x text-white me-2"></i>
-                                    <a class="btn-square btn btn-primary rounded-circle mx-1"
-                                        href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank">
+                                    <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank">
                                         <i class="fab fa-facebook-f"></i>
-                                        <a href="https://www.facebook.com/profile.php?id=61565220060400"
-                                            target="_blank"><i class="fas me-0"></i> Facebook</a>
+                                        <a href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank"><i class="fas me-0"></i> Facebook</a>
                                     </a>
                                 </a>
                             </div>
-                           
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo_lk/"
-                                    target="_blank">
-                                    <i class="fab bi-instagram "></i>
-                                    <a href="https://www.instagram.com/dodo_lk/" target="_blank"><i class="fas me-0"></i>
-                                    Instagram</a>
-                                </a>
-                                </a>
-                            </div>
-
-                            <div class="align-items-center d-flex flex-row mt-2">
-                                <a href=""></a>
-                                <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://wa.link/vpjzv8"
-                                    target="_blank">
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://wa.link/vpjzv8" target="_blank">
                                     <i class="fab fa-whatsapp"></i>
-                                    <a href="https://wa.link/vpjzv8" target="_blank"><i class="fas me-0"></i>
-                                        WhatsApp</a>
+                                    <a href="https://wa.link/vpjzv8" target="_blank"><i class="fas me-0"></i> WhatsApp</a>
                                 </a>
                                 </a>
                             </div>
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1"
-                                    href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank">
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.linkedin.com/in/shan-ramanathan-57a97214b" target="_blank">
                                     <i class="fab fa-linkedin-in"></i>
-                                    <a href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank"><i
-                                            class="fas me-0"></i> Linkedin</a>
+                                    <a href="https://www.linkedin.com/in/shan-ramanathan-57a97214b" target="_blank"><i class="fas me-0"></i> Linkedin</a>
                                 </a>
                                 </a>
                             </div>
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1"
-                                    href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank">
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.youtube.com/@Travelmaldivesandsrilanka" target="_blank">
                                     <i class="fab fa-youtube"></i>
-                                    <a href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank"><i
-                                            class="fas me-0"></i> YouTube</a>
+                                    <a href="https://www.youtube.com/@Travelmaldivesandsrilanka" target="_blank"><i class="fas me-0"></i> YouTube</a>
                                 </a>
                                 </a>
-                            </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Footer End -->
+    </div>
+    <!-- Footer End -->
 
-        <!-- Copyright Start -->
-        <div class="container-fluid copyright text-body py-4">
-            <div class="container copyright--container">
-                <div class="row g-4 align-items-center">
-                    <div class="col-md-12 text-center text-md-end mb-md-0">
-                        Copyright&nbsp;&nbsp;</a><i class="fas fa-copyright me-2"></i><a class="text-white" href="https://evotechsoftwaresolutions.com/">Evon Technologies Software Solution (PVT) Ltd</a>, All right
-                        reserved.
-                    </div>
+    <!-- Copyright Start -->
+    <div class="container-fluid copyright text-body py-4">
+        <div class="container copyright--container">
+            <div class="row g-4 align-items-center">
+                <div class="col-md-12 text-center text-md-end mb-md-0">
+                    Copyright&nbsp;&nbsp;</a><i class="fas fa-copyright me-2"></i><a class="text-white" href="https://evotechsoftwaresolutions.com/">Evon Technologies Software Solution (PVT) Ltd</a>, All right
+                    reserved.
                 </div>
             </div>
         </div>
-        <!-- Copyright End -->
+    </div>
+    <!-- Copyright End -->
 
-        <!-- Back to Top -->
-        <a href="#" class="btn btn-primary btn-primary-outline-0 btn-md-square back-to-top"><i class="fa fa-arrow-up"></i></a>
-
-
-        <!-- JavaScript Libraries -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-        <script src="lib/easing/easing.min.js"></script>
-        <script src="lib/waypoints/waypoints.min.js"></script>
-        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-        <script src="lib/lightbox/js/lightbox.min.js"></script>
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-primary btn-primary-outline-0 btn-md-square back-to-top"><i class="fa fa-arrow-up"></i></a>
 
 
-        <!-- Template Javascript -->
-        <script src="js/main.js"></script>
+
+    <!-- JavaScript Libraries -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
 </body>
 
 </html>
