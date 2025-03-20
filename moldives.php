@@ -87,7 +87,7 @@
                 <h1 class="text-primary m-0"><i class="fa me-3">
                         <img src="img/dodologo.png" class="header--logo">
                     </i><span style="color: #fe6100;">dodo</span>
-                    <!-- <span style="color: #0000fe;">Travel</span> -->
+                    <span style="color: #0000fe;">Travel</span>
                 </h1>
                 <!-- <img src="img/logo.png" alt="Logo"> -->
             </a>
@@ -145,8 +145,10 @@
     </div>
     <!-- Navbar & Hero End -->
 
+    <div class="empty--div"></div>
+
     <!-- Header Start -->
-    <div class="container-fluid">
+    <div class="container-fluid banner--img">
         <div class="des--img ">
             <div class="container text-center py-5 des--txt">
                 <div class="mt-5 py-lg-5">
@@ -177,21 +179,21 @@
                 The sun the sand and the sea. These are just the three simple realities beckoning tourists from far and wide to these little islets, giving as a result, a glorious sense of happiness and proving to be a heavenly gateway from the world and its worries. The Maldives teaches the visitors the pleasurable art of doing nothing, simply lazing around and enjoying some of the most spectacular and colorful vistas offered by nature. <br>
                 No wonder then that tourists flock in large numbers to the 120-odd self-contained island resorts provided with all the comforts and warmth exuded by traditional Maldivian hospitality which is why Maldives is considered to be the ultimate destination, the future world for holiday makers.
             </p>
-
+<br/>
             <h3 class="moldives--sec1--div2">SEASON</h3>
             <p class="moldives--sec1--div3">November through April being the peak season, reservations for stay must be made well in advance. From May to October the demand and costs for accommodation are comparatively lower. In June and July ,the Maldives experiences regular showers with monsoons bringing in more wind and rain.
             </p>
-
+<br/>
 
             <h3 class="moldives--sec1--div2">PEOPLE</h3>
             <p class="moldives--sec1--div3">people from different parts of the world came across this island nation as it lay in the sea routes to Malacca and China. Speculations indicate that the earliest settlers could have been Dravidians from southern India and the Yakka and Naga people from Sri Lanka. Aryans from the Indus valley probably followed them. but with the coming of the Arabs, the influence of Islam gradually replaced Hinduism and Buddhism practiced by the early settlers. Being on the main seaway around the Indian subcontinent, the islands have long been a meeting point for Arab, African, Malay, and Indonesian mariners. The faces that we see today reflect all these influences contributing to a racial and cultural melting pot.
             </p>
-
+<br/>
             <h3 class="moldives--sec1--div2">SOCIAL CUSTOMS</h3>
             <p class="moldives--sec1--div3">handshaking is the most common form of greeting. Dress is informal. Light cotton cloths are recommended. Nudity is forbidden. Swimsuits and beachwear are to be confined to resort islands. When visiting an inhabited island or the capital, shorts and t-shirts for men, and blouse or t-shirts with skirts or shorts that cover the thighs, made of non-diaphanous material, for women, are a minimum requirement, Maldivians traditionally eat with their fingers.it is also considered unhygienic to touch food with the left hand. Use a spoon, if in doubt. <br>
                 No wonder then that tourists flock in large numbers to the 120-odd self-contained island resorts provided with all the comforts and warmth exuded by traditional Maldivian hospitality which is why Maldives is considered to be the ultimate destination, the future world for holiday makers.
             </p>
-
+<br/>
             <h3 class="moldives--sec1--div2">MALDIVES AT A GLANCE</h3>
             <div>
                 <table id="customers">
@@ -352,7 +354,7 @@
         </div>
 
     </section>
-
+<br/><br/>
     <section class="moldives--sec2">
         <div class="moldives--sec2--div1">
             <div class="mx-auto text-center mb-5  wow fadeInUp" style="max-width: 900px;" data-wow-delay="0.1s">
@@ -363,7 +365,7 @@
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">ARTIFICIAL BEACH</h4>
                 <div class="moldives--sec2--div5">
-                    <img src="../Maldives_New/img/moldives/m1.png" class="moldives--sec2--img1" alt="">
+                    <img src="img/moldives/m1.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6">located on the eastern side of male. This is an increasingly popular place for a relaxing swim, or for meeting up with friends. Other recommended pastimes in and around the area include eating at the nearby cafes, watching youngsters play football, basketball or glide on roller skates, or just relaxing on the beaches around the seafront. a great place to take your camera along.
                     </p>
                 </div>
@@ -372,7 +374,7 @@
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">CHILDREN’S PARK</h4>
                 <div class="moldives--sec2--div5 reverse">
-                    <img src="../Maldives_New/img/moldives/m2.png" class="moldives--sec2--img1" alt="">
+                    <img src="img/moldives/m2.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6"> located in the south eastern tip of Male, this well-planned recreation space is an ideal place for an evening stroll, a family outing, or to take your children out for some fun and frolic. Besides the colorful play area, there is also a skating rink for kids. Entrance is free.
                     </p>
                 </div>
@@ -381,7 +383,7 @@
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">FISH MARKET</h4>
                 <div class="moldives--sec2--div5">
-                    <img src="../Maldives_New/img/moldives/m3.png" class="moldives--sec2--img1" alt="">
+                    <img src="img/moldives/m3.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6">Sightseeing of Male would be incomplete without a trip to this lively place located at the northern tip of the island. Walk through the congested streets and observe the wide variety of fish, the incessant bargaining’s of buyers with fishermen, and the deft fish cleaners going about their work in swift action. The best time to visit the market is in the late afternoon, when the fishing boats return with their day’s catch and the streets are at its busiest. Also an ideal place for photography with a wide variety of subjects.
                     </p>
                 </div>
@@ -390,7 +392,7 @@
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">HUKURU MISKIIY</h4>
                 <div class="moldives--sec2--div5 reverse">
-                    <img src="../Maldives_New/img/moldives/m4.png" class="moldives--sec2--img1" alt="">
+                    <img src="img/moldives/m4.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6">The hukuru miskiiy ,or Friday mosque ,was build in 1656 during the reign of sultan Ibrahim Iskandar I. The interior and exterior walls of this historic mosque, build with coral stones, are intricately carved with Arabic writings and ornamental patterns. The roof, window frames, and doors are made of different types of wood including teak, red sandalwood, and redwood. There is an abundance of beautiful coral carvings and expert lacquer work inside the mosque, the latter being most conspicuous in the laage, or domes, build as part of the ceiling. The compound of the mosque also encloses a number of ancient tombstones erected in memory of past sultans, heroes and nobles.
                     </p>
                 </div>
@@ -399,7 +401,7 @@
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">THE ISLAMIC CENTER</h4>
                 <div class="moldives--sec2--div5">
-                    <img src="../Maldives_New/img/moldives/m5.png" class="moldives--sec2--img1" alt="">
+                    <img src="img/moldives/m5.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6">Male’s most famous architectural landmark is the three-storey Islamic center, opened in November 1984.The center’s grand Friday mosque, Masjid-al-Sultan Mohammed Thakurufaanu-al-A “a”am,is the biggest in the Maldives, accommodating more than 5000 worshippers. The shining golden dome of the mosque is a standout as are also the interior walls decorated with beautiful wood carvings and Arabic calligraphy. The center also houses a library and a conference hall.
                     </p>
                 </div>
@@ -408,7 +410,7 @@
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">JUMHOOREE MAIDAN</h4>
                 <div class="moldives--sec2--div5 reverse">
-                    <img src="../Maldives_New/img/moldives/m6.png" class="moldives--sec2--img1" alt="">
+                    <img src="img/moldives/m6.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6"> Beautifully laid out with carpet green grass and lush vegetation, this public square constructed along the northern waterfront in 1989, is Male’s most popular place for social gatherings and relaxation. It is also one of the favorite evening hangouts for children. On the eastern end of the square stands the official flag post on which is hoisted a permanent flag, the largest in the country.
                     </p>
                 </div>
@@ -417,7 +419,7 @@
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">MEDHU ZIYAARATH</h4>
                 <div class="moldives--sec2--div5">
-                    <img src="../Maldives_New/img/moldives/m7.png" class="moldives--sec2--img1" alt="">
+                    <img src="img/moldives/m7.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6">Opposite the Hukuru Miskiiy is the Medhu Ziyaarath,the shrine of Abu al Barakaath Yusuf al Barbari,a North African ,believed to be responsible for converting the Maldives to Islam in AD 1153.
                     </p>
                 </div>
@@ -426,7 +428,7 @@
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">MULEE-AAGE</h4>
                 <div class="moldives--sec2--div5 reverse">
-                    <img src="../Maldives_New/img/moldives/m8.png" class="moldives--sec2--img1" alt="">
+                    <img src="img/moldives/m8.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6">Mulee-aage was originally build by sultan Shamshudeen III for his son just before the first world war. After the sultan and his son were banished in May 1936,the house was declared a government property. The Mulee-aage was officially declared and used as an office complex by subsequent governments. After the country became a republic in 1953, the Mulee-aage became the “president’s official resident”. In 1986 the house was upgraded to hold official functions and to accommodate visiting heads of states and other foreign dignitaries.
                     </p>
                 </div>
@@ -436,7 +438,7 @@
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">MUNNAARU </h4>
                 <div class="moldives--sec2--div5">
-                    <img src="../Maldives_New/img/moldives/m9.png" class="moldives--sec2--img1" alt="">
+                    <img src="img/moldives/m9.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6">Close to the Friday mosque is this gleaming white minaret also build by Sultan Ibrahim Iskandhar in 1675,the chief muezzin of Male called the faithful to prayer from this minaret before the Islamic center was build.
                     </p>
                 </div>
@@ -445,7 +447,7 @@
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">SULTAN PARK & THE NATIONAL MUSEUM</h4>
                 <div class="moldives--sec2--div5 reverse">
-                    <img src="../Maldives_New/img/moldives/m10.png" class="moldives--sec2--img1" alt="">
+                    <img src="img/moldives/m10.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6">Maldives changed from a republic to a sultanate and back to a republic in a span of just 16 years (1953 to 1968).The sultan’s palace however was demolished except for a three story building and the palace grounds were turned into a public park, known as the sultan park. The surviving palace building within the park is today the national museum. Opened on November 19,1952,the museum displays a large and varied collection of a glorious bygone era including stone objects from the pre-Islamic period ,royal antiquities like thrones, palanquins ,royal sunshades, costumes and shoes, coins and ornaments, arms and amour, coral stone sculptures, lacquered wooden containers, miniature, hand-written Quran, hookahs, sunshades , traditional log drums from the royal palace used in the popular music of Bodu Beru, and the very interiors of the museum-retained from the days of the sultanate-are the added attractions . Two of the most significant items on display are the coral stone head of lord Buddha, a 11th century piece from Alifu Thoddu and a 13th century engraved wooden panel from Hukuru Miskiiy. Timings 09.00 AM to 03.00 PM. Closed on Fridays and public holidays.
                     </p>
                 </div>
@@ -454,7 +456,7 @@
             <div class="moldives--sec2--div3">
                 <h4 class="moldives--sec2--div4">TOMB OF MOHAMMED THAKURUFAANU</h4>
                 <div class="moldives--sec2--div5">
-                    <img src="../Maldives_New/img/moldives/m11.png" class="moldives--sec2--img1" alt="">
+                    <img src="img/moldives/m11.png" class="moldives--sec2--img1" alt="">
                     <p class="moldives--sec1--div6">this tomb is erected in the compound of the Bihuroazu Kamanaa Miskilly,in memory of Sultan Ghaazee Mohammed Thakurufaanu,regarded as the greatest of national heroes. He liberated the country from Portuguese rule, who had been occupying the land for 15 years after defeating sultan Ali VI in 1558.
                     </p>
                 </div>

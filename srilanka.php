@@ -87,7 +87,7 @@
                 <h1 class="text-primary m-0"><i class="fa me-3">
                         <img src="img/dodologo.png" class="header--logo">
                     </i><span style="color: #fe6100;">dodo</span>
-                    <!-- <span style="color: #0000fe;">Travel</span> -->
+                    <span style="color: #0000fe;">Travel</span>
                 </h1>
                 <!-- <img src="img/logo.png" alt="Logo"> -->
             </a>
@@ -145,9 +145,11 @@
     </div>
     <!-- Navbar & Hero End -->
 
+    <div class="empty--div"></div>
+
     <!-- Header Start -->
-    <div class="container-fluid">
-        <div class="des--img ">
+    <div class="container-fluid banner--img">
+        <div class="des--img1">
             <div class="container text-center py-5 des--txt">
                 <div class="mt-5 py-lg-5">
                     <h3 class="text-white display-3 mb-4">Travel Destinations</h3>
@@ -163,6 +165,362 @@
         </div>
     </div>
     <!-- Header End -->
+
+    <section class="moldives--sec1">
+
+        <div class="mx-auto text-center mb-5 mt-5 wow fadeInUp" style="max-width: 900px;" data-wow-delay="0.1s">
+            <h5 class="section-title bg-white text-center text-primary px-3">DESTINATION</h5>
+            <h1 class="mb-0">SRI LANKA</h1>
+        </div>
+
+        <div class="moldives--sec1--div1">
+            <h3 class="moldives--sec1--div2">WELCOME TO SRI LANKA – THE PEARL OF THE INDIAN OCEAN</h3>
+            <p class="moldives--sec1--div3">
+                Sri Lanka, a tropical paradise in the heart of the Indian Ocean, is a land of breathtaking landscapes, rich cultural heritage, and warm hospitality. From golden sandy beaches and lush tea plantations to ancient temples and vibrant wildlife, this island nation offers a diverse range of experiences for every traveler.
+            </p>
+            <p class="moldives--sec1--div3">
+                Discover the UNESCO-listed ruins of Anuradhapura and Sigiriya, embark on a thrilling safari in Yala or Udawalawe National Park, or relax on the pristine shores of Bentota and Mirissa. Adventure seekers can hike through the misty mountains of Ella, explore the rainforests of Sinharaja, or go whale watching in the deep blue waters.
+            </p>
+            <p class="moldives--sec1--div3">
+                With a blend of history, nature, and authentic local experiences, Sri Lanka promises an unforgettable journey for every visitor. Let us take you on an adventure through this enchanting island!
+            </p>
+
+            <br />
+
+            <h3 class="moldives--sec1--div2">OVERALL TOURIST EXPECTATIONS IN SRI LANKA</h3>
+            <p class="moldives--sec1--div3">
+            <ol>
+                <li>Accommodation</li>
+                <li>Transport</li>
+                <li>Food & Dining</li>
+                <li>Mobile Network</li>
+                <li>Activities & Experiences</li>
+            </ol>
+            </p>
+
+            <br />
+
+            <h3 class="moldives--sec1--div2">LANGUAGES</h3>
+            <p class="moldives--sec1--div3">
+                Sri Lanka has three main languages spoken across the country :
+            </p>
+            <p class="moldives--sec1--div3">
+            <ol style="line-height:180%">
+                <li>
+                    <b>Sinhala (සිංහල) – Official & National Language</b>
+                    <ul style="line-height:150%">
+                        <li>Spoken by around <b>75%</b> of the population (mainly by the Sinhalese community).</li>
+                        <li>Used in government, media, and daily communication in most parts of the country.</li>
+                    </ul>
+                </li>
+                <br />
+                <li>
+                    <b>Tamil (தமிழ்) – Official & National Language</b>
+                    <ul style="line-height:150%">
+                        <li>Spoken by around <b>25%</b> of the population (mainly by the Sinhalese community).</li>
+                        <li>Widely used in government offices, media, and education in Tamil-speaking areas.</li>
+                    </ul>
+                </li>
+                <br />
+                <li>
+                    <b>English – Link Language</b>
+                    <ul style="line-height:150%">
+                        <li>Used for <b>business, tourism, and education</b>.</li>
+                        <li>Most Sri Lankans in cities and tourist areas understand and speak basic English.</li>
+                        <li>All major road signs, government documents, and public services are available in <b>Sinhala, Tamil and English</b>.</li>
+                    </ul>
+                </li>
+            </ol>
+            </p>
+
+            <br />
+
+            <h3 class="moldives--sec1--div2">Sri Lanka: A Budget-Friendly to Mid-Range Travel Destination in Asia</h3>
+            <p class="moldives--sec1--div3">
+                Sri Lanka is considered a budget to mid-range travel destination compared to other Asian countries.
+            </p>
+            <p class="moldives--sec1--div3">
+            <ol>
+                <li>
+                    <b>Accommodation</b>
+                    <ul>
+                        <li>Budget guesthouses ($10–$30), mid-range hotels ($40–$100), luxury resorts ($150+).</li>
+                    </ul>
+                </li>
+                <br />
+                <li>
+                    <b>Food & Drinks</b>
+                    <ul>
+                        <li>Local meals ($2–$5), restaurant meals ($7–$15), high-end dining ($25+).</li>
+                    </ul>
+                </li>
+                <br />
+                <li>
+                    <b>Transportation</b>
+                    <ul style="line-height:180%">
+                        <ul style="line-height:150%">
+                            <li>Public buses: Very cheap ($0.50–$5 per trip).</li>
+                            <li>Trains: Scenic and affordable ($1–$10).</li>
+                            <li>Tuk-tuks: Affordable ($2–$10 for short rides, negotiate fares).</li>
+                            <li>Private taxis: Moderate cost ($30–$100 for intercity travel).</li>
+                        </ul>
+                        <li><b>Good value for money </b>with a mix of adventure, nature and culture.</li>
+                    </ul>
+                </li>
+            </ol>
+            </p>
+
+        </div>
+
+    </section>
+
+    <br /><br />
+
+    <section class="moldives--sec1">
+
+        <div class="mx-auto text-center mb-5 mt-5 wow fadeInUp" style="max-width: 900px;" data-wow-delay="0.1s">
+            <h5 class="section-title bg-white text-center text-primary px-3">TRANSPORT</h5>
+            <h1 class="mb-0">TRANSPORT MODES IN SRI LANKA</h1>
+        </div>
+
+        <div class="moldives--sec1--div1">
+            <p class="sri--sec1--div3">
+                Sri Lanka offers a variety of transportation options for tourists, catering to different budgets and travel preferences. Here’s a breakdown of the main modes of transport:
+            </p>
+            <div class="sri--table--div">
+                <h3 class="moldives--sec1--div2">
+                    <ol>
+                        <li>Private & Hired Transport (Best for Comfort & Convenience)</li>
+                    </ol>
+                </h3>
+                <div class="sri--table">
+                    <dl>
+                        <dt>&#10022;&nbsp;&nbsp;Private Taxi/Car with Driver </dt>
+                        <dd>
+                            <ul class="sri--table--ul">
+                                <li>Ideal for comfortable long-distance travel and customized itineraries.</li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="sri--table">
+                    <dl>
+                        <dt>&#10022;&nbsp;&nbsp;Tuk-Tuks (Three-Wheelers) </dt>
+                        <dd>
+                            <ul class="sri--table--ul">
+                                <li>A fun and quick way to get around cities and towns. Always negotiate the fare or use ride-hailing apps like PickMe.</li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="sri--table">
+                    <dl>
+                        <dt>&#10022;&nbsp;&nbsp;Motorbike & Scooter Rentals </dt>
+                        <dd>
+                            <ul class="sri--table--ul">
+                                <li>Available in tourist hotspots like Ella, Arugam Bay, and Mirissa. Best for short distances.</li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+            <br />
+            <div class="sri--table--div">
+                <h3 class="moldives--sec1--div2">
+                    <ol start="2">
+                        <li>Public Transport (Best for Budget Travelers)</li>
+                    </ol>
+                </h3>
+                <div class="sri--table">
+                    <dl>
+                        <dt>&#10022;&nbsp;&nbsp;Buses </dt>
+                        <dd>
+                            <ul class="sri--table--ul">
+                                <li>The cheapest way to travel, with government (SLTB) and private buses covering all major routes. However, they can be crowded and not always punctual.</li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="sri--table">
+                    <dl>
+                        <dt>&#10022;&nbsp;&nbsp;Trains </dt>
+                        <dd>
+                            <ul class="sri--table--ul">
+                                <li>Scenic and affordable, trains are a must-try! The Kandy–Ella route is famous for breathtaking views of tea plantations and mountains. Coastal routes to Galle and Jaffna are also popular.</li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+            <br />
+            <div class="sri--table--div">
+                <h3 class="moldives--sec1--div2">
+                    <ol start="3">
+                        <li>Domestic Air Travel (Fastest Option)</li>
+                    </ol>
+                </h3>
+                <div class="sri--table">
+                    <dl>
+                        <dt>&#10022;&nbsp;&nbsp;Domestic Flights </dt>
+                        <dd>
+                            <ul class="sri--table--ul">
+                                <li>Cinnamon Air and FitsAir operate domestic flights to key tourist areas like Sigiriya, Jaffna, and Hambantota.</li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="sri--table">
+                    <dl>
+                        <dt>&#10022;&nbsp;&nbsp;Seaplanes </dt>
+                        <dd>
+                            <ul class="sri--table--ul">
+                                <li>A luxury option for quick travel between Colombo and scenic destinations like Kandy and the south coast.</li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+            <br />
+            <div class="sri--table--div">
+                <h3 class="moldives--sec1--div2">
+                    <ol start="4">
+                        <li>Ride-Hailing & Taxi Apps (Best for City Travel)</li>
+                    </ol>
+                </h3>
+                <div class="sri--table">
+                    <dl>
+                        <dt>&#10022;&nbsp;&nbsp;PickMe & Uber </dt>
+                        <dd>
+                            <ul class="sri--table--ul">
+                                <li>Available in major cities like Colombo, Kandy, and Galle for taxis and tuk-tuks.</li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="sri--table">
+                    <dl>
+                        <dt>&#10022;&nbsp;&nbsp;PickMe Flash </dt>
+                        <dd>
+                            <ul class="sri--table--ul">
+                                <li>Offers rental cars with drivers for short or long-distance travel.</li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+            <br />
+            <div class="sri--table--div">
+                <h3 class="moldives--sec1--div2">
+                    <ol start="5">
+                        <li>Boats & Ferries (For Island & Water Travel)</li>
+                    </ol>
+                </h3>
+                <div class="sri--table">
+                    <dl>
+                        <dt>&#10022;&nbsp;&nbsp;Jaffna to Delft Island Ferry </dt>
+                        <dd>
+                            <ul class="sri--table--ul">
+                                <li>Connects Jaffna with the scenic Delft Island.</li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="sri--table">
+                    <dl>
+                        <dt>&#10022;&nbsp;&nbsp;Lagoon & River Boat Tours </dt>
+                        <dd>
+                            <ul class="sri--table--ul">
+                                <li>Available in places like Bentota and Madu River for scenic waterway exploration.</li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <br /><br />
+
+    <section class="moldives--sec1">
+
+        <div class="mx-auto text-center mb-5 mt-5 wow fadeInUp" style="max-width: 900px;" data-wow-delay="0.1s">
+            <h5 class="section-title bg-white text-center text-primary px-3">NETWORK</h5>
+            <h1 class="mb-0">MOBILE NETWORK</h1>
+        </div>
+
+        <div class="moldives--sec1--div1">
+            <div class="sri--card--container">
+                <div class="sri--card--row">
+                    <div class="sri--card">
+                        <div class="sri--card1">
+                            <img src="img/sim1.png" class="sim1--img">
+                        </div>
+                        <div class="sri--card2">
+                            <span class="sim--span">Dialog Axiata </span>
+                            <ul>
+                                <li>The largest and most reliable network in Sri Lanka.</li>
+                                <li>Offers 4G and some 5G services in major cities.</li>
+                                <li>Best for tourists due to extensive coverage, even in remote areas.</li>
+                                <li>Tourist SIM available at the airport and Dialog outlets.</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="sri--card">
+                        <div class="sri--card1">
+                            <img src="img/sim2.png" class="sim1--img">
+                        </div>
+                        <div class="sri--card2">
+                            <span class="sim--span">Mobitel (SLT-Mobitel) </span>
+                            <ul>
+                                <li>Government-owned network with strong 4G coverage.</li>
+                                <li>Good balance of price and service quality.</li>
+                                <li>Offers tourist SIMs and international roaming packages.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="sri--card--row">
+                    <div class="sri--card">
+                        <div class="sri--card1">
+                            <img src="img/sim3.png" class="sim1--img">
+                        </div>
+                        <div class="sri--card2">
+                            <span class="sim--span">Airtel Sri Lanka</span>
+                            <ul>
+                                <li>Affordable data packages, but coverage is weaker in rural areas.</li>
+                                <li>Best for budget travelers who mainly use data in cities.</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="sri--card">
+                        <div class="sri--card1">
+                            <img src="img/sim4.png" class="sim1--img">
+                        </div>
+                        <div class="sri--card2">
+                            <span class="sim--span">Hutch</span>
+                            <ul>
+                                <li>Competitive pricing with good data offers.</li>
+                                <li>Coverage is improving but still limited in some areas.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="sri--card--row sri--card--row--spe">
+                <div class="sri--card card--special">
+                    <div class="sri--card2">
+                        <span class="sim--span">Tourist SIM Cards</span>
+                        <ul>
+                            <li>Available at Bandaranaike International Airport (BIA) and mobile operator outlets.</li>
+                            <li>Dialog and Mobitel offer special tourist SIMs with data, local calls, and international call options.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
 
     <!-- Destination Start -->
     <div class="container-fluid destination py-5">

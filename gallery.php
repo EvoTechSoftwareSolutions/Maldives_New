@@ -84,7 +84,7 @@
                 <h1 class="text-primary m-0"><i class="fa me-3">
                         <img src="img/dodologo.png" class="header--logo">
                     </i><span style="color: #fe6100;">dodo</span>
-                    <!-- <span style="color: #0000fe;">Travel</span> -->
+                    <span style="color: #0000fe;">Travel</span>
                 </h1>
                 <!-- <img src="img/logo.png" alt="Logo"> -->
             </a>
@@ -122,12 +122,29 @@
                 </div>
                 <a href="home/index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
             </div>
+
+            <div class="container-fluid px-5 d-none d-lg-block top--bar--another header-below">
+                <div class="row gx-0">
+                    <div class="text-center text-lg-center fw-bold">
+                        <div class="d-inline-flex align-items-center" style="height: 45px;">
+                            <span style="color: #fe6100;letter-spacing:2px;">do</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000fe;letter-spacing:2px;">EXPLORE</span>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <span style="color: #fe6100;letter-spacing:2px;">do</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000fe;letter-spacing:2px;">DISCOVER</span>
+                            &nbsp;&nbsp;
+                            <span style="color:rgb(255, 255, 255);">-</span>&nbsp;&nbsp;<span style="color:rgb(255, 255, 255);">It's dodo TRAVEL</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </nav>
     </div>
     <!-- Navbar & Hero End -->
 
+    <div class="empty--div"></div>
+
     <!-- Header Start -->
-    <div class="container-fluid">
+    <div class="container-fluid banner--img">
         <div class="gall--img ">
             <div class="container text-center py-5 gall--txt">
                 <div class="mt-5 py-lg-5">

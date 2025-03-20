@@ -84,7 +84,7 @@
                 <h1 class="text-primary m-0"><i class="fa me-3">
                         <img src="img/dodologo.png" class="header--logo">
                     </i><span style="color: #fe6100;">dodo</span>
-                    <!-- <span style="color: #0000fe;">Travel</span> -->
+                    <span style="color: #0000fe;">Travel</span>
                 </h1>
                 <!-- <img src="img/logo.png" alt="Logo"> -->
             </a>
@@ -142,8 +142,10 @@
     </div>
     <!-- Navbar & Hero End -->
 
+    <div class="empty--div"></div>
+
     <!-- Header Start -->
-    <div class="container-fluid">
+    <div class="container-fluid banner--img">
         <div class="abt--img  ">
             <div class="container text-center py-5 abt--txt">
                 <div class="mt-5 py-lg-5">

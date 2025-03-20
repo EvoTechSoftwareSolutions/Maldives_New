@@ -145,10 +145,10 @@
             </div>
 
 
-            <div class="container-fluid px-5 d-none d-lg-block top--bar--another header-below ">
+            <div class="container-fluid px-5 d-none d-lg-block top--bar--another header-below">
                 <div class="row gx-0">
                     <div class="text-center text-lg-center fw-bold">
-                        <div class="d-inline-flex align-items-center  " style="height: 45px;">
+                        <div class="d-inline-flex align-items-center" style="height: 45px;">
                             <span style="color: #fe6100;letter-spacing:2px;">do</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000fe;letter-spacing:2px;">EXPLORE</span>
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             <span style="color: #fe6100;letter-spacing:2px;">do</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000fe;letter-spacing:2px;">DISCOVER</span>
