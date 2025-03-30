@@ -2024,6 +2024,40 @@ span {
   height: 5rem;
 }
 
+.sim--sp--img{
+  width: 5rem;
+}
+
+.sri--card--special{
+  width: 90%;
+  display: flex;
+  /* background-color: red; */
+  align-items: center;
+  align-self: center;
+}
+
+.sim--span1{
+  /* background-color: red; */
+  padding: 0 0rem;
+  text-align: center;
+}
+
+.card--special {
+  width: 90%;
+  /* background-color: red; */
+  display: flex;
+  flex-direction: column;
+}
+
+.sri--card--special--border{
+  border-bottom: solid #0000002a 2px;
+}
+
+.link--site{
+  font-weight: bolder;
+  font-size: 1.2rem;
+}
+
 @media screen and (min-width:750px) {
   .sri--card--row {
     flex-direction: row;
@@ -2040,6 +2074,21 @@ span {
 
   .card--special {
     width: 100%;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .sri--card--special{
+    width: 50%;
+  }
+
+  .sri--card--special--border{
+    border-right: solid #0000002a 2px;
+    border-bottom: none;
+  }
+
+  .sim--span1{
+    padding: 0 2rem;
   }
 }
 

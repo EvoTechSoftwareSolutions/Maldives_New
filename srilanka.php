@@ -509,12 +509,21 @@
             </div>
             <div class="sri--card--row sri--card--row--spe">
                 <div class="sri--card card--special">
-                    <div class="sri--card2">
+                    <div class="sri--card2 sri--card--special sri--card--special--border">
+                        <img src="img/sim.png" class="sim--sp--img">
                         <span class="sim--span">Tourist SIM Cards</span>
-                        <ul>
-                            <li>Available at Bandaranaike International Airport (BIA) and mobile operator outlets.</li>
-                            <li>Dialog and Mobitel offer special tourist SIMs with data, local calls, and international call options.</li>
-                        </ul>
+                        <span class="sim--span1">
+                        Available at Bandaranaike International Airport (BIA) and mobile operator outlets.
+                        <br/>
+                        Dialog and Mobitel offer special tourist SIMs with data, local calls, and international call options.
+                        </span>
+                    </div>
+                    <div class="sri--card2 sri--card--special">
+                        <img src="img/passport.png" class="sim--sp--img">
+                        <span class="sim--span">Visa Requirenment</span>
+                        <span class="sim--span1">
+                        All Tourist or Business travelers to Sri Lanka must have e-Visa for entering in to Sri Lanka. Please visit &nbsp;<a href="https://www.srilankaevisa.lk" target="_blank" class="link--site">www.srilankaevisa.lk</a>&nbsp; for more information
+                        </span>
                     </div>
                 </div>
             </div>
