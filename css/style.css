@@ -2096,3 +2096,13 @@ span {
     height: max-content;
   }
 }
+
+@media screen and (min-width:1700px) {
+  .sri--card {
+    height: 33rem;
+  }
+  .card--special {
+    width: 100%;
+    height: max-content;
+  }
+}
