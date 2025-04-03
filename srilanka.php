@@ -217,7 +217,7 @@
                 <li>
                     <b>Tamil (தமிழ்) – Official & National Language</b>
                     <ul style="line-height:150%">
-                        <li>Spoken by around <b>25%</b> of the population (mainly by the Sinhalese community).</li>
+                        <li>Spoken by around <b>25%</b> of the population (mainly by the Tamil community).</li>
                         <li>Widely used in government offices, media, and education in Tamil-speaking areas.</li>
                     </ul>
                 </li>
