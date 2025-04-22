@@ -52,7 +52,7 @@
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Maldives and Sri
                         Lanka</small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+960 7 422 423 / +94 770 422 423</small>
+                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+960 7 422 423 / +94 771 772 422</small>
                     <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@dodo.lk</small>
                 </div>
             </div>
@@ -1355,7 +1355,7 @@
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="tel:+94 771 772 422">+94 770 422 423</a></td>
+                                    <td><a href="tel:+94 771 772 422">+94 771 772 422</a></td>
                                 </tr>
                             </table>
                         </a>
