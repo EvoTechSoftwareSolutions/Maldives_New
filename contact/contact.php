@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>dodo.lk</title>
+    <title>dodotravel.lk</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -43,8 +43,8 @@
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Maldives and Sri
                         Lanka</small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+960 7 422 423 / +94 771 772 422</small>
-                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@dodo.lk</small>
+                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+960 7 422 423 / +94 713 422 423</small>
+                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@dodotrvel.lk</small>
                 </div>
             </div>
             <div class="col-lg-4 text-center text-lg-end">
@@ -52,18 +52,18 @@
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
                         href="https://wa.link/vpjzv8" target="_blank"><i class="fab fa-whatsapp fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-                        href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank"><i
+                        href="https://www.facebook.com/profile.php?id=61577054995262" target="_blank"><i
                             class="fab fa-facebook-f fw-normal"></i></a>
 
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-                        href="https://www.instagram.com/dodo_lk/" target="_blank"><i
+                        href="https://www.instagram.com/dodo___travel/" target="_blank"><i
                             class="fab fa-instagram fw-normal"></i></a>
 
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
                         href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank"><i
                             class="fab fa-linkedin-in fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle"
-                        href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank"><i
+                        href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank"><i
                             class="fab fa-youtube fw-normal"></i></a>
                 </div>
             </div>
@@ -174,13 +174,13 @@
                             <i class="fa fa-phone-alt fa-3x text-primary mb-3"></i>
                             <h4 class="text-primary">Mobile</h4>
                             <p class="mb-0">+960 7 422 423</p>
-                            <p class="mb-0">+94 771 772 422</p>
+                            <p class="mb-0">+94 713 422 423</p>
                         </div>
 
                         <div class="text-center col-md-4 col-lg-12">
                             <i class="fa fa-envelope-open fa-3x text-primary mb-3"></i>
                             <h4 class="text-primary">Email</h4>
-                            <p class="mb-0">info@dodo.lk</p>
+                            <p class="mb-0">info@dodotravel.lk</p>
                         </div>
                     </div>
                 </div>
@@ -239,7 +239,7 @@
     <!-- Contact End -->
 
     <!-- Footer Start -->
-    <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn">
+   <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5 ms-lg-5" style="width: 100%;display: flex; justify-content: center;">
                 <div class="col-md-12 col-lg-3">
@@ -255,7 +255,7 @@
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="tel:+94 771 772 422">+94 771 772 422</a></td>
+                                    <td><a href="tel:+94 713 422 423">+94 713 422 423</a></td>
                                 </tr>
                             </table>
                         </a>
@@ -277,26 +277,26 @@
                     <div class="footer-item d-flex flex-column">
                         <h4 class="mb-4 text-white">Social Media</h4>
                         <div class="align-items-center">
-                        <div class="align-items-center d-flex flex-row">
+                            <div class="align-items-center d-flex flex-row">
                                 <a href="">
                                     <i class="fas fa-share fa-1x text-white me-2"></i>
                                     <a class="btn-square btn btn-primary rounded-circle mx-1"
-                                        href="https://www.facebook.com/profile.php?id=61571111114705" target="_blank">
+                                        href="https://www.facebook.com/profile.php?id=61577054995262" target="_blank">
                                         <i class="fab fa-facebook-f"></i>
-                                        <a href="https://www.facebook.com/profile.php?id=61571111114705"
+                                        <a href="https://www.facebook.com/profile.php?id=61577054995262"
                                             target="_blank"><i class="fas me-0"></i> Facebook</a>
                                     </a>
                                 </a>
                             </div>
-                           
+
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo__travel/"
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo___travel/"
                                     target="_blank">
                                     <i class="fab bi-instagram "></i>
-                                    <a href="https://www.instagram.com/dodo__travel/" target="_blank"><i class="fas me-0"></i>
-                                    Instagram</a>
+                                    <a href="https://www.instagram.com/dodo___travel/" target="_blank"><i class="fas me-0"></i>
+                                        Instagram</a>
                                 </a>
                                 </a>
                             </div>
@@ -327,9 +327,9 @@
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
                                 <a class="btn-square btn btn-primary rounded-circle mx-1"
-                                    href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank">
+                                    href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank">
                                     <i class="fab fa-youtube"></i>
-                                    <a href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank"><i
+                                    <a href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank"><i
                                             class="fas me-0"></i> YouTube</a>
                                 </a>
                                 </a>

@@ -3,12 +3,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>royalxgego.com</title>
+    <title>dodotravel.lk</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
 
-   
+    <link rel="icon" href="../img/logo.png">
+
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -34,16 +35,16 @@
 
 <body>
 
-   
-<!-- Topbar Start -->
-<div class="container-fluid px-5 d-none d-lg-block top--bar">
+
+    <!-- Topbar Start -->
+    <div class="container-fluid px-5 d-none d-lg-block top--bar">
         <div class="row gx-0">
             <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Maldives and Sri
                         Lanka</small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+960 7 422 423 / +94 771 772 422</small>
-                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@dodo.lk</small>
+                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+960 7 422 423 / +94 713 422 423</small>
+                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@dodotrvel.lk</small>
                 </div>
             </div>
             <div class="col-lg-4 text-center text-lg-end">
@@ -51,18 +52,18 @@
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
                         href="https://wa.link/vpjzv8" target="_blank"><i class="fab fa-whatsapp fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-                        href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank"><i
+                        href="https://www.facebook.com/profile.php?id=61577054995262" target="_blank"><i
                             class="fab fa-facebook-f fw-normal"></i></a>
 
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-                        href="https://www.instagram.com/dodo_lk/" target="_blank"><i
+                        href="https://www.instagram.com/dodo___travel/" target="_blank"><i
                             class="fab fa-instagram fw-normal"></i></a>
 
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
                         href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank"><i
                             class="fab fa-linkedin-in fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle"
-                        href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank"><i
+                        href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank"><i
                             class="fab fa-youtube fw-normal"></i></a>
                 </div>
             </div>
@@ -93,8 +94,8 @@
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Destinations</a>
                         <div class="dropdown-menu m-0">
 
-                        <a href="../moldives.php" class="dropdown-item">Maldives</a>
-                        <a href="../srilanka.php" class="dropdown-item">Sri Lanka</a>
+                            <a href="../moldives.php" class="dropdown-item">Maldives</a>
+                            <a href="../srilanka.php" class="dropdown-item">Sri Lanka</a>
 
 
                         </div>
@@ -110,8 +111,8 @@
                             <a href="../gallery.php" class="dropdown-item">Gallery</a>
                         </div>
                     </div>
-                    <a href="../packages/packages.php" class="nav-item nav-link">Packages</a>
-                    <a href="../contact/contact.php" class="nav-item nav-link active">Contact</a>
+                    <a href="../packages/packages.php" class="nav-item nav-link active">Packages</a>
+                    <a href="../contact/contact.php" class="nav-item nav-link ">Contact</a>
                 </div>
                 <a href="../home/index.php#bookTour" class="btn btn-primary rounded-pill py-2 px-4">BOOK&nbsp;NOW</a>
             </div>
@@ -132,9 +133,9 @@
 
         </nav>
     </div>
-    
 
-    <div class="container-fluid pack_back py-5 center new">
+
+    <!-- <div class="container-fluid pack_back py-5 center new">
         <div class="container py-5 pack--div">
             <div class="wrapper">
                 <div class="static-txt">Something</div>
@@ -147,9 +148,295 @@
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="static-txt">Awaits...</div>
             </div>
         </div>
-    </div>
+    </div> -->
 
-    
+    <!-- Header Start -->
+    <div class="container-fluid banner--img">
+        <div class="pak--img  ">
+            <div class="container text-center py-5 abt--txt">
+                <div class="mt-5 py-lg-5">
+                    <h3 class="text-white display-3 mb-4">Packages</h3>
+                </div>
+                <div>
+                    <ol class="breadcrumb justify-content-center mb-0">
+                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                        <li class="breadcrumb-item active text-white">Packages</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Header End -->
+
+    <!-- Packages Start -->
+    <div class="container-fluid packages py-5">
+        <div class="container py-5">
+            <div class="mx-auto text-center mb-5" style="max-width: 900px;">
+                <h5 class="section-title bg-white text-center text-primary px-3">Packages</h5>
+                <h1 class="mb-0">Moldives Tour Packages</h1>
+            </div>
+            <div class="packages-carousel owl-carousel">
+
+                <div class="packages-item">
+                    <div class="packages-img">
+                        <img src="../img/Pk1.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                        <div class="packages-info d-flex border border-start-0 border-end-0 position-absolute"
+                            style="width: 100%; bottom: 0; left: 0; z-index: 5;">
+                            <small class="flex-fill text-center border-end py-2"><i
+                                    class="fa fa-map-marker-alt me-2"></i>Moldives</small>
+                            <small class="flex-fill text-center border-end py-2"><i
+                                    class="fa fa-calendar-alt me-2"></i>4 days</small>
+                            <small class="flex-fill text-center py-2"><i class="fa fa-user me-2"></i>1 Person</small>
+                        </div>
+                        <!-- <div class="packages-price py-2 px-4">$349.00</div> -->
+                    </div>
+                    <div class="packages-content bg-light">
+                        <div class="p-4 pb-0">
+                            <h5 class="mb-0">Moldives</h5>
+                            <small class="text-uppercase">Hotel Deals</small>
+                            <div class="mb-3">
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                            </div>
+                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt nemo quia
+                                quae illum aperiam fugiat voluptatem repellat</p>
+                        </div>
+                        <div class="row bg-primary rounded-bottom mx-0">
+                            <div class="col-6 text-start px-0">
+                                <a href="#" class="btn-hover btn text-white py-2 px-4">Read More</a>
+                            </div>
+                            <div class="col-6 text-end px-0">
+                                <a href="index.php#bookTour" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="packages-item">
+                    <div class="packages-img">
+                        <img src="img/packages-2.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                        <div class="packages-info d-flex border border-start-0 border-end-0 position-absolute"
+                            style="width: 100%; bottom: 0; left: 0; z-index: 5;">
+                            <small class="flex-fill text-center border-end py-2"><i
+                                    class="fa fa-map-marker-alt me-2"></i>Venice - Italy</small>
+                            <small class="flex-fill text-center border-end py-2"><i
+                                    class="fa fa-calendar-alt me-2"></i>3 days</small>
+                            <small class="flex-fill text-center py-2"><i class="fa fa-user me-2"></i>2 Person</small>
+                        </div>
+                        <!-- <div class="packages-price py-2 px-4">$449.00</div> -->
+                    </div>
+                    <div class="packages-content bg-light">
+                        <div class="p-4 pb-0">
+                            <h5 class="mb-0">The New California</h5>
+                            <small class="text-uppercase">Hotel Deals</small>
+                            <div class="mb-3">
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                            </div>
+                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt nemo quia
+                                quae illum aperiam fugiat voluptatem repellat</p>
+                        </div>
+                        <div class="row bg-primary rounded-bottom mx-0">
+                            <div class="col-6 text-start px-0">
+                                <a href="#" class="btn-hover btn text-white py-2 px-4">Read More</a>
+                            </div>
+                            <div class="col-6 text-end px-0">
+                                <a href="index.php#bookTour" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="packages-item">
+                    <div class="packages-img">
+                        <img src="img/packages-3.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                        <div class="packages-info d-flex border border-start-0 border-end-0 position-absolute"
+                            style="width: 100%; bottom: 0; left: 0; z-index: 5;">
+                            <small class="flex-fill text-center border-end py-2"><i
+                                    class="fa fa-map-marker-alt me-2"></i>Venice - Italy</small>
+                            <small class="flex-fill text-center border-end py-2"><i
+                                    class="fa fa-calendar-alt me-2"></i>3 days</small>
+                            <small class="flex-fill text-center py-2"><i class="fa fa-user me-2"></i>2 Person</small>
+                        </div>
+                        <div class="packages-price py-2 px-4">$549.00</div>
+                    </div>
+                    <div class="packages-content bg-light">
+                        <div class="p-4 pb-0">
+                            <h5 class="mb-0">Discover Japan</h5>
+                            <small class="text-uppercase">Hotel Deals</small>
+                            <div class="mb-3">
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                            </div>
+                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt nemo quia
+                                quae illum aperiam fugiat voluptatem repellat</p>
+                        </div>
+                        <div class="row bg-primary rounded-bottom mx-0">
+                            <div class="col-6 text-start px-0">
+                                <a href="#" class="btn-hover btn text-white py-2 px-4">Read More</a>
+                            </div>
+                            <div class="col-6 text-end px-0">
+                                <a href="index.php#bookTour" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="packages-item">
+                    <div class="packages-img">
+                        <img src="img/packages-1.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                        <div class="packages-info d-flex border border-start-0 border-end-0 position-absolute"
+                            style="width: 100%; bottom: 0; left: 0; z-index: 5;">
+                            <small class="flex-fill text-center border-end py-2"><i
+                                    class="fa fa-map-marker-alt me-2"></i>Thayland</small>
+                            <small class="flex-fill text-center border-end py-2"><i
+                                    class="fa fa-calendar-alt me-2"></i>3 days</small>
+                            <small class="flex-fill text-center py-2"><i class="fa fa-user me-2"></i>2 Person</small>
+                        </div>
+                        <div class="packages-price py-2 px-4">$649.00</div>
+                    </div>
+                    <div class="packages-content bg-light">
+                        <div class="p-4 pb-0">
+                            <h5 class="mb-0">Thayland Trip</h5>
+                            <small class="text-uppercase">Hotel Deals</small>
+                            <div class="mb-3">
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star text-primary"></small>
+                            </div>
+                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt nemo quia
+                                quae illum aperiam fugiat voluptatem repellat</p>
+                        </div>
+                        <div class="row bg-primary rounded-bottom mx-0">
+                            <div class="col-6 text-start px-0">
+                                <a href="#" class="btn-hover btn text-white py-2 px-4">Read More</a>
+                            </div>
+                            <div class="col-6 text-end px-0">
+                                <a href="index.php#bookTour" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Packages End -->
+
+
+    <!-- Footer Start -->
+    <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <div class="row g-5 ms-lg-5" style="width: 100%;display: flex; justify-content: center;">
+                <div class="col-md-12 col-lg-3">
+                    <div class="footer-item d-flex flex-column">
+                        <h4 class="mb-4 text-white">Get In Touch</h4>
+                        <a href=""><i class="fas fa-home me-2"></i> Maldives&nbsp;and Sri&nbsp;Lanka</a>
+                        <a href="mailto:info@dodo.lk"><i class="fas fa-envelope me-2"></i> info@dodo.lk</a>
+                        <a href="">
+                            <table>
+                                <tr>
+                                    <td><i class="fas fa-phone me-2"></i></td>
+                                    <td><a href="tel:+960 7 422 423">+960 7 422 423</a></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td><a href="tel:+94 713 422 423">+94 713 422 423</a></td>
+                                </tr>
+                            </table>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 ms-lg-5">
+                    <div class="footer-item d-flex flex-column">
+                        <h4 class="mb-4 text-white">Quick Links</h4>
+                        <a href="#"><i class="fas fa-angle-right me-2"></i> Home</a>
+                        <a href="../about.php"><i class="fas fa-angle-right me-2"></i> About</a>
+                        <a href="../moldives.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
+                        <a href="../accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
+                        <a href="../packages/packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
+                        <a href="../gallery.php"><i class="fas fa-angle-right me-2"></i> Gallery</a>
+                        <a href="../contact/contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="footer-item d-flex flex-column">
+                        <h4 class="mb-4 text-white">Social Media</h4>
+                        <div class="align-items-center">
+                            <div class="align-items-center d-flex flex-row">
+                                <a href="">
+                                    <i class="fas fa-share fa-1x text-white me-2"></i>
+                                    <a class="btn-square btn btn-primary rounded-circle mx-1"
+                                        href="https://www.facebook.com/profile.php?id=61577054995262" target="_blank">
+                                        <i class="fab fa-facebook-f"></i>
+                                        <a href="https://www.facebook.com/profile.php?id=61577054995262"
+                                            target="_blank"><i class="fas me-0"></i> Facebook</a>
+                                    </a>
+                                </a>
+                            </div>
+
+                            <div class="align-items-center d-flex flex-row mt-2">
+                                <a href=""></a>
+                                <i class="fas fa-share fa-1x text-white me-2"></i>
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo___travel/"
+                                    target="_blank">
+                                    <i class="fab bi-instagram "></i>
+                                    <a href="https://www.instagram.com/dodo___travel/" target="_blank"><i class="fas me-0"></i>
+                                        Instagram</a>
+                                </a>
+                                </a>
+                            </div>
+
+                            <div class="align-items-center d-flex flex-row mt-2">
+                                <a href=""></a>
+                                <i class="fas fa-share fa-1x text-white me-2"></i>
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://wa.link/vpjzv8"
+                                    target="_blank">
+                                    <i class="fab fa-whatsapp"></i>
+                                    <a href="https://wa.link/vpjzv8" target="_blank"><i class="fas me-0"></i>
+                                        WhatsApp</a>
+                                </a>
+                                </a>
+                            </div>
+                            <div class="align-items-center d-flex flex-row mt-2">
+                                <a href=""></a>
+                                <i class="fas fa-share fa-1x text-white me-2"></i>
+                                <a class="btn-square btn btn-primary rounded-circle mx-1"
+                                    href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank">
+                                    <i class="fab fa-linkedin-in"></i>
+                                    <a href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank"><i
+                                            class="fas me-0"></i> Linkedin</a>
+                                </a>
+                                </a>
+                            </div>
+                            <div class="align-items-center d-flex flex-row mt-2">
+                                <a href=""></a>
+                                <i class="fas fa-share fa-1x text-white me-2"></i>
+                                <a class="btn-square btn btn-primary rounded-circle mx-1"
+                                    href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank">
+                                    <i class="fab fa-youtube"></i>
+                                    <a href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank"><i
+                                            class="fas me-0"></i> YouTube</a>
+                                </a>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+
 
     <!-- Copyright Start -->
     <div class="container-fluid copyright text-body py-4 ">
@@ -165,7 +452,7 @@
     </div>
     <!-- Copyright End -->
 
-    
+
     <!-- JavaScript Libraries -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>

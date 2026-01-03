@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>dodo.lk</title>
+    <title>dodotravel.lk</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <!-- <meta content="" name="keywords">
     <meta content="" name="description"> -->
@@ -53,8 +53,8 @@
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Maldives and Sri
                         Lanka</small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+960 7 422 423 / +94 771 772 422</small>
-                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@dodo.lk</small>
+                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+960 7 422 423 / +94 713 422 423</small>
+                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@dodotrvel.lk</small>
                 </div>
             </div>
             <div class="col-lg-4 text-center text-lg-end">
@@ -62,18 +62,18 @@
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
                         href="https://wa.link/vpjzv8" target="_blank"><i class="fab fa-whatsapp fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-                        href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank"><i
+                        href="https://www.facebook.com/profile.php?id=61577054995262" target="_blank"><i
                             class="fab fa-facebook-f fw-normal"></i></a>
 
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-                        href="https://www.instagram.com/dodo_lk/" target="_blank"><i
+                        href="https://www.instagram.com/dodo___travel/" target="_blank"><i
                             class="fab fa-instagram fw-normal"></i></a>
 
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
                         href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank"><i
                             class="fab fa-linkedin-in fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle"
-                        href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank"><i
+                        href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank"><i
                             class="fab fa-youtube fw-normal"></i></a>
                 </div>
             </div>
@@ -308,10 +308,10 @@
                         style="background: linear-gradient(rgba(0, 0, 90, 0.1), rgba(0, 0, 90, 0.1));">About Us</h5>
                     <h1 class="mb-4">Welcome to  <span style="color: #fe6100;">dodo</span>&nbsp;<span style="color: #0000fe;">TRAVEL</span></h1>
 
-                    <p class="mb-4">Discover the best of the Maldives and Sri Lanka with dodo TRAVEL , your gateway to
+                    <p class="mb-4">Discover the best of the Maldives and Sri Lanka with dodo TRAVEL (Pvt) Ltd, your gateway to
                         unforgettable experiences. Whether you're dreaming of a luxurious beach retreat or an
                         adventurous cultural journey, we tailor every trip to your desires.</p>
-                    <p class="mb-4">At dodo TRAVEL , we craft bespoke travel itineraries that offer the perfect blend of
+                    <p class="mb-4">At dodo TRAVEL (Pvt) Ltd, we craft bespoke travel itineraries that offer the perfect blend of
                         relaxation and exploration. From the pristine beaches of the Maldives to the scenic beauty of
                         Sri Lanka, we ensure every moment of your journey is extraordinary.
                     </p>
@@ -1638,7 +1638,7 @@
                     <h6 class="section-title--book text-white  pe-3 text-start">Booking
                     </h6>
                     <h1 class="text-white mb-4">Online Booking</h1>
-                    <p class="text-white mb-4">Ready to turn your travel dreams into reality? At dodo TRAVEL , we offer
+                    <p class="text-white mb-4">Ready to turn your travel dreams into reality? At dodo TRAVEL (Pvt) Ltd, we offer
                         exclusive packages designed just for you. With personalized itineraries and exceptional service,
                         your ideal vacation is just a click away.
                     </p>
@@ -1898,7 +1898,8 @@
     <!-- Blog End -->
 
     <!-- Testimonial Start -->
-    <!-- <div class="container-fluid testimonial py-5" data-wow-delay="0.1s">
+
+    <div class="container-fluid testimonial py-5" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="mx-auto text-center mb-5" style="max-width: 900px;">
                 <h5 class="section-title bg-white text-center text-primary px-3">Testimonials</h5>
@@ -1991,7 +1992,7 @@
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
     <!-- Testimonial End -->
 
     <!-- Subscribe Start -->
@@ -2028,7 +2029,7 @@
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="tel:+94 771 772 422">+94 771 772 422</a></td>
+                                    <td><a href="tel:+94 713 422 423">+94 713 422 423</a></td>
                                 </tr>
                             </table>
                         </a>
@@ -2054,9 +2055,9 @@
                                 <a href="">
                                     <i class="fas fa-share fa-1x text-white me-2"></i>
                                     <a class="btn-square btn btn-primary rounded-circle mx-1"
-                                        href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank">
+                                        href="https://www.facebook.com/profile.php?id=61577054995262" target="_blank">
                                         <i class="fab fa-facebook-f"></i>
-                                        <a href="https://www.facebook.com/profile.php?id=61565220060400"
+                                        <a href="https://www.facebook.com/profile.php?id=61577054995262"
                                             target="_blank"><i class="fas me-0"></i> Facebook</a>
                                     </a>
                                 </a>
@@ -2065,10 +2066,10 @@
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo_lk/"
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo___travel/"
                                     target="_blank">
                                     <i class="fab bi-instagram "></i>
-                                    <a href="https://www.instagram.com/dodo_lk/" target="_blank"><i class="fas me-0"></i>
+                                    <a href="https://www.instagram.com/dodo___travel/" target="_blank"><i class="fas me-0"></i>
                                         Instagram</a>
                                 </a>
                                 </a>
@@ -2100,9 +2101,9 @@
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
                                 <a class="btn-square btn btn-primary rounded-circle mx-1"
-                                    href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank">
+                                    href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank">
                                     <i class="fab fa-youtube"></i>
-                                    <a href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank"><i
+                                    <a href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank"><i
                                             class="fas me-0"></i> YouTube</a>
                                 </a>
                                 </a>

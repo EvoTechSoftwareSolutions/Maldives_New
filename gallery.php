@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>dodo.lk</title>
+    <title>dodotravel.lk</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -49,8 +49,8 @@
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Maldives and Sri
                         Lanka</small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+960 7 422 423 / +94 771 772 422</small>
-                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@dodo.lk</small>
+                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+960 7 422 423 / +94 713 422 423</small>
+                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@dodotrvel.lk</small>
                 </div>
             </div>
             <div class="col-lg-4 text-center text-lg-end">
@@ -58,18 +58,18 @@
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
                         href="https://wa.link/vpjzv8" target="_blank"><i class="fab fa-whatsapp fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-                        href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank"><i
+                        href="https://www.facebook.com/profile.php?id=61577054995262" target="_blank"><i
                             class="fab fa-facebook-f fw-normal"></i></a>
 
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-                        href="https://www.instagram.com/dodo_lk/" target="_blank"><i
+                        href="https://www.instagram.com/dodo___travel/" target="_blank"><i
                             class="fab fa-instagram fw-normal"></i></a>
 
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
                         href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank"><i
                             class="fab fa-linkedin-in fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle"
-                        href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank"><i
+                        href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank"><i
                             class="fab fa-youtube fw-normal"></i></a>
                 </div>
             </div>
@@ -194,6 +194,7 @@
             <div class="tab-content">
                 <div id="GalleryTab-1" class="tab-pane fade show p-0 active">
                     <div class="row g-2">
+
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                             <div class="gallery-item h-100">
                                 <img src="img/gallery/MH1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
@@ -326,6 +327,178 @@
                                 </div>
                             </div>
                         </div>
+
+
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/MH12.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/MH12.jpg" data-lightbox="MH12" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/MH13.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/MH13.jpg" data-lightbox="MH13" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/MH14.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/MH14.jpg" data-lightbox="MH14" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/MH15.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/MH15.jpg" data-lightbox="MH15" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/MH16.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/MH16.jpg" data-lightbox="MH16" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/MH17.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/MH17.jpg" data-lightbox="MH17" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/MH18.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/MH18.jpg" data-lightbox="MH18" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/MH19.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/MH19.jpg" data-lightbox="MH19" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/MH20.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/MH20.jpg" data-lightbox="MH20" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/MH21.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/MH21.jpg" data-lightbox="MH21" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/MH22.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/MH22.jpg" data-lightbox="MH22" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/MH23.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/MH23.jpg" data-lightbox="MH23" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-3 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/MH24.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/MH24.jpg" data-lightbox="MH24" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="col-sm-6 col-md-6 col-lg-3 col-xl-2">
+                            <div class="gallery-item h-100">
+                                <img src="img/gallery/MH25.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                <div class="gallery-content">
+
+                                </div>
+                                <div class="gallery-plus-icon">
+                                    <a href="img/gallery/MH25.jpg" data-lightbox="MH25" class="my-auto"><i
+                                            class="fas fa-plus fa-2x text-white"></i></a>
+                                </div>
+                            </div>
+                        </div> -->
+
+
                     </div>
                 </div>
                 <div id="GalleryTab-2" class="tab-pane fade show p-0">
@@ -1376,7 +1549,7 @@
     <!-- Gallery End -->
 
     <!-- Footer Start -->
-    <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn">
+    <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5 ms-lg-5" style="width: 100%;display: flex; justify-content: center;">
                 <div class="col-md-12 col-lg-3">
@@ -1392,7 +1565,7 @@
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="tel:+94 771 772 422">+94 771 772 422</a></td>
+                                    <td><a href="tel:+94 713 422 423">+94 713 422 423</a></td>
                                 </tr>
                             </table>
                         </a>
@@ -1401,13 +1574,13 @@
                 <div class="col-md-6 col-lg-3 ms-lg-5">
                     <div class="footer-item d-flex flex-column">
                         <h4 class="mb-4 text-white">Quick Links</h4>
-                        <a href="home/index.php"><i class="fas fa-angle-right me-2"></i> Home</a>
-                        <a href="packages/packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
-                        <a href="destination.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
-                        <a href="accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
-                        <a href="#"><i class="fas fa-angle-right me-2"></i> Gallery</a>
-                        <a href="about.php"><i class="fas fa-angle-right me-2"></i> About</a>
-                        <a href="contact/contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
+                        <a href="#"><i class="fas fa-angle-right me-2"></i> Home</a>
+                        <a href="../about.php"><i class="fas fa-angle-right me-2"></i> About</a>
+                        <a href="../moldives.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
+                        <a href="../accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
+                        <a href="../packages/packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
+                        <a href="../gallery.php"><i class="fas fa-angle-right me-2"></i> Gallery</a>
+                        <a href="../contact/contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
@@ -1417,36 +1590,57 @@
                             <div class="align-items-center d-flex flex-row">
                                 <a href="">
                                     <i class="fas fa-share fa-1x text-white me-2"></i>
-                                    <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank">
+                                    <a class="btn-square btn btn-primary rounded-circle mx-1"
+                                        href="https://www.facebook.com/profile.php?id=61577054995262" target="_blank">
                                         <i class="fab fa-facebook-f"></i>
-                                        <a href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank"><i class="fas me-0"></i> Facebook</a>
+                                        <a href="https://www.facebook.com/profile.php?id=61577054995262"
+                                            target="_blank"><i class="fas me-0"></i> Facebook</a>
                                     </a>
                                 </a>
                             </div>
+
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://wa.link/vpjzv8" target="_blank">
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo___travel/"
+                                    target="_blank">
+                                    <i class="fab bi-instagram "></i>
+                                    <a href="https://www.instagram.com/dodo___travel/" target="_blank"><i class="fas me-0"></i>
+                                        Instagram</a>
+                                </a>
+                                </a>
+                            </div>
+
+                            <div class="align-items-center d-flex flex-row mt-2">
+                                <a href=""></a>
+                                <i class="fas fa-share fa-1x text-white me-2"></i>
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://wa.link/vpjzv8"
+                                    target="_blank">
                                     <i class="fab fa-whatsapp"></i>
-                                    <a href="https://wa.link/vpjzv8" target="_blank"><i class="fas me-0"></i> WhatsApp</a>
+                                    <a href="https://wa.link/vpjzv8" target="_blank"><i class="fas me-0"></i>
+                                        WhatsApp</a>
                                 </a>
                                 </a>
                             </div>
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.linkedin.com/in/shan-ramanathan-57a97214b" target="_blank">
+                                <a class="btn-square btn btn-primary rounded-circle mx-1"
+                                    href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank">
                                     <i class="fab fa-linkedin-in"></i>
-                                    <a href="https://www.linkedin.com/in/shan-ramanathan-57a97214b" target="_blank"><i class="fas me-0"></i> Linkedin</a>
+                                    <a href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank"><i
+                                            class="fas me-0"></i> Linkedin</a>
                                 </a>
                                 </a>
                             </div>
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.youtube.com/@Travelmaldivesandsrilanka" target="_blank">
+                                <a class="btn-square btn btn-primary rounded-circle mx-1"
+                                    href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank">
                                     <i class="fab fa-youtube"></i>
-                                    <a href="https://www.youtube.com/@Travelmaldivesandsrilanka" target="_blank"><i class="fas me-0"></i> YouTube</a>
+                                    <a href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank"><i
+                                            class="fas me-0"></i> YouTube</a>
                                 </a>
                                 </a>
                             </div>

@@ -177,10 +177,10 @@
                     <h5 class="section-title bg-white text-start text-primary pe-3"
                         style="background: linear-gradient(rgba(0, 0, 90, 0.1), rgba(0, 0, 90, 0.1));">About Us</h5>
                         <h1 class="mb-4">Welcome to  <span style="color: #fe6100;">dodo</span>&nbsp;<span style="color: #0000fe;">TRAVEL</span></h1>
-                    <p class="mb-4">Discover the best of the Maldives and Sri Lanka with dodo TRAVEL , your gateway to
+                    <p class="mb-4">Discover the best of the Maldives and Sri Lanka with dodo TRAVEL (Pvt) Ltd, your gateway to
                         unforgettable experiences. Whether you're dreaming of a luxurious beach retreat or an
                         adventurous cultural journey, we tailor every trip to your desires.</p>
-                    <p class="mb-4">At dodo TRAVEL , we craft bespoke travel itineraries that offer the perfect blend of
+                    <p class="mb-4">At dodo TRAVEL (Pvt) Ltd, we craft bespoke travel itineraries that offer the perfect blend of
                         relaxation and exploration. From the pristine beaches of the Maldives to the scenic beauty of
                         Sri Lanka, we ensure every moment of your journey is extraordinary.
                     </p>
@@ -438,7 +438,7 @@
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="tel:+94 771 772 422">+94 771 772 422</a></td>
+                                    <td><a href="tel:+94 713 422 423">+94 713 422 423</a></td>
                                 </tr>
                             </table>
                         </a>

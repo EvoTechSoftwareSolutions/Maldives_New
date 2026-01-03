@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>dodo.lk</title>
+    <title>dodotravel.lk</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -50,8 +50,8 @@
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Maldives and Sri
                         Lanka</small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+960 7 422 423 / +94 771 772 422</small>
-                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@dodo.lk</small>
+                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+960 7 422 423 / +94 713 422 423</small>
+                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@dodotrvel.lk</small>
                 </div>
             </div>
             <div class="col-lg-4 text-center text-lg-end">
@@ -59,18 +59,18 @@
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
                         href="https://wa.link/vpjzv8" target="_blank"><i class="fab fa-whatsapp fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-                        href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank"><i
+                        href="https://www.facebook.com/profile.php?id=61577054995262" target="_blank"><i
                             class="fab fa-facebook-f fw-normal"></i></a>
 
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-                        href="https://www.instagram.com/dodo_lk/" target="_blank"><i
+                        href="https://www.instagram.com/dodo___travel/" target="_blank"><i
                             class="fab fa-instagram fw-normal"></i></a>
 
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
                         href="https://www.linkedin.com/in/dodo-travel-57a97214b/" target="_blank"><i
                             class="fab fa-linkedin-in fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle"
-                        href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank"><i
+                        href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank"><i
                             class="fab fa-youtube fw-normal"></i></a>
                 </div>
             </div>
@@ -191,7 +191,7 @@
             </ul>
             <div class="tab-content">
                 <div id="GalleryTab-1" class="tab-pane fade show p-0 active">
-                    <h2>Beach Breeze and SPA</h2>
+                    <!-- <h2>Beach Breeze and SPA</h2> -->
                     <div class="row g-2 mt-5">
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                             <div class="gallery-item h-100">
@@ -515,7 +515,7 @@
             </ul>
             <div class="tab-content">
                 <div id="GalleryTab-21" class="tab-pane fade show p-0 active">
-                    <h2>Hotel OAK wood Kandy</h2>
+                    <!-- <h2>Hotel OAK wood Kandy</h2> -->
                     <div class="row g-2 mt-5">
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                             <div class="gallery-item h-100">
@@ -635,7 +635,7 @@
                     </div>
                 </div>
                 <div id="GalleryTab-22" class="tab-pane fade show p-0">
-                    <h2>Ocean Villa Den Galle</h2>
+                    <!-- <h2>Ocean Villa Den Galle</h2> -->
                     <div class="row g-2 mt-5">
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                             <div class="gallery-item h-100">
@@ -761,7 +761,7 @@
                     </div>
                 </div>
                 <div id="GalleryTab-23" class="tab-pane fade show p-0">
-                    <h2>Hotel Swiss Dale Matale</h2>
+                    <!-- <h2>Hotel Swiss Dale Matale</h2> -->
                     <div class="row g-2 mt-5">
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                             <div class="gallery-item h-100">
@@ -864,7 +864,7 @@
                         </div> -->
                     </div>
                     <br />
-                    <h2 class="mt-5">Hotel Dad's Home Matale</h2>
+                    <!-- <h2 class="mt-5">Hotel Dad's Home Matale</h2> -->
                     <div class="row g-2 mt-5">
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                             <div class="gallery-item h-100">
@@ -968,7 +968,7 @@
                     </div>
                 </div>
                 <div id="GalleryTab-24" class="tab-pane fade show p-0">
-                    <h2>Hotel Harmony Udawalawa</h2>
+                    <!-- <h2>Hotel Harmony Udawalawa</h2> -->
                     <div class="row g-2 mt-5">
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                             <div class="gallery-item h-100">
@@ -1127,7 +1127,7 @@
                     </div>
                 </div>
                 <div id="GalleryTab-25" class="tab-pane fade show p-0">
-                    <h2>Hotel R21 Nuwaraeliya</h2>
+                    <!-- <h2>Hotel R21 Nuwaraeliya</h2> -->
                     <div class="row g-2 mt-5">
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                             <div class="gallery-item h-100">
@@ -1230,7 +1230,7 @@
                         </div>
                     </div>
                     <br />
-                    <h2 class="mt-5">Hotel Woodnest Sithula Garden Nuwaraeliya</h2>
+                    <!-- <h2 class="mt-5">Hotel Woodnest Sithula Garden Nuwaraeliya</h2> -->
                     <div class="row g-2 mt-5">
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                             <div class="gallery-item h-100">
@@ -1444,7 +1444,7 @@
                     </div>
                 </div>
                 <div id="GalleryTab-26" class="tab-pane fade show p-0">
-                    <h2>Hotel Woodnest Summerside Negombo</h2>
+                    <!-- <h2>Hotel Woodnest Summerside Negombo</h2> -->
                     <div class="row g-2 mt-5">
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                             <div class="gallery-item h-100">
@@ -1612,7 +1612,7 @@
     <!-- Lanka End -->
 
     <!-- Footer Start -->
-    <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn">
+  <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5 ms-lg-5" style="width: 100%;display: flex; justify-content: center;">
                 <div class="col-md-12 col-lg-3">
@@ -1628,7 +1628,7 @@
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="tel:+94 771 772 422">+94 771 772 422</a></td>
+                                    <td><a href="tel:+94 713 422 423">+94 713 422 423</a></td>
                                 </tr>
                             </table>
                         </a>
@@ -1639,7 +1639,7 @@
                         <h4 class="mb-4 text-white">Quick Links</h4>
                         <a href="#"><i class="fas fa-angle-right me-2"></i> Home</a>
                         <a href="../about.php"><i class="fas fa-angle-right me-2"></i> About</a>
-                        <a href="moldives.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
+                        <a href="../moldives.php"><i class="fas fa-angle-right me-2"></i> Destinations</a>
                         <a href="../accommodations.php"><i class="fas fa-angle-right me-2"></i> Accommodations</a>
                         <a href="../packages/packages.php"><i class="fas fa-angle-right me-2"></i> Packages</a>
                         <a href="../gallery.php"><i class="fas fa-angle-right me-2"></i> Gallery</a>
@@ -1650,26 +1650,26 @@
                     <div class="footer-item d-flex flex-column">
                         <h4 class="mb-4 text-white">Social Media</h4>
                         <div class="align-items-center">
-                        <div class="align-items-center d-flex flex-row">
+                            <div class="align-items-center d-flex flex-row">
                                 <a href="">
                                     <i class="fas fa-share fa-1x text-white me-2"></i>
                                     <a class="btn-square btn btn-primary rounded-circle mx-1"
-                                        href="https://www.facebook.com/profile.php?id=61565220060400" target="_blank">
+                                        href="https://www.facebook.com/profile.php?id=61577054995262" target="_blank">
                                         <i class="fab fa-facebook-f"></i>
-                                        <a href="https://www.facebook.com/profile.php?id=61565220060400"
+                                        <a href="https://www.facebook.com/profile.php?id=61577054995262"
                                             target="_blank"><i class="fas me-0"></i> Facebook</a>
                                     </a>
                                 </a>
                             </div>
-                           
+
                             <div class="align-items-center d-flex flex-row mt-2">
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
-                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo_lk/"
+                                <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/dodo___travel/"
                                     target="_blank">
                                     <i class="fab bi-instagram "></i>
-                                    <a href="https://www.instagram.com/dodo_lk/" target="_blank"><i class="fas me-0"></i>
-                                    Instagram</a>
+                                    <a href="https://www.instagram.com/dodo___travel/" target="_blank"><i class="fas me-0"></i>
+                                        Instagram</a>
                                 </a>
                                 </a>
                             </div>
@@ -1700,9 +1700,9 @@
                                 <a href=""></a>
                                 <i class="fas fa-share fa-1x text-white me-2"></i>
                                 <a class="btn-square btn btn-primary rounded-circle mx-1"
-                                    href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank">
+                                    href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank">
                                     <i class="fab fa-youtube"></i>
-                                    <a href="https://www.youtube.com/@visitsrilankaandmaldives" target="_blank"><i
+                                    <a href="https://www.youtube.com/@travelwithdodoTRAVEL" target="_blank"><i
                                             class="fas me-0"></i> YouTube</a>
                                 </a>
                                 </a>

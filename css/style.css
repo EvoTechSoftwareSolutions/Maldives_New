@@ -1457,6 +1457,14 @@ span {
   justify-content: center;
 }
 
+.pak--img {
+  width: 100%;
+  background-image: url("../img/Pk1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  aspect-ratio: 26/9;
+}
+
 .con--img {
   width: 100%;
   background-image: url("../img/tr5.png");
