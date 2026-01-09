@@ -1630,6 +1630,7 @@
     </div>
     <!-- Gallery End -->
 
+
     <!-- Tour Booking Start -->
     <div class="container-fluid booking py-5" id="bookTour" data-wow-delay="0.1s">
         <div class="container py-5">
