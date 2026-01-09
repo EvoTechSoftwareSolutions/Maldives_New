@@ -208,12 +208,12 @@
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingOne">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                            <strong>Day 1: Arrival & Check-In</strong>
+                                            <strong>Day 1 : Arrival & Check-In</strong>
                                         </button>
                                     </h2>
                                     <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <ul>
+                                            <ul style="margin-left: 8px; padding-left: 0;">
                                                 <li>
                                                     <strong>Airport Pickup</strong> : Meet and greet at Velana International Airport for 2 pax with standard
                                                     baggage.
@@ -222,13 +222,30 @@
                                                     <strong>Sim Card</strong> : Receive a local SIM card with data for 3 days to stay connected.
                                                 </li>
                                                 <li>
-                                                    <strong>Accommodation</strong> : 
-                                                    <ul>
-                                                        <li>Check-in at a <b>Guest House in Hulhumale</b> with the following facilities: 
-                                                    <ul>
-                                                        <li>Mini Budget Room (No View)</li>
+                                                    <strong>Accommodation</strong> :
+                                                    <ul style="margin-left: 16px; padding-left: 0;">
+                                                        <li>Check-in at a <b>Guest House in Hulhumale</b> with the following facilities:
+                                                            <ul style="margin-left: 18px; padding-left: 0;">
+                                                                <li>Mini Budget Room (No View).</li>
+                                                                <li>Air conditioning, hot water, Netflix on TV, and unlimited high-speed free Wi-Fi.</li>
+                                                                <li>Daily housekeeping and 24x7 room service.</li>
+                                                                <li>Complimentary amenities:
+                                                                    <ul style="margin-left: 20px; padding-left: 0;">
+                                                                        <li>Daily two bottles of water.</li>
+                                                                        <li>Beach towels, shower gel, towels, and a hairdryer</li>
+                                                                        <li>Mini bar and ironing facility.</li>
+                                                                    </ul>
+                                                                </li>
+                                                                <li>Free terrace access on the 3rd floor and 24-hour premises access.</li>
+                                                            </ul>
+                                                        </li>
                                                     </ul>
-                                                    </li>
+                                                </li>
+                                                <li>
+                                                    <strong>Meals</strong> :
+                                                    <ul style="margin-left: 16px; padding-left: 0;">
+                                                        <li>Breakfast for 2 pax (continental and local options served to the room).</li>
+                                                        <li><b>Note :</b> Lunch and dinner are not provided on this day.</li>
                                                     </ul>
                                                 </li>
                                             </ul>
@@ -238,28 +255,144 @@
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingTwo">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                            DAY 2
+                                            <strong>DAY 2 : Day Adventure Trip</strong>
                                         </button>
                                     </h2>
                                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                            <ul style="margin-left: 8px; padding-left: 0;">
+                                                <li>
+                                                    <strong>Activities</strong> :
+                                                    <ul style="margin-left: 16px; padding-left: 0;">
+                                                        <li><b>Sandbank Excursion</b> : Relax and sunbathe on a secluded sandbank.</li>
+                                                        <li><b>Snorkeling</b> : Explore vibrant coral reefs and marine life.</li>
+                                                        <li><b>Island Hopping</b> : Visit nearby islands, including local and uninhabited ones.</li>
+                                                        <li><b>Dolphin Cruise</b> : Enjoy an exciting cruise to spot playful dolphins.</li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <strong>Meals</strong> :
+                                                    <ul style="margin-left: 16px; padding-left: 0;">
+                                                        <li>Complimentary lunch for 2 pax during the adventure trip.</li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <strong>Evening</strong> : Return to your guest house for leisure time and relaxation.
+                                                </li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingThree">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                            DAY 3
+                                            <strong>Day 3 : Day Resort Experience & Nightlife</strong>
                                         </button>
                                     </h2>
                                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                            <ul style="margin-left: 8px; padding-left: 0;">
+                                                <li>
+                                                    <strong>Morning</strong> : Breakfast at the guest house.
+                                                </li>
+                                                <li>
+                                                    <strong>Transportation</strong> :
+                                                    <ul style="margin-left: 16px; padding-left: 0;">
+                                                        <li>Transfer from Hulhumale to Male Jetty.</li>
+                                                        <li>Boat transportation from Male to Crossroad Island.</li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <strong>Day Resort Experience</strong> :
+                                                    <ul style="margin-left: 16px; padding-left: 0;">
+                                                        <li>Pool access at <b>Beach Club Resort</b>.</li>
+                                                        <li>Relax on the <b>Private Beach</b> with complimentary sunbeds.</li>
+                                                        <li>Use of <b>Changing Rooms</b> for convenience.</li>
+                                                        <li>Complimentary <b>Buffet Lunch</b> for 2 pax at the resort.</li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <strong>Evening Adventure</strong> :
+                                                    <ul style="margin-left: 16px; padding-left: 0;">
+                                                        <li>Access to <b>Insanity Night Club</b> on Crossroad Island.</li>
+                                                        <li>Enjoy a <b>20% discount on liquor</b> at the nightclub.</li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingFour">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                            <strong>Day 4 : Male City Tour & Departure</strong>
+                                        </button>
+                                    </h2>
+                                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <ul style="margin-left: 8px; padding-left: 0;">
+                                                <li>
+                                                    <strong>Morning</strong> : Breakfast at the guest house.
+                                                </li>
+                                                <li>
+                                                    <strong>Male City Tour</strong> :
+                                                    <ul style="margin-left: 16px; padding-left: 0;">
+                                                        <li>Guided tour of Male city with a multilingual guide (Sinhala, Tamil, and English).</li>
+                                                        <li>Visit key landmarks such as the Islamic Centre, Mulee Aage Palace, and Sultan Park.</li>
+                                                        <li>Explore local markets and shops for souvenirs, spices, and crafts.</li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <strong>Transportation</strong> :
+                                                    <ul style="margin-left: 16px; padding-left: 0;">
+                                                        <li>Transfer from Hulhumale to Male City and back.</li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <strong>Airport Drop</strong> : Private transfer to Velana International Airport for your onward journey.
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingFive">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                            <h4><b>Important Notes</b></h4>
+                                        </button>
+                                    </h2>
+                                    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <ol style="margin-left: 8px; padding-left: 0;">
+                                                <li>
+                                                    <strong>Meals</strong> :
+                                                    <ul style="margin-left: 16px; padding-left: 0;" type="circle">
+                                                        <li>Breakfast provided for all days.</li>
+                                                        <li>Complimentary lunch on Day 2 and Day 3.</li>
+                                                        <li>No lunch provided on Day 1 and Day 4.</li>
+                                                        <li>No Dinner provided for the entire tour.</li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <strong>Guided Tour</strong> :
+                                                    <ul style="margin-left: 16px; padding-left: 0;" type="circle">
+                                                        <li>Male city tour includes a Sinhala, Tamil, and English-speaking guide.</li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <strong>Discounts</strong> :
+                                                    <ul style="margin-left: 16px; padding-left: 0;" type="circle">
+                                                        <li>20% discount on liquor at Insanity Night Club.</li>
+                                                    </ul>
+                                                </li>
+                                            </ol>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
+                            <p class="mt-4 mb-0">Let us know if there’s anything you’d like to adjust or further
+                                enhance in this itinerary!</p>
 
                         </div>
 
