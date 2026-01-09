@@ -179,7 +179,7 @@
 
                 <div class="packages-item">
                     <div class="packages-img">
-                        <img src="../img/Pk1.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                        <img src="../img/Pak1.jpg" class="img-fluid w-100 rounded-top" alt="Image">
                         <div class="packages-info d-flex border border-start-0 border-end-0 position-absolute"
                             style="width: 100%; bottom: 0; left: 0; z-index: 5;">
                             <small class="flex-fill text-center border-end py-2"><i
@@ -192,8 +192,8 @@
                     </div>
                     <div class="packages-content bg-light">
                         <div class="p-4 pb-0">
-                            <h5 class="mb-0">Moldives</h5>
-                            <small class="text-uppercase">Hotel Deals</small>
+                            <h5 class="mb-0">Moldives Tour One</h5>
+                            <small class="text-uppercase">Budget Deals</small>
                             <div class="mb-3">
                                 <small class="fa fa-star text-primary"></small>
                                 <small class="fa fa-star text-primary"></small>
@@ -203,6 +203,13 @@
                             </div>
                             <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt nemo quia
                                 quae illum aperiam fugiat voluptatem repellat</p>
+
+
+
+
+
+
+                                
                         </div>
                         <div class="row bg-primary rounded-bottom mx-0">
                             <div class="col-6 text-start px-0">
@@ -217,14 +224,14 @@
 
                 <div class="packages-item">
                     <div class="packages-img">
-                        <img src="img/packages-2.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                        <img src="../img/Pak1.jpg" class="img-fluid w-100 rounded-top" alt="Image">
                         <div class="packages-info d-flex border border-start-0 border-end-0 position-absolute"
                             style="width: 100%; bottom: 0; left: 0; z-index: 5;">
                             <small class="flex-fill text-center border-end py-2"><i
-                                    class="fa fa-map-marker-alt me-2"></i>Venice - Italy</small>
+                                    class="fa fa-map-marker-alt me-2"></i>Moldives</small>
                             <small class="flex-fill text-center border-end py-2"><i
-                                    class="fa fa-calendar-alt me-2"></i>3 days</small>
-                            <small class="flex-fill text-center py-2"><i class="fa fa-user me-2"></i>2 Person</small>
+                                    class="fa fa-calendar-alt me-2"></i>4 days</small>
+                            <small class="flex-fill text-center py-2"><i class="fa fa-user me-2"></i>1 Person</small>
                         </div>
                         <!-- <div class="packages-price py-2 px-4">$449.00</div> -->
                     </div>
@@ -255,16 +262,16 @@
 
                 <div class="packages-item">
                     <div class="packages-img">
-                        <img src="img/packages-3.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                        <img src="../img/Pak1.jpg" class="img-fluid w-100 rounded-top" alt="Image">
                         <div class="packages-info d-flex border border-start-0 border-end-0 position-absolute"
                             style="width: 100%; bottom: 0; left: 0; z-index: 5;">
                             <small class="flex-fill text-center border-end py-2"><i
-                                    class="fa fa-map-marker-alt me-2"></i>Venice - Italy</small>
+                                    class="fa fa-map-marker-alt me-2"></i>Moldives</small>
                             <small class="flex-fill text-center border-end py-2"><i
-                                    class="fa fa-calendar-alt me-2"></i>3 days</small>
-                            <small class="flex-fill text-center py-2"><i class="fa fa-user me-2"></i>2 Person</small>
+                                    class="fa fa-calendar-alt me-2"></i>4 days</small>
+                            <small class="flex-fill text-center py-2"><i class="fa fa-user me-2"></i>1 Person</small>
                         </div>
-                        <div class="packages-price py-2 px-4">$549.00</div>
+                        <!-- <div class="packages-price py-2 px-4">$549.00</div> -->
                     </div>
                     <div class="packages-content bg-light">
                         <div class="p-4 pb-0">
@@ -290,18 +297,19 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="packages-item">
                     <div class="packages-img">
-                        <img src="img/packages-1.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                        <img src="../img/Pak1.jpg" class="img-fluid w-100 rounded-top" alt="Image">
                         <div class="packages-info d-flex border border-start-0 border-end-0 position-absolute"
                             style="width: 100%; bottom: 0; left: 0; z-index: 5;">
                             <small class="flex-fill text-center border-end py-2"><i
-                                    class="fa fa-map-marker-alt me-2"></i>Thayland</small>
+                                    class="fa fa-map-marker-alt me-2"></i>Moldives</small>
                             <small class="flex-fill text-center border-end py-2"><i
-                                    class="fa fa-calendar-alt me-2"></i>3 days</small>
-                            <small class="flex-fill text-center py-2"><i class="fa fa-user me-2"></i>2 Person</small>
+                                    class="fa fa-calendar-alt me-2"></i>4 days</small>
+                            <small class="flex-fill text-center py-2"><i class="fa fa-user me-2"></i>1 Person</small>
                         </div>
-                        <div class="packages-price py-2 px-4">$649.00</div>
+                        <!-- <div class="packages-price py-2 px-4">$649.00</div> -->
                     </div>
                     <div class="packages-content bg-light">
                         <div class="p-4 pb-0">
