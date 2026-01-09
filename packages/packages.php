@@ -192,7 +192,7 @@
                     </div>
                     <div class="packages-content bg-light">
                         <div class="p-4 pb-0">
-                            <h5 class="mb-0">Moldives Tour One</h5>
+                            <h5 class="mb-0">Moldives Package 01</h5>
                             <small class="text-uppercase">Budget Deals</small>
                             <div class="mb-3">
                                 <small class="fa fa-star text-primary"></small>
@@ -201,21 +201,74 @@
                                 <small class="fa fa-star text-primary"></small>
                                 <small class="fa fa-star text-primary"></small>
                             </div>
-                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt nemo quia
-                                quae illum aperiam fugiat voluptatem repellat</p>
+                            <p class="mb-4">Experience a perfectly balanced getaway with comfortable stays, guided sightseeing, and hassle-free travel designed for unforgettable memories.</p>
 
 
-
-
-
-
-                                
-                        </div>
-                        <div class="row bg-primary rounded-bottom mx-0">
-                            <div class="col-6 text-start px-0">
-                                <a href="#" class="btn-hover btn text-white py-2 px-4">Read More</a>
+                            <div class="accordion" id="accordionExample">
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingOne">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                            <strong>Day 1: Arrival & Check-In</strong>
+                                        </button>
+                                    </h2>
+                                    <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <ul>
+                                                <li>
+                                                    <strong>Airport Pickup</strong> : Meet and greet at Velana International Airport for 2 pax with standard
+                                                    baggage.
+                                                </li>
+                                                <li>
+                                                    <strong>Sim Card</strong> : Receive a local SIM card with data for 3 days to stay connected.
+                                                </li>
+                                                <li>
+                                                    <strong>Accommodation</strong> : 
+                                                    <ul>
+                                                        <li>Check-in at a <b>Guest House in Hulhumale</b> with the following facilities: 
+                                                    <ul>
+                                                        <li>Mini Budget Room (No View)</li>
+                                                    </ul>
+                                                    </li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                            DAY 2
+                                        </button>
+                                    </h2>
+                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                            DAY 3
+                                        </button>
+                                    </h2>
+                                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="col-6 text-end px-0">
+
+                        </div>
+
+                        <br>
+                        <div class="row bg-primary rounded-bottom mx-0">
+                            <!-- <div class="col-6 text-start px-0">
+                                <a href="#" class="btn-hover btn text-white py-2 px-4">Read More</a>
+                            </div> -->
+                            <div class="col-12 text-center px-0">
                                 <a href="index.php#bookTour" class="btn-hover btn text-white py-2 px-4">Book Now</a>
                             </div>
                         </div>
@@ -237,8 +290,8 @@
                     </div>
                     <div class="packages-content bg-light">
                         <div class="p-4 pb-0">
-                            <h5 class="mb-0">The New California</h5>
-                            <small class="text-uppercase">Hotel Deals</small>
+                            <h5 class="mb-0">Moldives Package 02</h5>
+                            <small class="text-uppercase">Budget Deals</small>
                             <div class="mb-3">
                                 <small class="fa fa-star text-primary"></small>
                                 <small class="fa fa-star text-primary"></small>
@@ -246,8 +299,7 @@
                                 <small class="fa fa-star text-primary"></small>
                                 <small class="fa fa-star text-primary"></small>
                             </div>
-                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt nemo quia
-                                quae illum aperiam fugiat voluptatem repellat</p>
+                            <p class="mb-4">Enjoy a budget-friendly tour packed with must-see attractions, cozy accommodations, and smooth transportation throughout your journey.</p>
                         </div>
                         <div class="row bg-primary rounded-bottom mx-0">
                             <div class="col-6 text-start px-0">
@@ -275,8 +327,8 @@
                     </div>
                     <div class="packages-content bg-light">
                         <div class="p-4 pb-0">
-                            <h5 class="mb-0">Discover Japan</h5>
-                            <small class="text-uppercase">Hotel Deals</small>
+                            <h5 class="mb-0">Moldives Package 03</h5>
+                            <small class="text-uppercase">Budget Deals</small>
                             <div class="mb-3">
                                 <small class="fa fa-star text-primary"></small>
                                 <small class="fa fa-star text-primary"></small>
@@ -284,8 +336,7 @@
                                 <small class="fa fa-star text-primary"></small>
                                 <small class="fa fa-star text-primary"></small>
                             </div>
-                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt nemo quia
-                                quae illum aperiam fugiat voluptatem repellat</p>
+                            <p class="mb-4">Discover stunning destinations with expertly planned itineraries, ensuring relaxation, adventure, and cultural highlights in one package.</p>
                         </div>
                         <div class="row bg-primary rounded-bottom mx-0">
                             <div class="col-6 text-start px-0">
@@ -313,8 +364,8 @@
                     </div>
                     <div class="packages-content bg-light">
                         <div class="p-4 pb-0">
-                            <h5 class="mb-0">Thayland Trip</h5>
-                            <small class="text-uppercase">Hotel Deals</small>
+                            <h5 class="mb-0">Moldives Package 04</h5>
+                            <small class="text-uppercase">Budget Deals</small>
                             <div class="mb-3">
                                 <small class="fa fa-star text-primary"></small>
                                 <small class="fa fa-star text-primary"></small>
@@ -322,8 +373,7 @@
                                 <small class="fa fa-star text-primary"></small>
                                 <small class="fa fa-star text-primary"></small>
                             </div>
-                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt nemo quia
-                                quae illum aperiam fugiat voluptatem repellat</p>
+                            <p class="mb-4">Ideal for travelers seeking value and comfort, this package offers scenic views, curated experiences, and seamless travel arrangements.</p>
                         </div>
                         <div class="row bg-primary rounded-bottom mx-0">
                             <div class="col-6 text-start px-0">
